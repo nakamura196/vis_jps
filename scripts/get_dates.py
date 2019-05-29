@@ -68,7 +68,7 @@ for item in data:
         date, url)
 
 # Report on dates
-dates = sorted(dates, key=lambda d: d['count'], reverse=True)
+dates = sorted(dates, key=lambda d: d['value'])
 pprint(dates)
 
 # Write out data

@@ -22,7 +22,7 @@ GROUP_THRESHOLD = int(sys.argv[6])
 MIN_GROUP_ROWS = int(sys.argv[7])
 
 labels = [
-    {'id': 'centuries', 'label': 'Century Created', 'markers': []},
+    {'id': 'centuries', 'label': 'Temporal', 'markers': []},
     {'id': 'genres', 'label': 'Genre', 'markers': []},
     {'id': 'collections', 'label': 'Collection', 'markers': []},
     {'id': 'colors', 'label': 'Color', 'markers': []}
