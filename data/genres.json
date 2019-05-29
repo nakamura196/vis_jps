@@ -1,0 +1,128 @@
+[
+    {
+        "count": 5057,
+        "index": 16,
+        "label": "図書",
+        "url": "https://jpsearch.go.jp/term/type/図書",
+        "value": "図書"
+    },
+    {
+        "count": 2702,
+        "index": 14,
+        "label": "古書・古文書",
+        "url": "https://jpsearch.go.jp/term/type/古書・古文書",
+        "value": "古書・古文書"
+    },
+    {
+        "count": 657,
+        "index": 13,
+        "label": "静止画資料",
+        "url": "https://jpsearch.go.jp/term/type/静止画資料",
+        "value": "静止画資料"
+    },
+    {
+        "count": 616,
+        "index": 1,
+        "label": "絵画",
+        "url": "https://jpsearch.go.jp/term/type/絵画",
+        "value": "絵画"
+    },
+    {
+        "count": 237,
+        "index": 3,
+        "label": "彫刻",
+        "url": "https://jpsearch.go.jp/term/type/彫刻",
+        "value": "彫刻"
+    },
+    {
+        "count": 134,
+        "index": 4,
+        "label": "書跡",
+        "url": "https://jpsearch.go.jp/term/type/書跡",
+        "value": "書跡"
+    },
+    {
+        "count": 132,
+        "index": 0,
+        "label": "考古",
+        "url": "https://jpsearch.go.jp/term/type/考古",
+        "value": "考古"
+    },
+    {
+        "count": 104,
+        "index": 12,
+        "label": "法隆寺宝物",
+        "url": "https://jpsearch.go.jp/term/type/法隆寺宝物",
+        "value": "法隆寺宝物"
+    },
+    {
+        "count": 88,
+        "index": 15,
+        "label": "雑誌",
+        "url": "https://jpsearch.go.jp/term/type/雑誌",
+        "value": "雑誌"
+    },
+    {
+        "count": 47,
+        "index": 5,
+        "label": "金工",
+        "url": "https://jpsearch.go.jp/term/type/金工",
+        "value": "金工"
+    },
+    {
+        "count": 45,
+        "index": 7,
+        "label": "陶磁",
+        "url": "https://jpsearch.go.jp/term/type/陶磁",
+        "value": "陶磁"
+    },
+    {
+        "count": 30,
+        "index": 2,
+        "label": "工芸",
+        "url": "https://jpsearch.go.jp/term/type/工芸",
+        "value": "工芸"
+    },
+    {
+        "count": 30,
+        "index": 6,
+        "label": "刀剣",
+        "url": "https://jpsearch.go.jp/term/type/刀剣",
+        "value": "刀剣"
+    },
+    {
+        "count": 18,
+        "index": 11,
+        "label": "民族資料",
+        "url": "https://jpsearch.go.jp/term/type/民族資料",
+        "value": "民族資料"
+    },
+    {
+        "count": 12,
+        "index": 8,
+        "label": "漆工",
+        "url": "https://jpsearch.go.jp/term/type/漆工",
+        "value": "漆工"
+    },
+    {
+        "count": 12,
+        "index": 10,
+        "label": "歴史資料",
+        "url": "https://jpsearch.go.jp/term/type/歴史資料",
+        "value": "歴史資料"
+    },
+    {
+        "count": 3,
+        "index": 9,
+        "label": "染織",
+        "url": "https://jpsearch.go.jp/term/type/染織",
+        "value": "染織"
+    },
+    {
+        "count": 1,
+        "index": 17,
+        "label": "アーカイブ資料",
+        "url": "https://jpsearch.go.jp/term/type/アーカイブ資料",
+        "value": "アーカイブ資料"
+    }
+]

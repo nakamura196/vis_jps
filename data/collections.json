@@ -1,0 +1,16 @@
+[
+    {
+        "count": 8505,
+        "index": 1,
+        "label": "国立国会図書館デジタルコレクション",
+        "url": "http://dl.ndl.go.jp/",
+        "value": "国立国会図書館デジタルコレクション"
+    },
+    {
+        "count": 1420,
+        "index": 0,
+        "label": "国立博物館所蔵品統合検索システム",
+        "url": "https://colbase.nich.go.jp/",
+        "value": "国立博物館所蔵品統合検索システム"
+    }
+]
