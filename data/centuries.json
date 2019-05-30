@@ -1,6 +1,6 @@
 [
     {
-        "count": 1031,
+        "count": 48693,
         "index": 47,
         "label": "Unknown",
         "url": "",
@@ -8,6 +8,20 @@
     },
     {
         "count": 1,
+        "index": 926,
+        "label": "0001-0099",
+        "url": "https://jpsearch.go.jp/entity/time/0001-0099",
+        "value": "0001-0099"
+    },
+    {
+        "count": 7,
+        "index": 678,
+        "label": "0001-0199",
+        "url": "https://jpsearch.go.jp/entity/time/0001-0199",
+        "value": "0001-0199"
+    },
+    {
+        "count": 27,
         "index": 146,
         "label": "0001-0299",
         "url": "https://jpsearch.go.jp/entity/time/0001-0299",
@@ -21,7 +35,14 @@
         "value": "0001-0399"
     },
     {
-        "count": 1,
+        "count": 2,
+        "index": 920,
+        "label": "0003",
+        "url": "https://jpsearch.go.jp/entity/time/0003",
+        "value": "0003"
+    },
+    {
+        "count": 3,
         "index": 99,
         "label": "0004bce-0004",
         "url": "https://jpsearch.go.jp/entity/time/0004BCE-0004",
@@ -29,76 +50,146 @@
     },
     {
         "count": 1,
+        "index": 1032,
+        "label": "0007-1890",
+        "url": "https://jpsearch.go.jp/entity/time/0007-1890",
+        "value": "0007-1890"
+    },
+    {
+        "count": 1,
+        "index": 881,
+        "label": "0008bce",
+        "url": "https://jpsearch.go.jp/entity/time/0008BCE",
+        "value": "0008BCE"
+    },
+    {
+        "count": 1,
+        "index": 922,
+        "label": "0066",
+        "url": "https://jpsearch.go.jp/entity/time/0066",
+        "value": "0066"
+    },
+    {
+        "count": 1,
+        "index": 687,
+        "label": "0099bce-0001bce",
+        "url": "https://jpsearch.go.jp/entity/time/0099BCE-0001BCE",
+        "value": "0099BCE-0001BCE"
+    },
+    {
+        "count": 10,
         "index": 144,
         "label": "0099bce-0099",
         "url": "https://jpsearch.go.jp/entity/time/0099BCE-0099",
         "value": "0099BCE-0099"
     },
     {
-        "count": 1,
+        "count": 5,
+        "index": 679,
+        "label": "0099bce-0199",
+        "url": "https://jpsearch.go.jp/entity/time/0099BCE-0199",
+        "value": "0099BCE-0199"
+    },
+    {
+        "count": 3,
+        "index": 663,
+        "label": "0100-0199",
+        "url": "https://jpsearch.go.jp/entity/time/0100-0199",
+        "value": "0100-0199"
+    },
+    {
+        "count": 24,
         "index": 222,
         "label": "0100-0299",
         "url": "https://jpsearch.go.jp/entity/time/0100-0299",
         "value": "0100-0299"
     },
     {
-        "count": 4,
+        "count": 1,
+        "index": 863,
+        "label": "0100-0399",
+        "url": "https://jpsearch.go.jp/entity/time/0100-0399",
+        "value": "0100-0399"
+    },
+    {
+        "count": 54,
         "index": 137,
         "label": "0199bce-0001bce",
         "url": "https://jpsearch.go.jp/entity/time/0199BCE-0001BCE",
         "value": "0199BCE-0001BCE"
     },
     {
-        "count": 3,
+        "count": 7,
+        "index": 684,
+        "label": "0199bce-0100bce",
+        "url": "https://jpsearch.go.jp/entity/time/0199BCE-0100BCE",
+        "value": "0199BCE-0100BCE"
+    },
+    {
+        "count": 4,
+        "index": 699,
+        "label": "0199bce-0299",
+        "url": "https://jpsearch.go.jp/entity/time/0199BCE-0299",
+        "value": "0199BCE-0299"
+    },
+    {
+        "count": 11,
         "index": 34,
         "label": "0200-0299",
         "url": "https://jpsearch.go.jp/entity/time/0200-0299",
         "value": "0200-0299"
     },
     {
-        "count": 1,
+        "count": 10,
         "index": 218,
         "label": "0200-0399",
         "url": "https://jpsearch.go.jp/entity/time/0200-0399",
         "value": "0200-0399"
     },
     {
-        "count": 1,
+        "count": 6,
         "index": 223,
         "label": "0200-0499",
         "url": "https://jpsearch.go.jp/entity/time/0200-0499",
         "value": "0200-0499"
     },
     {
-        "count": 1,
+        "count": 16,
         "index": 86,
         "label": "0299bce-0001bce",
         "url": "https://jpsearch.go.jp/entity/time/0299BCE-0001BCE",
         "value": "0299BCE-0001BCE"
     },
     {
-        "count": 2,
+        "count": 12,
         "index": 40,
         "label": "0299bce-0100bce",
         "url": "https://jpsearch.go.jp/entity/time/0299BCE-0100BCE",
         "value": "0299BCE-0100BCE"
     },
     {
-        "count": 1,
+        "count": 3,
+        "index": 701,
+        "label": "0299bce-0200bce",
+        "url": "https://jpsearch.go.jp/entity/time/0299BCE-0200BCE",
+        "value": "0299BCE-0200BCE"
+    },
+    {
+        "count": 2,
         "index": 27,
         "label": "0299bce-0299",
         "url": "https://jpsearch.go.jp/entity/time/0299BCE-0299",
         "value": "0299BCE-0299"
     },
     {
-        "count": 16,
+        "count": 105,
         "index": 0,
         "label": "0300-0399",
         "url": "https://jpsearch.go.jp/entity/time/0300-0399",
         "value": "0300-0399"
     },
     {
-        "count": 4,
+        "count": 55,
         "index": 141,
         "label": "0300-0499",
         "url": "https://jpsearch.go.jp/entity/time/0300-0499",
@@ -106,27 +197,48 @@
     },
     {
         "count": 2,
+        "index": 860,
+        "label": "0300-0599",
+        "url": "https://jpsearch.go.jp/entity/time/0300-0599",
+        "value": "0300-0599"
+    },
+    {
+        "count": 1,
+        "index": 693,
+        "label": "0323bce-0030bce",
+        "url": "https://jpsearch.go.jp/entity/time/0323BCE-0030BCE",
+        "value": "0323BCE-0030BCE"
+    },
+    {
+        "count": 2,
+        "index": 731,
+        "label": "0399bce-0001bce",
+        "url": "https://jpsearch.go.jp/entity/time/0399BCE-0001BCE",
+        "value": "0399BCE-0001BCE"
+    },
+    {
+        "count": 9,
         "index": 145,
         "label": "0399bce-0200bce",
         "url": "https://jpsearch.go.jp/entity/time/0399BCE-0200BCE",
         "value": "0399BCE-0200BCE"
     },
     {
-        "count": 1,
+        "count": 4,
         "index": 101,
         "label": "0399bce-0300bce",
         "url": "https://jpsearch.go.jp/entity/time/0399BCE-0300BCE",
         "value": "0399BCE-0300BCE"
     },
     {
-        "count": 8,
+        "count": 92,
         "index": 125,
         "label": "0400-0499",
         "url": "https://jpsearch.go.jp/entity/time/0400-0499",
         "value": "0400-0499"
     },
     {
-        "count": 3,
+        "count": 97,
         "index": 19,
         "label": "0400-0599",
         "url": "https://jpsearch.go.jp/entity/time/0400-0599",
@@ -141,24 +253,80 @@
     },
     {
         "count": 2,
+        "index": 923,
+        "label": "0414",
+        "url": "https://jpsearch.go.jp/entity/time/0414",
+        "value": "0414"
+    },
+    {
+        "count": 1,
+        "index": 739,
+        "label": "0443",
+        "url": "https://jpsearch.go.jp/entity/time/0443",
+        "value": "0443"
+    },
+    {
+        "count": 1,
+        "index": 781,
+        "label": "0489",
+        "url": "https://jpsearch.go.jp/entity/time/0489",
+        "value": "0489"
+    },
+    {
+        "count": 1,
+        "index": 564,
+        "label": "0495",
+        "url": "https://jpsearch.go.jp/entity/time/0495",
+        "value": "0495"
+    },
+    {
+        "count": 10,
         "index": 213,
         "label": "0499bce-0200bce",
         "url": "https://jpsearch.go.jp/entity/time/0499BCE-0200BCE",
         "value": "0499BCE-0200BCE"
     },
     {
-        "count": 17,
+        "count": 9,
+        "index": 680,
+        "label": "0499bce-0300bce",
+        "url": "https://jpsearch.go.jp/entity/time/0499BCE-0300BCE",
+        "value": "0499BCE-0300BCE"
+    },
+    {
+        "count": 2,
+        "index": 692,
+        "label": "0499bce-0400bce",
+        "url": "https://jpsearch.go.jp/entity/time/0499BCE-0400BCE",
+        "value": "0499BCE-0400BCE"
+    },
+    {
+        "count": 137,
         "index": 41,
         "label": "0500-0599",
         "url": "https://jpsearch.go.jp/entity/time/0500-0599",
         "value": "0500-0599"
     },
     {
-        "count": 3,
+        "count": 24,
         "index": 76,
         "label": "0500-0699",
         "url": "https://jpsearch.go.jp/entity/time/0500-0699",
         "value": "0500-0699"
+    },
+    {
+        "count": 1,
+        "index": 740,
+        "label": "0500-0799",
+        "url": "https://jpsearch.go.jp/entity/time/0500-0799",
+        "value": "0500-0799"
+    },
+    {
+        "count": 2,
+        "index": 707,
+        "label": "0500-1199",
+        "url": "https://jpsearch.go.jp/entity/time/0500-1199",
+        "value": "0500-1199"
     },
     {
         "count": 1,
@@ -169,10 +337,59 @@
     },
     {
         "count": 1,
+        "index": 566,
+        "label": "0524",
+        "url": "https://jpsearch.go.jp/entity/time/0524",
+        "value": "0524"
+    },
+    {
+        "count": 1,
         "index": 206,
         "label": "0542",
         "url": "https://jpsearch.go.jp/entity/time/0542",
         "value": "0542"
+    },
+    {
+        "count": 2,
+        "index": 562,
+        "label": "0552",
+        "url": "https://jpsearch.go.jp/entity/time/0552",
+        "value": "0552"
+    },
+    {
+        "count": 1,
+        "index": 833,
+        "label": "0575",
+        "url": "https://jpsearch.go.jp/entity/time/0575",
+        "value": "0575"
+    },
+    {
+        "count": 1,
+        "index": 875,
+        "label": "0576",
+        "url": "https://jpsearch.go.jp/entity/time/0576",
+        "value": "0576"
+    },
+    {
+        "count": 1,
+        "index": 822,
+        "label": "0585",
+        "url": "https://jpsearch.go.jp/entity/time/0585",
+        "value": "0585"
+    },
+    {
+        "count": 5,
+        "index": 695,
+        "label": "0599bce-0300bce",
+        "url": "https://jpsearch.go.jp/entity/time/0599BCE-0300BCE",
+        "value": "0599BCE-0300BCE"
+    },
+    {
+        "count": 3,
+        "index": 683,
+        "label": "0599bce-0400bce",
+        "url": "https://jpsearch.go.jp/entity/time/0599BCE-0400BCE",
+        "value": "0599BCE-0400BCE"
     },
     {
         "count": 2,
@@ -182,14 +399,14 @@
         "value": "0599BCE-0500BCE"
     },
     {
-        "count": 27,
+        "count": 133,
         "index": 82,
         "label": "0600-0699",
         "url": "https://jpsearch.go.jp/entity/time/0600-0699",
         "value": "0600-0699"
     },
     {
-        "count": 30,
+        "count": 116,
         "index": 126,
         "label": "0600-0799",
         "url": "https://jpsearch.go.jp/entity/time/0600-0799",
@@ -203,21 +420,49 @@
         "value": "0664BCE-0332BCE"
     },
     {
-        "count": 72,
+        "count": 1,
+        "index": 730,
+        "label": "0692",
+        "url": "https://jpsearch.go.jp/entity/time/0692",
+        "value": "0692"
+    },
+    {
+        "count": 3,
+        "index": 685,
+        "label": "0699bce-0500bce",
+        "url": "https://jpsearch.go.jp/entity/time/0699BCE-0500BCE",
+        "value": "0699BCE-0500BCE"
+    },
+    {
+        "count": 2,
+        "index": 838,
+        "label": "0699bce-0600bce",
+        "url": "https://jpsearch.go.jp/entity/time/0699BCE-0600BCE",
+        "value": "0699BCE-0600BCE"
+    },
+    {
+        "count": 1,
+        "index": 1025,
+        "label": "0700",
+        "url": "https://jpsearch.go.jp/entity/time/0700",
+        "value": "0700"
+    },
+    {
+        "count": 268,
         "index": 8,
         "label": "0700-0799",
         "url": "https://jpsearch.go.jp/entity/time/0700-0799",
         "value": "0700-0799"
     },
     {
-        "count": 3,
+        "count": 20,
         "index": 90,
         "label": "0700-0899",
         "url": "https://jpsearch.go.jp/entity/time/0700-0899",
         "value": "0700-0899"
     },
     {
-        "count": 1,
+        "count": 2,
         "index": 98,
         "label": "0700-0999",
         "url": "https://jpsearch.go.jp/entity/time/0700-0999",
@@ -225,6 +470,27 @@
     },
     {
         "count": 2,
+        "index": 762,
+        "label": "0700-1399",
+        "url": "https://jpsearch.go.jp/entity/time/0700-1399",
+        "value": "0700-1399"
+    },
+    {
+        "count": 1,
+        "index": 759,
+        "label": "0702",
+        "url": "https://jpsearch.go.jp/entity/time/0702",
+        "value": "0702"
+    },
+    {
+        "count": 1,
+        "index": 834,
+        "label": "0702-0748",
+        "url": "https://jpsearch.go.jp/entity/time/0702-0748",
+        "value": "0702-0748"
+    },
+    {
+        "count": 5,
         "index": 210,
         "label": "0703",
         "url": "https://jpsearch.go.jp/entity/time/0703",
@@ -232,10 +498,31 @@
     },
     {
         "count": 1,
+        "index": 567,
+        "label": "0704",
+        "url": "https://jpsearch.go.jp/entity/time/0704",
+        "value": "0704"
+    },
+    {
+        "count": 3,
         "index": 156,
         "label": "0707",
         "url": "https://jpsearch.go.jp/entity/time/0707",
         "value": "0707"
+    },
+    {
+        "count": 3,
+        "index": 751,
+        "label": "0714",
+        "url": "https://jpsearch.go.jp/entity/time/0714",
+        "value": "0714"
+    },
+    {
+        "count": 1,
+        "index": 569,
+        "label": "0723",
+        "url": "https://jpsearch.go.jp/entity/time/0723",
+        "value": "0723"
     },
     {
         "count": 1,
@@ -245,11 +532,60 @@
         "value": "0724"
     },
     {
-        "count": 1,
+        "count": 2,
         "index": 78,
         "label": "0728",
         "url": "https://jpsearch.go.jp/entity/time/0728",
         "value": "0728"
+    },
+    {
+        "count": 1,
+        "index": 827,
+        "label": "0729",
+        "url": "https://jpsearch.go.jp/entity/time/0729",
+        "value": "0729"
+    },
+    {
+        "count": 1,
+        "index": 957,
+        "label": "0730",
+        "url": "https://jpsearch.go.jp/entity/time/0730",
+        "value": "0730"
+    },
+    {
+        "count": 2,
+        "index": 746,
+        "label": "0734",
+        "url": "https://jpsearch.go.jp/entity/time/0734",
+        "value": "0734"
+    },
+    {
+        "count": 2,
+        "index": 800,
+        "label": "0734-0743",
+        "url": "https://jpsearch.go.jp/entity/time/0734-0743",
+        "value": "0734-0743"
+    },
+    {
+        "count": 1,
+        "index": 745,
+        "label": "0737",
+        "url": "https://jpsearch.go.jp/entity/time/0737",
+        "value": "0737"
+    },
+    {
+        "count": 2,
+        "index": 1023,
+        "label": "0740",
+        "url": "https://jpsearch.go.jp/entity/time/0740",
+        "value": "0740"
+    },
+    {
+        "count": 2,
+        "index": 799,
+        "label": "0742",
+        "url": "https://jpsearch.go.jp/entity/time/0742",
+        "value": "0742"
     },
     {
         "count": 1,
@@ -264,6 +600,27 @@
         "label": "0749",
         "url": "https://jpsearch.go.jp/entity/time/0749",
         "value": "0749"
+    },
+    {
+        "count": 1,
+        "index": 844,
+        "label": "0752",
+        "url": "https://jpsearch.go.jp/entity/time/0752",
+        "value": "0752"
+    },
+    {
+        "count": 1,
+        "index": 842,
+        "label": "0754",
+        "url": "https://jpsearch.go.jp/entity/time/0754",
+        "value": "0754"
+    },
+    {
+        "count": 1,
+        "index": 843,
+        "label": "0755",
+        "url": "https://jpsearch.go.jp/entity/time/0755",
+        "value": "0755"
     },
     {
         "count": 1,
@@ -287,28 +644,70 @@
         "value": "0758"
     },
     {
+        "count": 4,
+        "index": 744,
+        "label": "0759",
+        "url": "https://jpsearch.go.jp/entity/time/0759",
+        "value": "0759"
+    },
+    {
         "count": 1,
+        "index": 765,
+        "label": "0766",
+        "url": "https://jpsearch.go.jp/entity/time/0766",
+        "value": "0766"
+    },
+    {
+        "count": 3,
         "index": 157,
         "label": "0768",
         "url": "https://jpsearch.go.jp/entity/time/0768",
         "value": "0768"
     },
     {
-        "count": 9,
+        "count": 7,
+        "index": 812,
+        "label": "0770",
+        "url": "https://jpsearch.go.jp/entity/time/0770",
+        "value": "0770"
+    },
+    {
+        "count": 1,
+        "index": 773,
+        "label": "0771",
+        "url": "https://jpsearch.go.jp/entity/time/0771",
+        "value": "0771"
+    },
+    {
+        "count": 1,
+        "index": 988,
+        "label": "0799bce-0600bce",
+        "url": "https://jpsearch.go.jp/entity/time/0799BCE-0600BCE",
+        "value": "0799BCE-0600BCE"
+    },
+    {
+        "count": 1,
+        "index": 811,
+        "label": "0799bce-0700bce",
+        "url": "https://jpsearch.go.jp/entity/time/0799BCE-0700BCE",
+        "value": "0799BCE-0700BCE"
+    },
+    {
+        "count": 48,
         "index": 18,
         "label": "0800-0899",
         "url": "https://jpsearch.go.jp/entity/time/0800-0899",
         "value": "0800-0899"
     },
     {
-        "count": 8,
+        "count": 26,
         "index": 75,
         "label": "0800-0999",
         "url": "https://jpsearch.go.jp/entity/time/0800-0999",
         "value": "0800-0999"
     },
     {
-        "count": 1,
+        "count": 2,
         "index": 35,
         "label": "0800-1099",
         "url": "https://jpsearch.go.jp/entity/time/0800-1099",
@@ -316,6 +715,20 @@
     },
     {
         "count": 1,
+        "index": 798,
+        "label": "0813",
+        "url": "https://jpsearch.go.jp/entity/time/0813",
+        "value": "0813"
+    },
+    {
+        "count": 1,
+        "index": 1083,
+        "label": "0871",
+        "url": "https://jpsearch.go.jp/entity/time/0871",
+        "value": "0871"
+    },
+    {
+        "count": 4,
         "index": 209,
         "label": "0899bce-0600bce",
         "url": "https://jpsearch.go.jp/entity/time/0899BCE-0600BCE",
@@ -323,66 +736,157 @@
     },
     {
         "count": 4,
+        "index": 748,
+        "label": "0899bce-0700bce",
+        "url": "https://jpsearch.go.jp/entity/time/0899BCE-0700BCE",
+        "value": "0899BCE-0700BCE"
+    },
+    {
+        "count": 40,
         "index": 83,
         "label": "0900-0999",
         "url": "https://jpsearch.go.jp/entity/time/0900-0999",
         "value": "0900-0999"
     },
     {
-        "count": 10,
+        "count": 187,
         "index": 7,
         "label": "0900-1099",
         "url": "https://jpsearch.go.jp/entity/time/0900-1099",
         "value": "0900-1099"
     },
     {
-        "count": 1,
+        "count": 5,
         "index": 130,
         "label": "0900-1199",
         "url": "https://jpsearch.go.jp/entity/time/0900-1199",
         "value": "0900-1199"
     },
     {
-        "count": 3,
+        "count": 5,
         "index": 87,
         "label": "0900-1399",
         "url": "https://jpsearch.go.jp/entity/time/0900-1399",
         "value": "0900-1399"
     },
     {
-        "count": 201,
+        "count": 1,
+        "index": 925,
+        "label": "0945bce-0730bce",
+        "url": "https://jpsearch.go.jp/entity/time/0945BCE-0730BCE",
+        "value": "0945BCE-0730BCE"
+    },
+    {
+        "count": 1,
+        "index": 570,
+        "label": "0957",
+        "url": "https://jpsearch.go.jp/entity/time/0957",
+        "value": "0957"
+    },
+    {
+        "count": 1,
+        "index": 984,
+        "label": "0998",
+        "url": "https://jpsearch.go.jp/entity/time/0998",
+        "value": "0998"
+    },
+    {
+        "count": 4,
+        "index": 741,
+        "label": "0999bce-0300bce",
+        "url": "https://jpsearch.go.jp/entity/time/0999BCE-0300BCE",
+        "value": "0999BCE-0300BCE"
+    },
+    {
+        "count": 1,
+        "index": 815,
+        "label": "0999bce-0800bce",
+        "url": "https://jpsearch.go.jp/entity/time/0999BCE-0800BCE",
+        "value": "0999BCE-0800BCE"
+    },
+    {
+        "count": 5834,
         "index": 264,
         "label": "1000",
         "url": "https://jpsearch.go.jp/entity/time/1000",
         "value": "1000"
     },
     {
-        "count": 11,
+        "count": 56,
         "index": 11,
         "label": "1000-1099",
         "url": "https://jpsearch.go.jp/entity/time/1000-1099",
         "value": "1000-1099"
     },
     {
-        "count": 8,
+        "count": 57,
         "index": 2,
         "label": "1000-1199",
         "url": "https://jpsearch.go.jp/entity/time/1000-1199",
         "value": "1000-1199"
     },
     {
-        "count": 5,
+        "count": 1,
+        "index": 876,
+        "label": "1000-1399",
+        "url": "https://jpsearch.go.jp/entity/time/1000-1399",
+        "value": "1000-1399"
+    },
+    {
+        "count": 2,
+        "index": 823,
+        "label": "1000bce",
+        "url": "https://jpsearch.go.jp/entity/time/1000BCE",
+        "value": "1000BCE"
+    },
+    {
+        "count": 29,
         "index": 139,
         "label": "1000bce-0400bce",
         "url": "https://jpsearch.go.jp/entity/time/1000BCE-0400BCE",
         "value": "1000BCE-0400BCE"
     },
     {
-        "count": 1,
+        "count": 2,
         "index": 131,
         "label": "1001",
         "url": "https://jpsearch.go.jp/entity/time/1001",
         "value": "1001"
+    },
+    {
+        "count": 2,
+        "index": 573,
+        "label": "1018",
+        "url": "https://jpsearch.go.jp/entity/time/1018",
+        "value": "1018"
+    },
+    {
+        "count": 1,
+        "index": 985,
+        "label": "1051",
+        "url": "https://jpsearch.go.jp/entity/time/1051",
+        "value": "1051"
+    },
+    {
+        "count": 1,
+        "index": 734,
+        "label": "1069",
+        "url": "https://jpsearch.go.jp/entity/time/1069",
+        "value": "1069"
+    },
+    {
+        "count": 1,
+        "index": 862,
+        "label": "1071",
+        "url": "https://jpsearch.go.jp/entity/time/1071",
+        "value": "1071"
+    },
+    {
+        "count": 1,
+        "index": 835,
+        "label": "1072",
+        "url": "https://jpsearch.go.jp/entity/time/1072",
+        "value": "1072"
     },
     {
         "count": 1,
@@ -392,25 +896,53 @@
         "value": "1079"
     },
     {
-        "count": 2,
+        "count": 1,
+        "index": 859,
+        "label": "1084",
+        "url": "https://jpsearch.go.jp/entity/time/1084",
+        "value": "1084"
+    },
+    {
+        "count": 1,
+        "index": 803,
+        "label": "1090",
+        "url": "https://jpsearch.go.jp/entity/time/1090",
+        "value": "1090"
+    },
+    {
+        "count": 1,
+        "index": 700,
+        "label": "1099bce-0700bce",
+        "url": "https://jpsearch.go.jp/entity/time/1099BCE-0700BCE",
+        "value": "1099BCE-0700BCE"
+    },
+    {
+        "count": 16,
         "index": 28,
         "label": "1099bce-0900bce",
         "url": "https://jpsearch.go.jp/entity/time/1099BCE-0900BCE",
         "value": "1099BCE-0900BCE"
     },
     {
-        "count": 66,
+        "count": 315,
         "index": 12,
         "label": "1100-1199",
         "url": "https://jpsearch.go.jp/entity/time/1100-1199",
         "value": "1100-1199"
     },
     {
-        "count": 7,
+        "count": 167,
         "index": 20,
         "label": "1100-1299",
         "url": "https://jpsearch.go.jp/entity/time/1100-1299",
         "value": "1100-1299"
+    },
+    {
+        "count": 1,
+        "index": 787,
+        "label": "1100-1899",
+        "url": "https://jpsearch.go.jp/entity/time/1100-1899",
+        "value": "1100-1899"
     },
     {
         "count": 1,
@@ -421,10 +953,87 @@
     },
     {
         "count": 2,
+        "index": 825,
+        "label": "1103",
+        "url": "https://jpsearch.go.jp/entity/time/1103",
+        "value": "1103"
+    },
+    {
+        "count": 1,
+        "index": 581,
+        "label": "1105",
+        "url": "https://jpsearch.go.jp/entity/time/1105",
+        "value": "1105"
+    },
+    {
+        "count": 1,
+        "index": 1046,
+        "label": "1110",
+        "url": "https://jpsearch.go.jp/entity/time/1110",
+        "value": "1110"
+    },
+    {
+        "count": 1,
+        "index": 824,
+        "label": "1114",
+        "url": "https://jpsearch.go.jp/entity/time/1114",
+        "value": "1114"
+    },
+    {
+        "count": 1,
+        "index": 855,
+        "label": "1115",
+        "url": "https://jpsearch.go.jp/entity/time/1115",
+        "value": "1115"
+    },
+    {
+        "count": 4,
         "index": 14,
         "label": "1116",
         "url": "https://jpsearch.go.jp/entity/time/1116",
         "value": "1116"
+    },
+    {
+        "count": 1,
+        "index": 845,
+        "label": "1120",
+        "url": "https://jpsearch.go.jp/entity/time/1120",
+        "value": "1120"
+    },
+    {
+        "count": 1,
+        "index": 826,
+        "label": "1124",
+        "url": "https://jpsearch.go.jp/entity/time/1124",
+        "value": "1124"
+    },
+    {
+        "count": 4,
+        "index": 752,
+        "label": "1125",
+        "url": "https://jpsearch.go.jp/entity/time/1125",
+        "value": "1125"
+    },
+    {
+        "count": 2,
+        "index": 1027,
+        "label": "1126",
+        "url": "https://jpsearch.go.jp/entity/time/1126",
+        "value": "1126"
+    },
+    {
+        "count": 1,
+        "index": 1073,
+        "label": "1127",
+        "url": "https://jpsearch.go.jp/entity/time/1127",
+        "value": "1127"
+    },
+    {
+        "count": 2,
+        "index": 944,
+        "label": "1128",
+        "url": "https://jpsearch.go.jp/entity/time/1128",
+        "value": "1128"
     },
     {
         "count": 1,
@@ -442,10 +1051,101 @@
     },
     {
         "count": 1,
+        "index": 1085,
+        "label": "1137",
+        "url": "https://jpsearch.go.jp/entity/time/1137",
+        "value": "1137"
+    },
+    {
+        "count": 5,
+        "index": 970,
+        "label": "1139",
+        "url": "https://jpsearch.go.jp/entity/time/1139",
+        "value": "1139"
+    },
+    {
+        "count": 4,
+        "index": 766,
+        "label": "1141",
+        "url": "https://jpsearch.go.jp/entity/time/1141",
+        "value": "1141"
+    },
+    {
+        "count": 1,
+        "index": 975,
+        "label": "1151",
+        "url": "https://jpsearch.go.jp/entity/time/1151",
+        "value": "1151"
+    },
+    {
+        "count": 1,
+        "index": 952,
+        "label": "1152",
+        "url": "https://jpsearch.go.jp/entity/time/1152",
+        "value": "1152"
+    },
+    {
+        "count": 1,
+        "index": 1026,
+        "label": "1157",
+        "url": "https://jpsearch.go.jp/entity/time/1157",
+        "value": "1157"
+    },
+    {
+        "count": 1,
+        "index": 579,
+        "label": "1159",
+        "url": "https://jpsearch.go.jp/entity/time/1159",
+        "value": "1159"
+    },
+    {
+        "count": 1,
+        "index": 1077,
+        "label": "1161",
+        "url": "https://jpsearch.go.jp/entity/time/1161",
+        "value": "1161"
+    },
+    {
+        "count": 1,
         "index": 128,
         "label": "1162",
         "url": "https://jpsearch.go.jp/entity/time/1162",
         "value": "1162"
+    },
+    {
+        "count": 4,
+        "index": 790,
+        "label": "1163",
+        "url": "https://jpsearch.go.jp/entity/time/1163",
+        "value": "1163"
+    },
+    {
+        "count": 1,
+        "index": 729,
+        "label": "1174",
+        "url": "https://jpsearch.go.jp/entity/time/1174",
+        "value": "1174"
+    },
+    {
+        "count": 1,
+        "index": 839,
+        "label": "1175",
+        "url": "https://jpsearch.go.jp/entity/time/1175",
+        "value": "1175"
+    },
+    {
+        "count": 1,
+        "index": 1013,
+        "label": "1176",
+        "url": "https://jpsearch.go.jp/entity/time/1176",
+        "value": "1176"
+    },
+    {
+        "count": 2,
+        "index": 580,
+        "label": "1178",
+        "url": "https://jpsearch.go.jp/entity/time/1178",
+        "value": "1178"
     },
     {
         "count": 1,
@@ -455,14 +1155,35 @@
         "value": "1186"
     },
     {
+        "count": 1,
+        "index": 959,
+        "label": "1190-1199",
+        "url": "https://jpsearch.go.jp/entity/time/1190-1199",
+        "value": "1190-1199"
+    },
+    {
         "count": 2,
+        "index": 733,
+        "label": "1191",
+        "url": "https://jpsearch.go.jp/entity/time/1191",
+        "value": "1191"
+    },
+    {
+        "count": 6,
         "index": 5,
         "label": "1194",
         "url": "https://jpsearch.go.jp/entity/time/1194",
         "value": "1194"
     },
     {
-        "count": 3,
+        "count": 2,
+        "index": 896,
+        "label": "1195",
+        "url": "https://jpsearch.go.jp/entity/time/1195",
+        "value": "1195"
+    },
+    {
+        "count": 12,
         "index": 142,
         "label": "1196",
         "url": "https://jpsearch.go.jp/entity/time/1196",
@@ -476,32 +1197,67 @@
         "value": "1197"
     },
     {
-        "count": 71,
+        "count": 1,
+        "index": 836,
+        "label": "1198",
+        "url": "https://jpsearch.go.jp/entity/time/1198",
+        "value": "1198"
+    },
+    {
+        "count": 4,
+        "index": 578,
+        "label": "1200",
+        "url": "https://jpsearch.go.jp/entity/time/1200",
+        "value": "1200"
+    },
+    {
+        "count": 324,
         "index": 4,
         "label": "1200-1299",
         "url": "https://jpsearch.go.jp/entity/time/1200-1299",
         "value": "1200-1299"
     },
     {
-        "count": 14,
+        "count": 115,
         "index": 37,
         "label": "1200-1399",
         "url": "https://jpsearch.go.jp/entity/time/1200-1399",
         "value": "1200-1399"
     },
     {
-        "count": 1,
+        "count": 2,
         "index": 42,
         "label": "1200-1499",
         "url": "https://jpsearch.go.jp/entity/time/1200-1499",
         "value": "1200-1499"
     },
     {
-        "count": 1,
+        "count": 2,
         "index": 39,
         "label": "1200-1699",
         "url": "https://jpsearch.go.jp/entity/time/1200-1699",
         "value": "1200-1699"
+    },
+    {
+        "count": 2,
+        "index": 782,
+        "label": "1201",
+        "url": "https://jpsearch.go.jp/entity/time/1201",
+        "value": "1201"
+    },
+    {
+        "count": 1,
+        "index": 837,
+        "label": "1208",
+        "url": "https://jpsearch.go.jp/entity/time/1208",
+        "value": "1208"
+    },
+    {
+        "count": 1,
+        "index": 1074,
+        "label": "1213",
+        "url": "https://jpsearch.go.jp/entity/time/1213",
+        "value": "1213"
     },
     {
         "count": 1,
@@ -511,21 +1267,140 @@
         "value": "1218"
     },
     {
-        "count": 2,
+        "count": 1,
+        "index": 1015,
+        "label": "1219",
+        "url": "https://jpsearch.go.jp/entity/time/1219",
+        "value": "1219"
+    },
+    {
+        "count": 5,
         "index": 21,
         "label": "1220",
         "url": "https://jpsearch.go.jp/entity/time/1220",
         "value": "1220"
     },
     {
-        "count": 2,
+        "count": 3,
+        "index": 753,
+        "label": "1221",
+        "url": "https://jpsearch.go.jp/entity/time/1221",
+        "value": "1221"
+    },
+    {
+        "count": 6,
         "index": 169,
         "label": "1224",
         "url": "https://jpsearch.go.jp/entity/time/1224",
         "value": "1224"
     },
     {
+        "count": 3,
+        "index": 747,
+        "label": "1226",
+        "url": "https://jpsearch.go.jp/entity/time/1226",
+        "value": "1226"
+    },
+    {
         "count": 1,
+        "index": 749,
+        "label": "1228-1343",
+        "url": "https://jpsearch.go.jp/entity/time/1228-1343",
+        "value": "1228-1343"
+    },
+    {
+        "count": 1,
+        "index": 738,
+        "label": "1229",
+        "url": "https://jpsearch.go.jp/entity/time/1229",
+        "value": "1229"
+    },
+    {
+        "count": 1,
+        "index": 755,
+        "label": "1231",
+        "url": "https://jpsearch.go.jp/entity/time/1231",
+        "value": "1231"
+    },
+    {
+        "count": 1,
+        "index": 929,
+        "label": "1233",
+        "url": "https://jpsearch.go.jp/entity/time/1233",
+        "value": "1233"
+    },
+    {
+        "count": 9,
+        "index": 758,
+        "label": "1236",
+        "url": "https://jpsearch.go.jp/entity/time/1236",
+        "value": "1236"
+    },
+    {
+        "count": 1,
+        "index": 972,
+        "label": "1238",
+        "url": "https://jpsearch.go.jp/entity/time/1238",
+        "value": "1238"
+    },
+    {
+        "count": 1,
+        "index": 772,
+        "label": "1242",
+        "url": "https://jpsearch.go.jp/entity/time/1242",
+        "value": "1242"
+    },
+    {
+        "count": 1,
+        "index": 856,
+        "label": "1245",
+        "url": "https://jpsearch.go.jp/entity/time/1245",
+        "value": "1245"
+    },
+    {
+        "count": 1,
+        "index": 973,
+        "label": "1246",
+        "url": "https://jpsearch.go.jp/entity/time/1246",
+        "value": "1246"
+    },
+    {
+        "count": 1,
+        "index": 660,
+        "label": "1247",
+        "url": "https://jpsearch.go.jp/entity/time/1247",
+        "value": "1247"
+    },
+    {
+        "count": 2,
+        "index": 754,
+        "label": "1248",
+        "url": "https://jpsearch.go.jp/entity/time/1248",
+        "value": "1248"
+    },
+    {
+        "count": 1,
+        "index": 1071,
+        "label": "1250",
+        "url": "https://jpsearch.go.jp/entity/time/1250",
+        "value": "1250"
+    },
+    {
+        "count": 1,
+        "index": 979,
+        "label": "1251",
+        "url": "https://jpsearch.go.jp/entity/time/1251",
+        "value": "1251"
+    },
+    {
+        "count": 1,
+        "index": 804,
+        "label": "1252",
+        "url": "https://jpsearch.go.jp/entity/time/1252",
+        "value": "1252"
+    },
+    {
+        "count": 2,
         "index": 73,
         "label": "1254",
         "url": "https://jpsearch.go.jp/entity/time/1254",
@@ -533,13 +1408,41 @@
     },
     {
         "count": 1,
+        "index": 764,
+        "label": "1255",
+        "url": "https://jpsearch.go.jp/entity/time/1255",
+        "value": "1255"
+    },
+    {
+        "count": 2,
+        "index": 801,
+        "label": "1256",
+        "url": "https://jpsearch.go.jp/entity/time/1256",
+        "value": "1256"
+    },
+    {
+        "count": 1,
+        "index": 916,
+        "label": "1258",
+        "url": "https://jpsearch.go.jp/entity/time/1258",
+        "value": "1258"
+    },
+    {
+        "count": 1,
+        "index": 575,
+        "label": "1259",
+        "url": "https://jpsearch.go.jp/entity/time/1259",
+        "value": "1259"
+    },
+    {
+        "count": 2,
         "index": 108,
         "label": "1267",
         "url": "https://jpsearch.go.jp/entity/time/1267",
         "value": "1267"
     },
     {
-        "count": 1,
+        "count": 4,
         "index": 119,
         "label": "1269",
         "url": "https://jpsearch.go.jp/entity/time/1269",
@@ -547,38 +1450,59 @@
     },
     {
         "count": 1,
+        "index": 802,
+        "label": "1270",
+        "url": "https://jpsearch.go.jp/entity/time/1270",
+        "value": "1270"
+    },
+    {
+        "count": 16,
+        "index": 725,
+        "label": "1271",
+        "url": "https://jpsearch.go.jp/entity/time/1271",
+        "value": "1271"
+    },
+    {
+        "count": 2,
         "index": 80,
         "label": "1273",
         "url": "https://jpsearch.go.jp/entity/time/1273",
         "value": "1273"
     },
     {
-        "count": 2,
+        "count": 8,
         "index": 70,
         "label": "1275",
         "url": "https://jpsearch.go.jp/entity/time/1275",
         "value": "1275"
     },
     {
-        "count": 2,
+        "count": 10,
         "index": 30,
         "label": "1276",
         "url": "https://jpsearch.go.jp/entity/time/1276",
         "value": "1276"
     },
     {
-        "count": 1,
+        "count": 21,
         "index": 374,
         "label": "1277",
         "url": "https://jpsearch.go.jp/entity/time/1277",
         "value": "1277"
     },
     {
-        "count": 1,
+        "count": 2,
         "index": 91,
         "label": "1278",
         "url": "https://jpsearch.go.jp/entity/time/1278",
         "value": "1278"
+    },
+    {
+        "count": 1,
+        "index": 1043,
+        "label": "1279",
+        "url": "https://jpsearch.go.jp/entity/time/1279",
+        "value": "1279"
     },
     {
         "count": 1,
@@ -589,6 +1513,27 @@
     },
     {
         "count": 1,
+        "index": 930,
+        "label": "1284",
+        "url": "https://jpsearch.go.jp/entity/time/1284",
+        "value": "1284"
+    },
+    {
+        "count": 8,
+        "index": 965,
+        "label": "1288",
+        "url": "https://jpsearch.go.jp/entity/time/1288",
+        "value": "1288"
+    },
+    {
+        "count": 1,
+        "index": 864,
+        "label": "1289",
+        "url": "https://jpsearch.go.jp/entity/time/1289",
+        "value": "1289"
+    },
+    {
+        "count": 2,
         "index": 133,
         "label": "1292",
         "url": "https://jpsearch.go.jp/entity/time/1292",
@@ -596,31 +1541,80 @@
     },
     {
         "count": 1,
+        "index": 857,
+        "label": "1294",
+        "url": "https://jpsearch.go.jp/entity/time/1294",
+        "value": "1294"
+    },
+    {
+        "count": 1,
+        "index": 727,
+        "label": "1295",
+        "url": "https://jpsearch.go.jp/entity/time/1295",
+        "value": "1295"
+    },
+    {
+        "count": 1,
+        "index": 961,
+        "label": "1296",
+        "url": "https://jpsearch.go.jp/entity/time/1296",
+        "value": "1296"
+    },
+    {
+        "count": 1,
+        "index": 982,
+        "label": "1298",
+        "url": "https://jpsearch.go.jp/entity/time/1298",
+        "value": "1298"
+    },
+    {
+        "count": 13,
         "index": 208,
         "label": "1299bce-1000bce",
         "url": "https://jpsearch.go.jp/entity/time/1299BCE-1000BCE",
         "value": "1299BCE-1000BCE"
     },
     {
-        "count": 2,
+        "count": 47,
         "index": 326,
         "label": "1300",
         "url": "https://jpsearch.go.jp/entity/time/1300",
         "value": "1300"
     },
     {
-        "count": 41,
+        "count": 279,
         "index": 13,
         "label": "1300-1399",
         "url": "https://jpsearch.go.jp/entity/time/1300-1399",
         "value": "1300-1399"
     },
     {
-        "count": 11,
+        "count": 261,
         "index": 3,
         "label": "1300-1499",
         "url": "https://jpsearch.go.jp/entity/time/1300-1499",
         "value": "1300-1499"
+    },
+    {
+        "count": 2,
+        "index": 728,
+        "label": "1300-1599",
+        "url": "https://jpsearch.go.jp/entity/time/1300-1599",
+        "value": "1300-1599"
+    },
+    {
+        "count": 6,
+        "index": 732,
+        "label": "1300-1699",
+        "url": "https://jpsearch.go.jp/entity/time/1300-1699",
+        "value": "1300-1699"
+    },
+    {
+        "count": 1,
+        "index": 991,
+        "label": "1300-1899",
+        "url": "https://jpsearch.go.jp/entity/time/1300-1899",
+        "value": "1300-1899"
     },
     {
         "count": 1,
@@ -630,14 +1624,14 @@
         "value": "1302"
     },
     {
-        "count": 1,
+        "count": 6,
         "index": 160,
         "label": "1305",
         "url": "https://jpsearch.go.jp/entity/time/1305",
         "value": "1305"
     },
     {
-        "count": 1,
+        "count": 3,
         "index": 216,
         "label": "1306",
         "url": "https://jpsearch.go.jp/entity/time/1306",
@@ -645,10 +1639,59 @@
     },
     {
         "count": 1,
+        "index": 1079,
+        "label": "1307",
+        "url": "https://jpsearch.go.jp/entity/time/1307",
+        "value": "1307"
+    },
+    {
+        "count": 2,
+        "index": 750,
+        "label": "1310",
+        "url": "https://jpsearch.go.jp/entity/time/1310",
+        "value": "1310"
+    },
+    {
+        "count": 1,
+        "index": 978,
+        "label": "1312",
+        "url": "https://jpsearch.go.jp/entity/time/1312",
+        "value": "1312"
+    },
+    {
+        "count": 5,
         "index": 425,
         "label": "1313",
         "url": "https://jpsearch.go.jp/entity/time/1313",
         "value": "1313"
+    },
+    {
+        "count": 1,
+        "index": 853,
+        "label": "1314",
+        "url": "https://jpsearch.go.jp/entity/time/1314",
+        "value": "1314"
+    },
+    {
+        "count": 1,
+        "index": 851,
+        "label": "1315",
+        "url": "https://jpsearch.go.jp/entity/time/1315",
+        "value": "1315"
+    },
+    {
+        "count": 1,
+        "index": 1081,
+        "label": "1318",
+        "url": "https://jpsearch.go.jp/entity/time/1318",
+        "value": "1318"
+    },
+    {
+        "count": 6,
+        "index": 595,
+        "label": "1321",
+        "url": "https://jpsearch.go.jp/entity/time/1321",
+        "value": "1321"
     },
     {
         "count": 1,
@@ -658,25 +1701,39 @@
         "value": "1321-1337"
     },
     {
-        "count": 1,
+        "count": 2,
         "index": 136,
         "label": "1322",
         "url": "https://jpsearch.go.jp/entity/time/1322",
         "value": "1322"
     },
     {
-        "count": 1,
+        "count": 2,
         "index": 97,
         "label": "1323",
         "url": "https://jpsearch.go.jp/entity/time/1323",
         "value": "1323"
     },
     {
-        "count": 1,
+        "count": 2,
         "index": 92,
         "label": "1324",
         "url": "https://jpsearch.go.jp/entity/time/1324",
         "value": "1324"
+    },
+    {
+        "count": 1,
+        "index": 858,
+        "label": "1324-1380",
+        "url": "https://jpsearch.go.jp/entity/time/1324-1380",
+        "value": "1324-1380"
+    },
+    {
+        "count": 1,
+        "index": 786,
+        "label": "1325",
+        "url": "https://jpsearch.go.jp/entity/time/1325",
+        "value": "1325"
     },
     {
         "count": 2,
@@ -686,14 +1743,42 @@
         "value": "1327"
     },
     {
+        "count": 2,
+        "index": 854,
+        "label": "1330",
+        "url": "https://jpsearch.go.jp/entity/time/1330",
+        "value": "1330"
+    },
+    {
         "count": 1,
+        "index": 897,
+        "label": "1331",
+        "url": "https://jpsearch.go.jp/entity/time/1331",
+        "value": "1331"
+    },
+    {
+        "count": 3,
+        "index": 813,
+        "label": "1332",
+        "url": "https://jpsearch.go.jp/entity/time/1332",
+        "value": "1332"
+    },
+    {
+        "count": 1,
+        "index": 850,
+        "label": "1333",
+        "url": "https://jpsearch.go.jp/entity/time/1333",
+        "value": "1333"
+    },
+    {
+        "count": 3,
         "index": 16,
         "label": "1334",
         "url": "https://jpsearch.go.jp/entity/time/1334",
         "value": "1334"
     },
     {
-        "count": 1,
+        "count": 2,
         "index": 424,
         "label": "1335",
         "url": "https://jpsearch.go.jp/entity/time/1335",
@@ -701,34 +1786,97 @@
     },
     {
         "count": 1,
+        "index": 912,
+        "label": "1336",
+        "url": "https://jpsearch.go.jp/entity/time/1336",
+        "value": "1336"
+    },
+    {
+        "count": 2,
         "index": 172,
         "label": "1337",
         "url": "https://jpsearch.go.jp/entity/time/1337",
         "value": "1337"
     },
     {
-        "count": 3,
+        "count": 74,
         "index": 242,
         "label": "1339",
         "url": "https://jpsearch.go.jp/entity/time/1339",
         "value": "1339"
     },
     {
-        "count": 1,
+        "count": 82,
         "index": 396,
         "label": "1340",
         "url": "https://jpsearch.go.jp/entity/time/1340",
         "value": "1340"
     },
     {
+        "count": 5,
+        "index": 565,
+        "label": "1341",
+        "url": "https://jpsearch.go.jp/entity/time/1341",
+        "value": "1341"
+    },
+    {
+        "count": 2,
+        "index": 632,
+        "label": "1342",
+        "url": "https://jpsearch.go.jp/entity/time/1342",
+        "value": "1342"
+    },
+    {
+        "count": 2,
+        "index": 877,
+        "label": "1343",
+        "url": "https://jpsearch.go.jp/entity/time/1343",
+        "value": "1343"
+    },
+    {
         "count": 1,
+        "index": 647,
+        "label": "1347",
+        "url": "https://jpsearch.go.jp/entity/time/1347",
+        "value": "1347"
+    },
+    {
+        "count": 11,
+        "index": 966,
+        "label": "1348",
+        "url": "https://jpsearch.go.jp/entity/time/1348",
+        "value": "1348"
+    },
+    {
+        "count": 1,
+        "index": 992,
+        "label": "1349",
+        "url": "https://jpsearch.go.jp/entity/time/1349",
+        "value": "1349"
+    },
+    {
+        "count": 5,
         "index": 135,
         "label": "1352",
         "url": "https://jpsearch.go.jp/entity/time/1352",
         "value": "1352"
     },
     {
-        "count": 1,
+        "count": 7,
+        "index": 716,
+        "label": "1354",
+        "url": "https://jpsearch.go.jp/entity/time/1354",
+        "value": "1354"
+    },
+    {
+        "count": 10,
+        "index": 871,
+        "label": "1356",
+        "url": "https://jpsearch.go.jp/entity/time/1356",
+        "value": "1356"
+    },
+    {
+        "count": 4,
         "index": 134,
         "label": "1357",
         "url": "https://jpsearch.go.jp/entity/time/1357",
@@ -736,31 +1884,115 @@
     },
     {
         "count": 1,
+        "index": 1041,
+        "label": "1359",
+        "url": "https://jpsearch.go.jp/entity/time/1359",
+        "value": "1359"
+    },
+    {
+        "count": 1,
+        "index": 953,
+        "label": "1362",
+        "url": "https://jpsearch.go.jp/entity/time/1362",
+        "value": "1362"
+    },
+    {
+        "count": 1,
+        "index": 572,
+        "label": "1363",
+        "url": "https://jpsearch.go.jp/entity/time/1363",
+        "value": "1363"
+    },
+    {
+        "count": 1,
+        "index": 1038,
+        "label": "1364",
+        "url": "https://jpsearch.go.jp/entity/time/1364",
+        "value": "1364"
+    },
+    {
+        "count": 20,
         "index": 426,
         "label": "1367",
         "url": "https://jpsearch.go.jp/entity/time/1367",
         "value": "1367"
     },
     {
-        "count": 1,
+        "count": 7,
+        "index": 964,
+        "label": "1368",
+        "url": "https://jpsearch.go.jp/entity/time/1368",
+        "value": "1368"
+    },
+    {
+        "count": 5,
         "index": 414,
         "label": "1370",
         "url": "https://jpsearch.go.jp/entity/time/1370",
         "value": "1370"
     },
     {
-        "count": 2,
+        "count": 4,
+        "index": 941,
+        "label": "1372",
+        "url": "https://jpsearch.go.jp/entity/time/1372",
+        "value": "1372"
+    },
+    {
+        "count": 76,
         "index": 395,
         "label": "1374",
         "url": "https://jpsearch.go.jp/entity/time/1374",
         "value": "1374"
     },
     {
-        "count": 1,
+        "count": 10,
+        "index": 940,
+        "label": "1376",
+        "url": "https://jpsearch.go.jp/entity/time/1376",
+        "value": "1376"
+    },
+    {
+        "count": 3,
         "index": 81,
         "label": "1377",
         "url": "https://jpsearch.go.jp/entity/time/1377",
         "value": "1377"
+    },
+    {
+        "count": 2,
+        "index": 1068,
+        "label": "1380",
+        "url": "https://jpsearch.go.jp/entity/time/1380",
+        "value": "1380"
+    },
+    {
+        "count": 1,
+        "index": 1072,
+        "label": "1381",
+        "url": "https://jpsearch.go.jp/entity/time/1381",
+        "value": "1381"
+    },
+    {
+        "count": 9,
+        "index": 945,
+        "label": "1382",
+        "url": "https://jpsearch.go.jp/entity/time/1382",
+        "value": "1382"
+    },
+    {
+        "count": 1,
+        "index": 1039,
+        "label": "1383",
+        "url": "https://jpsearch.go.jp/entity/time/1383",
+        "value": "1383"
+    },
+    {
+        "count": 9,
+        "index": 938,
+        "label": "1385",
+        "url": "https://jpsearch.go.jp/entity/time/1385",
+        "value": "1385"
     },
     {
         "count": 1,
@@ -770,39 +2002,102 @@
         "value": "1386"
     },
     {
+        "count": 13,
+        "index": 788,
+        "label": "1387",
+        "url": "https://jpsearch.go.jp/entity/time/1387",
+        "value": "1387"
+    },
+    {
         "count": 1,
+        "index": 980,
+        "label": "1388",
+        "url": "https://jpsearch.go.jp/entity/time/1388",
+        "value": "1388"
+    },
+    {
+        "count": 1,
+        "index": 1084,
+        "label": "1389",
+        "url": "https://jpsearch.go.jp/entity/time/1389",
+        "value": "1389"
+    },
+    {
+        "count": 1,
+        "index": 913,
+        "label": "1390",
+        "url": "https://jpsearch.go.jp/entity/time/1390",
+        "value": "1390"
+    },
+    {
+        "count": 3,
+        "index": 577,
+        "label": "1391",
+        "url": "https://jpsearch.go.jp/entity/time/1391",
+        "value": "1391"
+    },
+    {
+        "count": 3,
         "index": 6,
         "label": "1394",
         "url": "https://jpsearch.go.jp/entity/time/1394",
         "value": "1394"
     },
     {
-        "count": 1,
+        "count": 2,
+        "index": 1070,
+        "label": "1396",
+        "url": "https://jpsearch.go.jp/entity/time/1396",
+        "value": "1396"
+    },
+    {
+        "count": 3,
         "index": 10,
         "label": "1397",
         "url": "https://jpsearch.go.jp/entity/time/1397",
         "value": "1397"
     },
     {
-        "count": 2,
+        "count": 1,
+        "index": 1040,
+        "label": "1398",
+        "url": "https://jpsearch.go.jp/entity/time/1398",
+        "value": "1398"
+    },
+    {
+        "count": 3,
+        "index": 976,
+        "label": "1399",
+        "url": "https://jpsearch.go.jp/entity/time/1399",
+        "value": "1399"
+    },
+    {
+        "count": 34,
         "index": 423,
         "label": "1400",
         "url": "https://jpsearch.go.jp/entity/time/1400",
         "value": "1400"
     },
     {
-        "count": 20,
+        "count": 166,
         "index": 23,
         "label": "1400-1499",
         "url": "https://jpsearch.go.jp/entity/time/1400-1499",
         "value": "1400-1499"
     },
     {
-        "count": 2,
+        "count": 65,
         "index": 121,
         "label": "1400-1599",
         "url": "https://jpsearch.go.jp/entity/time/1400-1599",
         "value": "1400-1599"
+    },
+    {
+        "count": 1,
+        "index": 924,
+        "label": "1400-1699",
+        "url": "https://jpsearch.go.jp/entity/time/1400-1699",
+        "value": "1400-1699"
     },
     {
         "count": 1,
@@ -813,6 +2108,20 @@
     },
     {
         "count": 1,
+        "index": 820,
+        "label": "1401",
+        "url": "https://jpsearch.go.jp/entity/time/1401",
+        "value": "1401"
+    },
+    {
+        "count": 1,
+        "index": 675,
+        "label": "1403-1424",
+        "url": "https://jpsearch.go.jp/entity/time/1403-1424",
+        "value": "1403-1424"
+    },
+    {
+        "count": 3,
         "index": 430,
         "label": "1405",
         "url": "https://jpsearch.go.jp/entity/time/1405",
@@ -820,17 +2129,136 @@
     },
     {
         "count": 1,
+        "index": 1033,
+        "label": "1406",
+        "url": "https://jpsearch.go.jp/entity/time/1406",
+        "value": "1406"
+    },
+    {
+        "count": 3,
         "index": 185,
         "label": "1410",
         "url": "https://jpsearch.go.jp/entity/time/1410",
         "value": "1410"
     },
     {
+        "count": 24,
+        "index": 937,
+        "label": "1411",
+        "url": "https://jpsearch.go.jp/entity/time/1411",
+        "value": "1411"
+    },
+    {
         "count": 1,
+        "index": 977,
+        "label": "1413",
+        "url": "https://jpsearch.go.jp/entity/time/1413",
+        "value": "1413"
+    },
+    {
+        "count": 4,
         "index": 453,
         "label": "1415",
         "url": "https://jpsearch.go.jp/entity/time/1415",
         "value": "1415"
+    },
+    {
+        "count": 1,
+        "index": 993,
+        "label": "1416",
+        "url": "https://jpsearch.go.jp/entity/time/1416",
+        "value": "1416"
+    },
+    {
+        "count": 9,
+        "index": 722,
+        "label": "1417",
+        "url": "https://jpsearch.go.jp/entity/time/1417",
+        "value": "1417"
+    },
+    {
+        "count": 1,
+        "index": 1022,
+        "label": "1423",
+        "url": "https://jpsearch.go.jp/entity/time/1423",
+        "value": "1423"
+    },
+    {
+        "count": 1,
+        "index": 969,
+        "label": "1425",
+        "url": "https://jpsearch.go.jp/entity/time/1425",
+        "value": "1425"
+    },
+    {
+        "count": 1,
+        "index": 1078,
+        "label": "1426",
+        "url": "https://jpsearch.go.jp/entity/time/1426",
+        "value": "1426"
+    },
+    {
+        "count": 4,
+        "index": 674,
+        "label": "1426-1435",
+        "url": "https://jpsearch.go.jp/entity/time/1426-1435",
+        "value": "1426-1435"
+    },
+    {
+        "count": 4,
+        "index": 1029,
+        "label": "1427",
+        "url": "https://jpsearch.go.jp/entity/time/1427",
+        "value": "1427"
+    },
+    {
+        "count": 1,
+        "index": 1067,
+        "label": "1429",
+        "url": "https://jpsearch.go.jp/entity/time/1429",
+        "value": "1429"
+    },
+    {
+        "count": 2,
+        "index": 869,
+        "label": "1434",
+        "url": "https://jpsearch.go.jp/entity/time/1434",
+        "value": "1434"
+    },
+    {
+        "count": 1,
+        "index": 1034,
+        "label": "1436",
+        "url": "https://jpsearch.go.jp/entity/time/1436",
+        "value": "1436"
+    },
+    {
+        "count": 1,
+        "index": 1061,
+        "label": "1437",
+        "url": "https://jpsearch.go.jp/entity/time/1437",
+        "value": "1437"
+    },
+    {
+        "count": 2,
+        "index": 1016,
+        "label": "1438",
+        "url": "https://jpsearch.go.jp/entity/time/1438",
+        "value": "1438"
+    },
+    {
+        "count": 1,
+        "index": 805,
+        "label": "1439",
+        "url": "https://jpsearch.go.jp/entity/time/1439",
+        "value": "1439"
+    },
+    {
+        "count": 1,
+        "index": 783,
+        "label": "1441",
+        "url": "https://jpsearch.go.jp/entity/time/1441",
+        "value": "1441"
     },
     {
         "count": 1,
@@ -841,17 +2269,59 @@
     },
     {
         "count": 1,
+        "index": 688,
+        "label": "1446",
+        "url": "https://jpsearch.go.jp/entity/time/1446",
+        "value": "1446"
+    },
+    {
+        "count": 3,
         "index": 77,
         "label": "1447",
         "url": "https://jpsearch.go.jp/entity/time/1447",
         "value": "1447"
     },
     {
-        "count": 1,
+        "count": 4,
         "index": 401,
         "label": "1448",
         "url": "https://jpsearch.go.jp/entity/time/1448",
         "value": "1448"
+    },
+    {
+        "count": 1,
+        "index": 1082,
+        "label": "1450",
+        "url": "https://jpsearch.go.jp/entity/time/1450",
+        "value": "1450"
+    },
+    {
+        "count": 1,
+        "index": 691,
+        "label": "1451",
+        "url": "https://jpsearch.go.jp/entity/time/1451",
+        "value": "1451"
+    },
+    {
+        "count": 3,
+        "index": 1036,
+        "label": "1454",
+        "url": "https://jpsearch.go.jp/entity/time/1454",
+        "value": "1454"
+    },
+    {
+        "count": 2,
+        "index": 1014,
+        "label": "1455",
+        "url": "https://jpsearch.go.jp/entity/time/1455",
+        "value": "1455"
+    },
+    {
+        "count": 1,
+        "index": 960,
+        "label": "1456",
+        "url": "https://jpsearch.go.jp/entity/time/1456",
+        "value": "1456"
     },
     {
         "count": 1,
@@ -862,45 +2332,227 @@
     },
     {
         "count": 1,
+        "index": 676,
+        "label": "1458",
+        "url": "https://jpsearch.go.jp/entity/time/1458",
+        "value": "1458"
+    },
+    {
+        "count": 1,
+        "index": 797,
+        "label": "1459",
+        "url": "https://jpsearch.go.jp/entity/time/1459",
+        "value": "1459"
+    },
+    {
+        "count": 3,
+        "index": 942,
+        "label": "1466",
+        "url": "https://jpsearch.go.jp/entity/time/1466",
+        "value": "1466"
+    },
+    {
+        "count": 10,
+        "index": 590,
+        "label": "1468",
+        "url": "https://jpsearch.go.jp/entity/time/1468",
+        "value": "1468"
+    },
+    {
+        "count": 1,
+        "index": 1042,
+        "label": "1469",
+        "url": "https://jpsearch.go.jp/entity/time/1469",
+        "value": "1469"
+    },
+    {
+        "count": 1,
+        "index": 983,
+        "label": "1473",
+        "url": "https://jpsearch.go.jp/entity/time/1473",
+        "value": "1473"
+    },
+    {
+        "count": 1,
         "index": 158,
         "label": "1474",
         "url": "https://jpsearch.go.jp/entity/time/1474",
         "value": "1474"
     },
     {
+        "count": 2,
+        "index": 1063,
+        "label": "1476",
+        "url": "https://jpsearch.go.jp/entity/time/1476",
+        "value": "1476"
+    },
+    {
         "count": 1,
+        "index": 915,
+        "label": "1478",
+        "url": "https://jpsearch.go.jp/entity/time/1478",
+        "value": "1478"
+    },
+    {
+        "count": 2,
+        "index": 1045,
+        "label": "1479",
+        "url": "https://jpsearch.go.jp/entity/time/1479",
+        "value": "1479"
+    },
+    {
+        "count": 1,
+        "index": 1065,
+        "label": "1481",
+        "url": "https://jpsearch.go.jp/entity/time/1481",
+        "value": "1481"
+    },
+    {
+        "count": 5,
+        "index": 981,
+        "label": "1482",
+        "url": "https://jpsearch.go.jp/entity/time/1482",
+        "value": "1482"
+    },
+    {
+        "count": 1,
+        "index": 1037,
+        "label": "1483",
+        "url": "https://jpsearch.go.jp/entity/time/1483",
+        "value": "1483"
+    },
+    {
+        "count": 9,
+        "index": 596,
+        "label": "1486",
+        "url": "https://jpsearch.go.jp/entity/time/1486",
+        "value": "1486"
+    },
+    {
+        "count": 2,
+        "index": 1024,
+        "label": "1488",
+        "url": "https://jpsearch.go.jp/entity/time/1488",
+        "value": "1488"
+    },
+    {
+        "count": 2,
         "index": 415,
         "label": "1489",
         "url": "https://jpsearch.go.jp/entity/time/1489",
         "value": "1489"
     },
     {
-        "count": 1,
+        "count": 7,
         "index": 427,
         "label": "1490",
         "url": "https://jpsearch.go.jp/entity/time/1490",
         "value": "1490"
     },
     {
+        "count": 5,
+        "index": 999,
+        "label": "1493",
+        "url": "https://jpsearch.go.jp/entity/time/1493",
+        "value": "1493"
+    },
+    {
+        "count": 5,
+        "index": 757,
+        "label": "1494",
+        "url": "https://jpsearch.go.jp/entity/time/1494",
+        "value": "1494"
+    },
+    {
+        "count": 5,
+        "index": 927,
+        "label": "1495",
+        "url": "https://jpsearch.go.jp/entity/time/1495",
+        "value": "1495"
+    },
+    {
+        "count": 2,
+        "index": 974,
+        "label": "1496",
+        "url": "https://jpsearch.go.jp/entity/time/1496",
+        "value": "1496"
+    },
+    {
+        "count": 2,
+        "index": 582,
+        "label": "1499",
+        "url": "https://jpsearch.go.jp/entity/time/1499",
+        "value": "1499"
+    },
+    {
+        "count": 9,
+        "index": 761,
+        "label": "1499bce-1000bce",
+        "url": "https://jpsearch.go.jp/entity/time/1499BCE-1000BCE",
+        "value": "1499BCE-1000BCE"
+    },
+    {
         "count": 1,
+        "index": 682,
+        "label": "1499bce-1300bce",
+        "url": "https://jpsearch.go.jp/entity/time/1499BCE-1300BCE",
+        "value": "1499BCE-1300BCE"
+    },
+    {
+        "count": 2,
+        "index": 709,
+        "label": "1499bce-1400bce",
+        "url": "https://jpsearch.go.jp/entity/time/1499BCE-1400BCE",
+        "value": "1499BCE-1400BCE"
+    },
+    {
+        "count": 33,
         "index": 266,
         "label": "1500",
         "url": "https://jpsearch.go.jp/entity/time/1500",
         "value": "1500"
     },
     {
-        "count": 38,
+        "count": 313,
         "index": 9,
         "label": "1500-1599",
         "url": "https://jpsearch.go.jp/entity/time/1500-1599",
         "value": "1500-1599"
     },
     {
-        "count": 23,
+        "count": 216,
         "index": 33,
         "label": "1500-1699",
         "url": "https://jpsearch.go.jp/entity/time/1500-1699",
         "value": "1500-1699"
+    },
+    {
+        "count": 1,
+        "index": 742,
+        "label": "1500-1899",
+        "url": "https://jpsearch.go.jp/entity/time/1500-1899",
+        "value": "1500-1899"
+    },
+    {
+        "count": 1,
+        "index": 789,
+        "label": "1501",
+        "url": "https://jpsearch.go.jp/entity/time/1501",
+        "value": "1501"
+    },
+    {
+        "count": 1,
+        "index": 648,
+        "label": "1503",
+        "url": "https://jpsearch.go.jp/entity/time/1503",
+        "value": "1503"
+    },
+    {
+        "count": 1,
+        "index": 1080,
+        "label": "1504",
+        "url": "https://jpsearch.go.jp/entity/time/1504",
+        "value": "1504"
     },
     {
         "count": 1,
@@ -910,77 +2562,210 @@
         "value": "1505"
     },
     {
+        "count": 25,
+        "index": 495,
+        "label": "1506",
+        "url": "https://jpsearch.go.jp/entity/time/1506",
+        "value": "1506"
+    },
+    {
+        "count": 1,
+        "index": 673,
+        "label": "1506-1521",
+        "url": "https://jpsearch.go.jp/entity/time/1506-1521",
+        "value": "1506-1521"
+    },
+    {
         "count": 3,
+        "index": 601,
+        "label": "1507",
+        "url": "https://jpsearch.go.jp/entity/time/1507",
+        "value": "1507"
+    },
+    {
+        "count": 1,
+        "index": 1030,
+        "label": "1509",
+        "url": "https://jpsearch.go.jp/entity/time/1509",
+        "value": "1509"
+    },
+    {
+        "count": 2,
+        "index": 593,
+        "label": "1510",
+        "url": "https://jpsearch.go.jp/entity/time/1510",
+        "value": "1510"
+    },
+    {
+        "count": 69,
         "index": 321,
         "label": "1511",
         "url": "https://jpsearch.go.jp/entity/time/1511",
         "value": "1511"
     },
     {
-        "count": 1,
+        "count": 15,
         "index": 376,
         "label": "1512",
         "url": "https://jpsearch.go.jp/entity/time/1512",
         "value": "1512"
     },
     {
-        "count": 1,
+        "count": 42,
         "index": 325,
         "label": "1513",
         "url": "https://jpsearch.go.jp/entity/time/1513",
         "value": "1513"
     },
     {
+        "count": 4,
+        "index": 502,
+        "label": "1514",
+        "url": "https://jpsearch.go.jp/entity/time/1514",
+        "value": "1514"
+    },
+    {
+        "count": 3,
+        "index": 832,
+        "label": "1515",
+        "url": "https://jpsearch.go.jp/entity/time/1515",
+        "value": "1515"
+    },
+    {
+        "count": 7,
+        "index": 1031,
+        "label": "1516",
+        "url": "https://jpsearch.go.jp/entity/time/1516",
+        "value": "1516"
+    },
+    {
+        "count": 4,
+        "index": 1044,
+        "label": "1517",
+        "url": "https://jpsearch.go.jp/entity/time/1517",
+        "value": "1517"
+    },
+    {
         "count": 1,
+        "index": 1062,
+        "label": "1518",
+        "url": "https://jpsearch.go.jp/entity/time/1518",
+        "value": "1518"
+    },
+    {
+        "count": 30,
         "index": 431,
         "label": "1519",
         "url": "https://jpsearch.go.jp/entity/time/1519",
         "value": "1519"
     },
     {
-        "count": 1,
+        "count": 8,
         "index": 221,
         "label": "1521",
         "url": "https://jpsearch.go.jp/entity/time/1521",
         "value": "1521"
     },
     {
-        "count": 2,
+        "count": 3,
+        "index": 900,
+        "label": "1522",
+        "url": "https://jpsearch.go.jp/entity/time/1522",
+        "value": "1522"
+    },
+    {
+        "count": 10,
+        "index": 686,
+        "label": "1522-1566",
+        "url": "https://jpsearch.go.jp/entity/time/1522-1566",
+        "value": "1522-1566"
+    },
+    {
+        "count": 12,
         "index": 450,
         "label": "1525",
         "url": "https://jpsearch.go.jp/entity/time/1525",
         "value": "1525"
     },
     {
-        "count": 1,
+        "count": 17,
+        "index": 717,
+        "label": "1526",
+        "url": "https://jpsearch.go.jp/entity/time/1526",
+        "value": "1526"
+    },
+    {
+        "count": 17,
         "index": 199,
         "label": "1527",
         "url": "https://jpsearch.go.jp/entity/time/1527",
         "value": "1527"
     },
     {
-        "count": 1,
+        "count": 26,
+        "index": 585,
+        "label": "1528",
+        "url": "https://jpsearch.go.jp/entity/time/1528",
+        "value": "1528"
+    },
+    {
+        "count": 29,
         "index": 354,
         "label": "1529",
         "url": "https://jpsearch.go.jp/entity/time/1529",
         "value": "1529"
     },
     {
-        "count": 1,
+        "count": 3,
         "index": 375,
         "label": "1532",
         "url": "https://jpsearch.go.jp/entity/time/1532",
         "value": "1532"
     },
     {
-        "count": 1,
+        "count": 16,
         "index": 355,
         "label": "1533",
         "url": "https://jpsearch.go.jp/entity/time/1533",
         "value": "1533"
     },
     {
-        "count": 1,
+        "count": 5,
+        "index": 690,
+        "label": "1534",
+        "url": "https://jpsearch.go.jp/entity/time/1534",
+        "value": "1534"
+    },
+    {
+        "count": 4,
+        "index": 828,
+        "label": "1535",
+        "url": "https://jpsearch.go.jp/entity/time/1535",
+        "value": "1535"
+    },
+    {
+        "count": 14,
+        "index": 906,
+        "label": "1536",
+        "url": "https://jpsearch.go.jp/entity/time/1536",
+        "value": "1536"
+    },
+    {
+        "count": 2,
+        "index": 1028,
+        "label": "1537",
+        "url": "https://jpsearch.go.jp/entity/time/1537",
+        "value": "1537"
+    },
+    {
+        "count": 7,
+        "index": 508,
+        "label": "1539",
+        "url": "https://jpsearch.go.jp/entity/time/1539",
+        "value": "1539"
+    },
+    {
+        "count": 9,
         "index": 324,
         "label": "1540",
         "url": "https://jpsearch.go.jp/entity/time/1540",
@@ -988,6 +2773,48 @@
     },
     {
         "count": 1,
+        "index": 870,
+        "label": "1541",
+        "url": "https://jpsearch.go.jp/entity/time/1541",
+        "value": "1541"
+    },
+    {
+        "count": 21,
+        "index": 872,
+        "label": "1542",
+        "url": "https://jpsearch.go.jp/entity/time/1542",
+        "value": "1542"
+    },
+    {
+        "count": 2,
+        "index": 1069,
+        "label": "1543",
+        "url": "https://jpsearch.go.jp/entity/time/1543",
+        "value": "1543"
+    },
+    {
+        "count": 16,
+        "index": 715,
+        "label": "1544",
+        "url": "https://jpsearch.go.jp/entity/time/1544",
+        "value": "1544"
+    },
+    {
+        "count": 6,
+        "index": 994,
+        "label": "1545",
+        "url": "https://jpsearch.go.jp/entity/time/1545",
+        "value": "1545"
+    },
+    {
+        "count": 7,
+        "index": 971,
+        "label": "1546",
+        "url": "https://jpsearch.go.jp/entity/time/1546",
+        "value": "1546"
+    },
+    {
+        "count": 2,
         "index": 265,
         "label": "1547",
         "url": "https://jpsearch.go.jp/entity/time/1547",
@@ -995,13 +2822,41 @@
     },
     {
         "count": 3,
+        "index": 1011,
+        "label": "1548",
+        "url": "https://jpsearch.go.jp/entity/time/1548",
+        "value": "1548"
+    },
+    {
+        "count": 32,
         "index": 320,
         "label": "1549",
         "url": "https://jpsearch.go.jp/entity/time/1549",
         "value": "1549"
     },
     {
+        "count": 2,
+        "index": 846,
+        "label": "1550",
+        "url": "https://jpsearch.go.jp/entity/time/1550",
+        "value": "1550"
+    },
+    {
         "count": 1,
+        "index": 1076,
+        "label": "1551",
+        "url": "https://jpsearch.go.jp/entity/time/1551",
+        "value": "1551"
+    },
+    {
+        "count": 21,
+        "index": 821,
+        "label": "1552",
+        "url": "https://jpsearch.go.jp/entity/time/1552",
+        "value": "1552"
+    },
+    {
+        "count": 10,
         "index": 434,
         "label": "1554",
         "url": "https://jpsearch.go.jp/entity/time/1554",
@@ -1009,27 +2864,83 @@
     },
     {
         "count": 1,
+        "index": 986,
+        "label": "1555",
+        "url": "https://jpsearch.go.jp/entity/time/1555",
+        "value": "1555"
+    },
+    {
+        "count": 41,
         "index": 331,
         "label": "1556",
         "url": "https://jpsearch.go.jp/entity/time/1556",
         "value": "1556"
     },
     {
-        "count": 1,
+        "count": 3,
         "index": 429,
         "label": "1557",
         "url": "https://jpsearch.go.jp/entity/time/1557",
         "value": "1557"
     },
     {
-        "count": 1,
+        "count": 19,
+        "index": 720,
+        "label": "1558",
+        "url": "https://jpsearch.go.jp/entity/time/1558",
+        "value": "1558"
+    },
+    {
+        "count": 8,
+        "index": 712,
+        "label": "1560",
+        "url": "https://jpsearch.go.jp/entity/time/1560",
+        "value": "1560"
+    },
+    {
+        "count": 10,
         "index": 322,
         "label": "1561",
         "url": "https://jpsearch.go.jp/entity/time/1561",
         "value": "1561"
     },
     {
-        "count": 2,
+        "count": 5,
+        "index": 939,
+        "label": "1562",
+        "url": "https://jpsearch.go.jp/entity/time/1562",
+        "value": "1562"
+    },
+    {
+        "count": 3,
+        "index": 1035,
+        "label": "1563",
+        "url": "https://jpsearch.go.jp/entity/time/1563",
+        "value": "1563"
+    },
+    {
+        "count": 8,
+        "index": 724,
+        "label": "1564",
+        "url": "https://jpsearch.go.jp/entity/time/1564",
+        "value": "1564"
+    },
+    {
+        "count": 3,
+        "index": 620,
+        "label": "1565",
+        "url": "https://jpsearch.go.jp/entity/time/1565",
+        "value": "1565"
+    },
+    {
+        "count": 5,
+        "index": 507,
+        "label": "1566",
+        "url": "https://jpsearch.go.jp/entity/time/1566",
+        "value": "1566"
+    },
+    {
+        "count": 88,
         "index": 407,
         "label": "1567",
         "url": "https://jpsearch.go.jp/entity/time/1567",
@@ -1037,482 +2948,846 @@
     },
     {
         "count": 2,
+        "index": 568,
+        "label": "1567-1572",
+        "url": "https://jpsearch.go.jp/entity/time/1567-1572",
+        "value": "1567-1572"
+    },
+    {
+        "count": 1,
+        "index": 664,
+        "label": "1567-1655",
+        "url": "https://jpsearch.go.jp/entity/time/1567-1655",
+        "value": "1567-1655"
+    },
+    {
+        "count": 4,
+        "index": 879,
+        "label": "1568",
+        "url": "https://jpsearch.go.jp/entity/time/1568",
+        "value": "1568"
+    },
+    {
+        "count": 9,
+        "index": 649,
+        "label": "1569",
+        "url": "https://jpsearch.go.jp/entity/time/1569",
+        "value": "1569"
+    },
+    {
+        "count": 5,
+        "index": 642,
+        "label": "1570",
+        "url": "https://jpsearch.go.jp/entity/time/1570",
+        "value": "1570"
+    },
+    {
+        "count": 1,
+        "index": 968,
+        "label": "1571",
+        "url": "https://jpsearch.go.jp/entity/time/1571",
+        "value": "1571"
+    },
+    {
+        "count": 5,
+        "index": 886,
+        "label": "1572",
+        "url": "https://jpsearch.go.jp/entity/time/1572",
+        "value": "1572"
+    },
+    {
+        "count": 14,
         "index": 318,
         "label": "1573",
         "url": "https://jpsearch.go.jp/entity/time/1573",
         "value": "1573"
     },
     {
-        "count": 1,
+        "count": 4,
+        "index": 704,
+        "label": "1573-1620",
+        "url": "https://jpsearch.go.jp/entity/time/1573-1620",
+        "value": "1573-1620"
+    },
+    {
+        "count": 82,
         "index": 380,
         "label": "1574",
         "url": "https://jpsearch.go.jp/entity/time/1574",
         "value": "1574"
     },
     {
-        "count": 4,
+        "count": 1,
+        "index": 771,
+        "label": "1575",
+        "url": "https://jpsearch.go.jp/entity/time/1575",
+        "value": "1575"
+    },
+    {
+        "count": 17,
+        "index": 721,
+        "label": "1577",
+        "url": "https://jpsearch.go.jp/entity/time/1577",
+        "value": "1577"
+    },
+    {
+        "count": 11,
+        "index": 963,
+        "label": "1578",
+        "url": "https://jpsearch.go.jp/entity/time/1578",
+        "value": "1578"
+    },
+    {
+        "count": 127,
         "index": 346,
         "label": "1579",
         "url": "https://jpsearch.go.jp/entity/time/1579",
         "value": "1579"
     },
     {
-        "count": 1,
+        "count": 7,
+        "index": 887,
+        "label": "1580",
+        "url": "https://jpsearch.go.jp/entity/time/1580",
+        "value": "1580"
+    },
+    {
+        "count": 27,
+        "index": 599,
+        "label": "1581",
+        "url": "https://jpsearch.go.jp/entity/time/1581",
+        "value": "1581"
+    },
+    {
+        "count": 5,
         "index": 467,
         "label": "1583",
         "url": "https://jpsearch.go.jp/entity/time/1583",
         "value": "1583"
     },
     {
-        "count": 1,
+        "count": 12,
+        "index": 623,
+        "label": "1584",
+        "url": "https://jpsearch.go.jp/entity/time/1584",
+        "value": "1584"
+    },
+    {
+        "count": 21,
         "index": 433,
         "label": "1585",
         "url": "https://jpsearch.go.jp/entity/time/1585",
         "value": "1585"
     },
     {
-        "count": 2,
+        "count": 8,
+        "index": 658,
+        "label": "1586",
+        "url": "https://jpsearch.go.jp/entity/time/1586",
+        "value": "1586"
+    },
+    {
+        "count": 6,
         "index": 336,
         "label": "1588",
         "url": "https://jpsearch.go.jp/entity/time/1588",
         "value": "1588"
     },
     {
-        "count": 1,
+        "count": 5,
+        "index": 703,
+        "label": "1589",
+        "url": "https://jpsearch.go.jp/entity/time/1589",
+        "value": "1589"
+    },
+    {
+        "count": 38,
         "index": 241,
         "label": "1590",
         "url": "https://jpsearch.go.jp/entity/time/1590",
         "value": "1590"
     },
     {
-        "count": 1,
+        "count": 28,
         "index": 463,
         "label": "1591",
         "url": "https://jpsearch.go.jp/entity/time/1591",
         "value": "1591"
     },
     {
-        "count": 1,
+        "count": 13,
+        "index": 874,
+        "label": "1592",
+        "url": "https://jpsearch.go.jp/entity/time/1592",
+        "value": "1592"
+    },
+    {
+        "count": 7,
+        "index": 891,
+        "label": "1593",
+        "url": "https://jpsearch.go.jp/entity/time/1593",
+        "value": "1593"
+    },
+    {
+        "count": 16,
+        "index": 597,
+        "label": "1594",
+        "url": "https://jpsearch.go.jp/entity/time/1594",
+        "value": "1594"
+    },
+    {
+        "count": 16,
+        "index": 598,
+        "label": "1595",
+        "url": "https://jpsearch.go.jp/entity/time/1595",
+        "value": "1595"
+    },
+    {
+        "count": 37,
         "index": 462,
         "label": "1596",
         "url": "https://jpsearch.go.jp/entity/time/1596",
         "value": "1596"
     },
     {
-        "count": 4,
+        "count": 87,
         "index": 319,
         "label": "1597",
         "url": "https://jpsearch.go.jp/entity/time/1597",
         "value": "1597"
     },
     {
-        "count": 2,
+        "count": 5,
         "index": 96,
         "label": "1598",
         "url": "https://jpsearch.go.jp/entity/time/1598",
         "value": "1598"
     },
     {
-        "count": 20,
+        "count": 21,
+        "index": 672,
+        "label": "1599",
+        "url": "https://jpsearch.go.jp/entity/time/1599",
+        "value": "1599"
+    },
+    {
+        "count": 1,
+        "index": 784,
+        "label": "1599bce-1300bce",
+        "url": "https://jpsearch.go.jp/entity/time/1599BCE-1300BCE",
+        "value": "1599BCE-1300BCE"
+    },
+    {
+        "count": 1342,
         "index": 308,
         "label": "1600",
         "url": "https://jpsearch.go.jp/entity/time/1600",
         "value": "1600"
     },
     {
-        "count": 81,
+        "count": 655,
         "index": 31,
         "label": "1600-1699",
         "url": "https://jpsearch.go.jp/entity/time/1600-1699",
         "value": "1600-1699"
     },
     {
-        "count": 38,
+        "count": 465,
         "index": 60,
         "label": "1600-1799",
         "url": "https://jpsearch.go.jp/entity/time/1600-1799",
         "value": "1600-1799"
     },
     {
-        "count": 2,
+        "count": 34,
         "index": 162,
         "label": "1600-1899",
         "url": "https://jpsearch.go.jp/entity/time/1600-1899",
         "value": "1600-1899"
     },
     {
-        "count": 1,
+        "count": 5,
         "index": 147,
         "label": "16000bce",
         "url": "https://jpsearch.go.jp/entity/time/16000BCE",
         "value": "16000BCE"
     },
     {
-        "count": 1,
+        "count": 20,
         "index": 347,
         "label": "1601",
         "url": "https://jpsearch.go.jp/entity/time/1601",
         "value": "1601"
     },
     {
-        "count": 2,
+        "count": 1,
+        "index": 1066,
+        "label": "1602",
+        "url": "https://jpsearch.go.jp/entity/time/1602",
+        "value": "1602"
+    },
+    {
+        "count": 104,
         "index": 379,
         "label": "1603",
         "url": "https://jpsearch.go.jp/entity/time/1603",
         "value": "1603"
     },
     {
-        "count": 4,
+        "count": 26,
         "index": 195,
         "label": "1604",
         "url": "https://jpsearch.go.jp/entity/time/1604",
         "value": "1604"
     },
     {
-        "count": 1,
+        "count": 30,
         "index": 148,
         "label": "1605",
         "url": "https://jpsearch.go.jp/entity/time/1605",
         "value": "1605"
     },
     {
-        "count": 2,
+        "count": 73,
         "index": 168,
         "label": "1606",
         "url": "https://jpsearch.go.jp/entity/time/1606",
         "value": "1606"
     },
     {
-        "count": 1,
+        "count": 67,
         "index": 314,
         "label": "1607",
         "url": "https://jpsearch.go.jp/entity/time/1607",
         "value": "1607"
     },
     {
-        "count": 1,
+        "count": 48,
         "index": 385,
         "label": "1608",
         "url": "https://jpsearch.go.jp/entity/time/1608",
         "value": "1608"
     },
     {
-        "count": 2,
+        "count": 73,
         "index": 382,
         "label": "1609",
         "url": "https://jpsearch.go.jp/entity/time/1609",
         "value": "1609"
     },
     {
-        "count": 2,
+        "count": 32,
+        "index": 818,
+        "label": "1610",
+        "url": "https://jpsearch.go.jp/entity/time/1610",
+        "value": "1610"
+    },
+    {
+        "count": 52,
         "index": 399,
         "label": "1611",
         "url": "https://jpsearch.go.jp/entity/time/1611",
         "value": "1611"
     },
     {
-        "count": 4,
+        "count": 48,
+        "index": 494,
+        "label": "1612",
+        "url": "https://jpsearch.go.jp/entity/time/1612",
+        "value": "1612"
+    },
+    {
+        "count": 88,
         "index": 315,
         "label": "1613",
         "url": "https://jpsearch.go.jp/entity/time/1613",
         "value": "1613"
     },
     {
+        "count": 10,
+        "index": 743,
+        "label": "1614",
+        "url": "https://jpsearch.go.jp/entity/time/1614",
+        "value": "1614"
+    },
+    {
+        "count": 14,
+        "index": 943,
+        "label": "1615",
+        "url": "https://jpsearch.go.jp/entity/time/1615",
+        "value": "1615"
+    },
+    {
+        "count": 71,
+        "index": 491,
+        "label": "1616",
+        "url": "https://jpsearch.go.jp/entity/time/1616",
+        "value": "1616"
+    },
+    {
         "count": 1,
+        "index": 907,
+        "label": "1616-1852",
+        "url": "https://jpsearch.go.jp/entity/time/1616-1852",
+        "value": "1616-1852"
+    },
+    {
+        "count": 26,
         "index": 490,
         "label": "1617",
         "url": "https://jpsearch.go.jp/entity/time/1617",
         "value": "1617"
     },
     {
-        "count": 3,
+        "count": 116,
         "index": 392,
         "label": "1618",
         "url": "https://jpsearch.go.jp/entity/time/1618",
         "value": "1618"
     },
     {
-        "count": 1,
+        "count": 108,
         "index": 316,
         "label": "1619",
         "url": "https://jpsearch.go.jp/entity/time/1619",
         "value": "1619"
     },
     {
-        "count": 2,
+        "count": 26,
+        "index": 726,
+        "label": "1620",
+        "url": "https://jpsearch.go.jp/entity/time/1620",
+        "value": "1620"
+    },
+    {
+        "count": 30,
+        "index": 586,
+        "label": "1621",
+        "url": "https://jpsearch.go.jp/entity/time/1621",
+        "value": "1621"
+    },
+    {
+        "count": 12,
+        "index": 501,
+        "label": "1622",
+        "url": "https://jpsearch.go.jp/entity/time/1622",
+        "value": "1622"
+    },
+    {
+        "count": 159,
         "index": 317,
         "label": "1623",
         "url": "https://jpsearch.go.jp/entity/time/1623",
         "value": "1623"
     },
     {
-        "count": 1,
+        "count": 16,
+        "index": 873,
+        "label": "1624",
+        "url": "https://jpsearch.go.jp/entity/time/1624",
+        "value": "1624"
+    },
+    {
+        "count": 125,
+        "index": 558,
+        "label": "1625",
+        "url": "https://jpsearch.go.jp/entity/time/1625",
+        "value": "1625"
+    },
+    {
+        "count": 52,
         "index": 404,
         "label": "1626",
         "url": "https://jpsearch.go.jp/entity/time/1626",
         "value": "1626"
     },
     {
-        "count": 2,
+        "count": 44,
         "index": 244,
         "label": "1627",
         "url": "https://jpsearch.go.jp/entity/time/1627",
         "value": "1627"
     },
     {
-        "count": 1,
+        "count": 40,
         "index": 389,
         "label": "1628",
         "url": "https://jpsearch.go.jp/entity/time/1628",
         "value": "1628"
     },
     {
-        "count": 4,
+        "count": 13,
+        "index": 560,
+        "label": "1629",
+        "url": "https://jpsearch.go.jp/entity/time/1629",
+        "value": "1629"
+    },
+    {
+        "count": 112,
         "index": 238,
         "label": "1630",
         "url": "https://jpsearch.go.jp/entity/time/1630",
         "value": "1630"
     },
     {
-        "count": 1,
+        "count": 17,
         "index": 459,
         "label": "1631",
         "url": "https://jpsearch.go.jp/entity/time/1631",
         "value": "1631"
     },
     {
-        "count": 2,
+        "count": 17,
+        "index": 713,
+        "label": "1632",
+        "url": "https://jpsearch.go.jp/entity/time/1632",
+        "value": "1632"
+    },
+    {
+        "count": 23,
+        "index": 574,
+        "label": "1633",
+        "url": "https://jpsearch.go.jp/entity/time/1633",
+        "value": "1633"
+    },
+    {
+        "count": 36,
         "index": 398,
         "label": "1634",
         "url": "https://jpsearch.go.jp/entity/time/1634",
         "value": "1634"
     },
     {
-        "count": 4,
+        "count": 29,
         "index": 243,
         "label": "1635",
         "url": "https://jpsearch.go.jp/entity/time/1635",
         "value": "1635"
     },
     {
-        "count": 4,
+        "count": 10,
+        "index": 652,
+        "label": "1636",
+        "url": "https://jpsearch.go.jp/entity/time/1636",
+        "value": "1636"
+    },
+    {
+        "count": 48,
         "index": 449,
         "label": "1637",
         "url": "https://jpsearch.go.jp/entity/time/1637",
         "value": "1637"
     },
     {
-        "count": 2,
+        "count": 64,
         "index": 329,
         "label": "1638",
         "url": "https://jpsearch.go.jp/entity/time/1638",
         "value": "1638"
     },
     {
-        "count": 15,
+        "count": 12,
+        "index": 819,
+        "label": "1639",
+        "url": "https://jpsearch.go.jp/entity/time/1639",
+        "value": "1639"
+    },
+    {
+        "count": 188,
         "index": 323,
         "label": "1640",
         "url": "https://jpsearch.go.jp/entity/time/1640",
         "value": "1640"
     },
     {
-        "count": 1,
+        "count": 25,
         "index": 409,
         "label": "1641",
         "url": "https://jpsearch.go.jp/entity/time/1641",
         "value": "1641"
     },
     {
-        "count": 12,
+        "count": 485,
         "index": 356,
         "label": "1642",
         "url": "https://jpsearch.go.jp/entity/time/1642",
         "value": "1642"
     },
     {
-        "count": 5,
+        "count": 99,
         "index": 120,
         "label": "1643",
         "url": "https://jpsearch.go.jp/entity/time/1643",
         "value": "1643"
     },
     {
-        "count": 1,
+        "count": 30,
         "index": 416,
         "label": "1644",
         "url": "https://jpsearch.go.jp/entity/time/1644",
         "value": "1644"
     },
     {
-        "count": 1,
+        "count": 50,
         "index": 446,
         "label": "1645",
         "url": "https://jpsearch.go.jp/entity/time/1645",
         "value": "1645"
     },
     {
-        "count": 9,
+        "count": 61,
+        "index": 503,
+        "label": "1646",
+        "url": "https://jpsearch.go.jp/entity/time/1646",
+        "value": "1646"
+    },
+    {
+        "count": 1,
+        "index": 1002,
+        "label": "1646-1770",
+        "url": "https://jpsearch.go.jp/entity/time/1646-1770",
+        "value": "1646-1770"
+    },
+    {
+        "count": 129,
         "index": 178,
         "label": "1647",
         "url": "https://jpsearch.go.jp/entity/time/1647",
         "value": "1647"
     },
     {
-        "count": 2,
+        "count": 28,
         "index": 435,
         "label": "1648",
         "url": "https://jpsearch.go.jp/entity/time/1648",
         "value": "1648"
     },
     {
-        "count": 3,
+        "count": 38,
+        "index": 643,
+        "label": "1649",
+        "url": "https://jpsearch.go.jp/entity/time/1649",
+        "value": "1649"
+    },
+    {
+        "count": 135,
         "index": 428,
         "label": "1650",
         "url": "https://jpsearch.go.jp/entity/time/1650",
         "value": "1650"
     },
     {
-        "count": 3,
+        "count": 20,
+        "index": 868,
+        "label": "1651",
+        "url": "https://jpsearch.go.jp/entity/time/1651",
+        "value": "1651"
+    },
+    {
+        "count": 25,
+        "index": 659,
+        "label": "1652",
+        "url": "https://jpsearch.go.jp/entity/time/1652",
+        "value": "1652"
+    },
+    {
+        "count": 262,
         "index": 388,
         "label": "1653",
         "url": "https://jpsearch.go.jp/entity/time/1653",
         "value": "1653"
     },
     {
-        "count": 1,
+        "count": 51,
         "index": 342,
         "label": "1654",
         "url": "https://jpsearch.go.jp/entity/time/1654",
         "value": "1654"
     },
     {
-        "count": 2,
+        "count": 43,
         "index": 432,
         "label": "1655",
         "url": "https://jpsearch.go.jp/entity/time/1655",
         "value": "1655"
     },
     {
-        "count": 2,
+        "count": 51,
         "index": 358,
         "label": "1656",
         "url": "https://jpsearch.go.jp/entity/time/1656",
         "value": "1656"
     },
     {
-        "count": 3,
+        "count": 114,
         "index": 454,
         "label": "1657",
         "url": "https://jpsearch.go.jp/entity/time/1657",
         "value": "1657"
     },
     {
-        "count": 2,
+        "count": 41,
         "index": 270,
         "label": "1658",
         "url": "https://jpsearch.go.jp/entity/time/1658",
         "value": "1658"
     },
     {
-        "count": 1,
+        "count": 64,
         "index": 313,
         "label": "1659",
         "url": "https://jpsearch.go.jp/entity/time/1659",
         "value": "1659"
     },
     {
-        "count": 2,
+        "count": 67,
+        "index": 600,
+        "label": "1660",
+        "url": "https://jpsearch.go.jp/entity/time/1660",
+        "value": "1660"
+    },
+    {
+        "count": 77,
         "index": 421,
         "label": "1661",
         "url": "https://jpsearch.go.jp/entity/time/1661",
         "value": "1661"
     },
     {
-        "count": 6,
+        "count": 25,
+        "index": 576,
+        "label": "1662",
+        "url": "https://jpsearch.go.jp/entity/time/1662",
+        "value": "1662"
+    },
+    {
+        "count": 99,
         "index": 370,
         "label": "1663",
         "url": "https://jpsearch.go.jp/entity/time/1663",
         "value": "1663"
     },
     {
-        "count": 2,
+        "count": 40,
         "index": 71,
         "label": "1664",
         "url": "https://jpsearch.go.jp/entity/time/1664",
         "value": "1664"
     },
     {
-        "count": 5,
+        "count": 107,
         "index": 360,
         "label": "1665",
         "url": "https://jpsearch.go.jp/entity/time/1665",
         "value": "1665"
     },
     {
-        "count": 9,
+        "count": 186,
         "index": 307,
         "label": "1666",
         "url": "https://jpsearch.go.jp/entity/time/1666",
         "value": "1666"
     },
     {
-        "count": 3,
+        "count": 92,
         "index": 351,
         "label": "1667",
         "url": "https://jpsearch.go.jp/entity/time/1667",
         "value": "1667"
     },
     {
-        "count": 4,
+        "count": 48,
         "index": 367,
         "label": "1668",
         "url": "https://jpsearch.go.jp/entity/time/1668",
         "value": "1668"
     },
     {
-        "count": 8,
+        "count": 90,
         "index": 180,
         "label": "1669",
         "url": "https://jpsearch.go.jp/entity/time/1669",
         "value": "1669"
     },
     {
-        "count": 4,
+        "count": 75,
+        "index": 498,
+        "label": "1670",
+        "url": "https://jpsearch.go.jp/entity/time/1670",
+        "value": "1670"
+    },
+    {
+        "count": 91,
         "index": 464,
         "label": "1671",
         "url": "https://jpsearch.go.jp/entity/time/1671",
         "value": "1671"
     },
     {
-        "count": 5,
+        "count": 109,
         "index": 386,
         "label": "1672",
         "url": "https://jpsearch.go.jp/entity/time/1672",
         "value": "1672"
     },
     {
-        "count": 7,
+        "count": 146,
         "index": 327,
         "label": "1673",
         "url": "https://jpsearch.go.jp/entity/time/1673",
         "value": "1673"
     },
     {
-        "count": 1,
+        "count": 13,
+        "index": 624,
+        "label": "1674",
+        "url": "https://jpsearch.go.jp/entity/time/1674",
+        "value": "1674"
+    },
+    {
+        "count": 56,
+        "index": 644,
+        "label": "1675",
+        "url": "https://jpsearch.go.jp/entity/time/1675",
+        "value": "1675"
+    },
+    {
+        "count": 23,
+        "index": 606,
+        "label": "1676",
+        "url": "https://jpsearch.go.jp/entity/time/1676",
+        "value": "1676"
+    },
+    {
+        "count": 27,
         "index": 335,
         "label": "1677",
         "url": "https://jpsearch.go.jp/entity/time/1677",
         "value": "1677"
     },
     {
-        "count": 2,
+        "count": 1,
+        "index": 1018,
+        "label": "1677-1702",
+        "url": "https://jpsearch.go.jp/entity/time/1677-1702",
+        "value": "1677-1702"
+    },
+    {
+        "count": 42,
         "index": 383,
         "label": "1678",
         "url": "https://jpsearch.go.jp/entity/time/1678",
         "value": "1678"
     },
     {
-        "count": 2,
+        "count": 12,
+        "index": 636,
+        "label": "1679",
+        "url": "https://jpsearch.go.jp/entity/time/1679",
+        "value": "1679"
+    },
+    {
+        "count": 45,
         "index": 338,
         "label": "1680",
         "url": "https://jpsearch.go.jp/entity/time/1680",
@@ -1520,132 +3795,209 @@
     },
     {
         "count": 1,
+        "index": 1008,
+        "label": "1680-1721",
+        "url": "https://jpsearch.go.jp/entity/time/1680-1721",
+        "value": "1680-1721"
+    },
+    {
+        "count": 21,
         "index": 306,
         "label": "1681",
         "url": "https://jpsearch.go.jp/entity/time/1681",
         "value": "1681"
     },
     {
-        "count": 1,
+        "count": 40,
         "index": 455,
         "label": "1682",
         "url": "https://jpsearch.go.jp/entity/time/1682",
         "value": "1682"
     },
     {
-        "count": 1,
+        "count": 30,
+        "index": 583,
+        "label": "1683",
+        "url": "https://jpsearch.go.jp/entity/time/1683",
+        "value": "1683"
+    },
+    {
+        "count": 37,
         "index": 470,
         "label": "1684",
         "url": "https://jpsearch.go.jp/entity/time/1684",
         "value": "1684"
     },
     {
-        "count": 3,
+        "count": 48,
+        "index": 500,
+        "label": "1685",
+        "url": "https://jpsearch.go.jp/entity/time/1685",
+        "value": "1685"
+    },
+    {
+        "count": 45,
+        "index": 587,
+        "label": "1686",
+        "url": "https://jpsearch.go.jp/entity/time/1686",
+        "value": "1686"
+    },
+    {
+        "count": 55,
         "index": 309,
         "label": "1687",
         "url": "https://jpsearch.go.jp/entity/time/1687",
         "value": "1687"
     },
     {
-        "count": 4,
+        "count": 70,
         "index": 341,
         "label": "1688",
         "url": "https://jpsearch.go.jp/entity/time/1688",
         "value": "1688"
     },
     {
-        "count": 1,
+        "count": 26,
         "index": 410,
         "label": "1689",
         "url": "https://jpsearch.go.jp/entity/time/1689",
         "value": "1689"
     },
     {
-        "count": 2,
+        "count": 56,
         "index": 297,
         "label": "1690",
         "url": "https://jpsearch.go.jp/entity/time/1690",
         "value": "1690"
     },
     {
-        "count": 4,
+        "count": 129,
         "index": 328,
         "label": "1691",
         "url": "https://jpsearch.go.jp/entity/time/1691",
         "value": "1691"
     },
     {
-        "count": 3,
+        "count": 56,
+        "index": 610,
+        "label": "1692",
+        "url": "https://jpsearch.go.jp/entity/time/1692",
+        "value": "1692"
+    },
+    {
+        "count": 5,
+        "index": 646,
+        "label": "1692-1695",
+        "url": "https://jpsearch.go.jp/entity/time/1692-1695",
+        "value": "1692-1695"
+    },
+    {
+        "count": 51,
+        "index": 602,
+        "label": "1693",
+        "url": "https://jpsearch.go.jp/entity/time/1693",
+        "value": "1693"
+    },
+    {
+        "count": 85,
         "index": 95,
         "label": "1694",
         "url": "https://jpsearch.go.jp/entity/time/1694",
         "value": "1694"
     },
     {
-        "count": 2,
+        "count": 86,
         "index": 369,
         "label": "1695",
         "url": "https://jpsearch.go.jp/entity/time/1695",
         "value": "1695"
     },
     {
-        "count": 3,
+        "count": 38,
+        "index": 723,
+        "label": "1696",
+        "url": "https://jpsearch.go.jp/entity/time/1696",
+        "value": "1696"
+    },
+    {
+        "count": 84,
         "index": 163,
         "label": "1697",
         "url": "https://jpsearch.go.jp/entity/time/1697",
         "value": "1697"
     },
     {
-        "count": 1,
+        "count": 61,
         "index": 350,
         "label": "1698",
         "url": "https://jpsearch.go.jp/entity/time/1698",
         "value": "1698"
     },
     {
-        "count": 8,
+        "count": 21,
+        "index": 592,
+        "label": "1699",
+        "url": "https://jpsearch.go.jp/entity/time/1699",
+        "value": "1699"
+    },
+    {
+        "count": 2,
+        "index": 760,
+        "label": "1699bce-1400bce",
+        "url": "https://jpsearch.go.jp/entity/time/1699BCE-1400BCE",
+        "value": "1699BCE-1400BCE"
+    },
+    {
+        "count": 231,
         "index": 303,
         "label": "1700",
         "url": "https://jpsearch.go.jp/entity/time/1700",
         "value": "1700"
     },
     {
-        "count": 167,
+        "count": 966,
         "index": 22,
         "label": "1700-1799",
         "url": "https://jpsearch.go.jp/entity/time/1700-1799",
         "value": "1700-1799"
     },
     {
-        "count": 182,
+        "count": 4716,
         "index": 52,
         "label": "1700-1899",
         "url": "https://jpsearch.go.jp/entity/time/1700-1899",
         "value": "1700-1899"
     },
     {
-        "count": 1,
+        "count": 43,
+        "index": 504,
+        "label": "1701",
+        "url": "https://jpsearch.go.jp/entity/time/1701",
+        "value": "1701"
+    },
+    {
+        "count": 26,
         "index": 269,
         "label": "1702",
         "url": "https://jpsearch.go.jp/entity/time/1702",
         "value": "1702"
     },
     {
-        "count": 2,
+        "count": 52,
         "index": 278,
         "label": "1703",
         "url": "https://jpsearch.go.jp/entity/time/1703",
         "value": "1703"
     },
     {
-        "count": 2,
+        "count": 50,
         "index": 332,
         "label": "1704",
         "url": "https://jpsearch.go.jp/entity/time/1704",
         "value": "1704"
     },
     {
-        "count": 4,
+        "count": 59,
         "index": 296,
         "label": "1705",
         "url": "https://jpsearch.go.jp/entity/time/1705",
@@ -1653,216 +4005,342 @@
     },
     {
         "count": 1,
+        "index": 1012,
+        "label": "1705-1713",
+        "url": "https://jpsearch.go.jp/entity/time/1705-1713",
+        "value": "1705-1713"
+    },
+    {
+        "count": 29,
+        "index": 497,
+        "label": "1706",
+        "url": "https://jpsearch.go.jp/entity/time/1706",
+        "value": "1706"
+    },
+    {
+        "count": 26,
+        "index": 608,
+        "label": "1707",
+        "url": "https://jpsearch.go.jp/entity/time/1707",
+        "value": "1707"
+    },
+    {
+        "count": 36,
         "index": 391,
         "label": "1708",
         "url": "https://jpsearch.go.jp/entity/time/1708",
         "value": "1708"
     },
     {
-        "count": 3,
+        "count": 101,
         "index": 357,
         "label": "1709",
         "url": "https://jpsearch.go.jp/entity/time/1709",
         "value": "1709"
     },
     {
-        "count": 4,
+        "count": 168,
+        "index": 513,
+        "label": "1710",
+        "url": "https://jpsearch.go.jp/entity/time/1710",
+        "value": "1710"
+    },
+    {
+        "count": 54,
         "index": 394,
         "label": "1711",
         "url": "https://jpsearch.go.jp/entity/time/1711",
         "value": "1711"
     },
     {
-        "count": 1,
+        "count": 47,
+        "index": 589,
+        "label": "1712",
+        "url": "https://jpsearch.go.jp/entity/time/1712",
+        "value": "1712"
+    },
+    {
+        "count": 44,
         "index": 452,
         "label": "1713",
         "url": "https://jpsearch.go.jp/entity/time/1713",
         "value": "1713"
     },
     {
-        "count": 3,
+        "count": 91,
         "index": 384,
         "label": "1714",
         "url": "https://jpsearch.go.jp/entity/time/1714",
         "value": "1714"
     },
     {
-        "count": 3,
+        "count": 44,
+        "index": 571,
+        "label": "1715",
+        "url": "https://jpsearch.go.jp/entity/time/1715",
+        "value": "1715"
+    },
+    {
+        "count": 44,
         "index": 333,
         "label": "1716",
         "url": "https://jpsearch.go.jp/entity/time/1716",
         "value": "1716"
     },
     {
-        "count": 1,
+        "count": 59,
         "index": 457,
         "label": "1717",
         "url": "https://jpsearch.go.jp/entity/time/1717",
         "value": "1717"
     },
     {
-        "count": 2,
+        "count": 60,
         "index": 362,
         "label": "1718",
         "url": "https://jpsearch.go.jp/entity/time/1718",
         "value": "1718"
     },
     {
-        "count": 1,
+        "count": 27,
         "index": 366,
         "label": "1719",
         "url": "https://jpsearch.go.jp/entity/time/1719",
         "value": "1719"
     },
     {
-        "count": 1,
+        "count": 21,
+        "index": 711,
+        "label": "1720",
+        "url": "https://jpsearch.go.jp/entity/time/1720",
+        "value": "1720"
+    },
+    {
+        "count": 48,
         "index": 371,
         "label": "1721",
         "url": "https://jpsearch.go.jp/entity/time/1721",
         "value": "1721"
     },
     {
-        "count": 1,
+        "count": 17,
         "index": 438,
         "label": "1722",
         "url": "https://jpsearch.go.jp/entity/time/1722",
         "value": "1722"
     },
     {
+        "count": 11,
+        "index": 625,
+        "label": "1723",
+        "url": "https://jpsearch.go.jp/entity/time/1723",
+        "value": "1723"
+    },
+    {
         "count": 1,
+        "index": 705,
+        "label": "1723-1735",
+        "url": "https://jpsearch.go.jp/entity/time/1723-1735",
+        "value": "1723-1735"
+    },
+    {
+        "count": 60,
         "index": 456,
         "label": "1724",
         "url": "https://jpsearch.go.jp/entity/time/1724",
         "value": "1724"
     },
     {
-        "count": 7,
+        "count": 20,
+        "index": 493,
+        "label": "1725",
+        "url": "https://jpsearch.go.jp/entity/time/1725",
+        "value": "1725"
+    },
+    {
+        "count": 17,
+        "index": 594,
+        "label": "1726",
+        "url": "https://jpsearch.go.jp/entity/time/1726",
+        "value": "1726"
+    },
+    {
+        "count": 108,
         "index": 171,
         "label": "1727",
         "url": "https://jpsearch.go.jp/entity/time/1727",
         "value": "1727"
     },
     {
-        "count": 1,
+        "count": 22,
         "index": 397,
         "label": "1728",
         "url": "https://jpsearch.go.jp/entity/time/1728",
         "value": "1728"
     },
     {
-        "count": 1,
+        "count": 42,
+        "index": 718,
+        "label": "1729",
+        "url": "https://jpsearch.go.jp/entity/time/1729",
+        "value": "1729"
+    },
+    {
+        "count": 30,
         "index": 447,
         "label": "1730",
         "url": "https://jpsearch.go.jp/entity/time/1730",
         "value": "1730"
     },
     {
-        "count": 1,
+        "count": 25,
         "index": 422,
         "label": "1731",
         "url": "https://jpsearch.go.jp/entity/time/1731",
         "value": "1731"
     },
     {
-        "count": 1,
+        "count": 40,
         "index": 300,
         "label": "1732",
         "url": "https://jpsearch.go.jp/entity/time/1732",
         "value": "1732"
     },
     {
-        "count": 1,
+        "count": 78,
         "index": 373,
         "label": "1733",
         "url": "https://jpsearch.go.jp/entity/time/1733",
         "value": "1733"
     },
     {
-        "count": 2,
+        "count": 20,
         "index": 220,
         "label": "1734",
         "url": "https://jpsearch.go.jp/entity/time/1734",
         "value": "1734"
     },
     {
-        "count": 3,
+        "count": 90,
         "index": 352,
         "label": "1735",
         "url": "https://jpsearch.go.jp/entity/time/1735",
         "value": "1735"
     },
     {
-        "count": 1,
+        "count": 13,
+        "index": 719,
+        "label": "1736",
+        "url": "https://jpsearch.go.jp/entity/time/1736",
+        "value": "1736"
+    },
+    {
+        "count": 8,
+        "index": 563,
+        "label": "1736-1795",
+        "url": "https://jpsearch.go.jp/entity/time/1736-1795",
+        "value": "1736-1795"
+    },
+    {
+        "count": 20,
+        "index": 714,
+        "label": "1737",
+        "url": "https://jpsearch.go.jp/entity/time/1737",
+        "value": "1737"
+    },
+    {
+        "count": 21,
         "index": 458,
         "label": "1738",
         "url": "https://jpsearch.go.jp/entity/time/1738",
         "value": "1738"
     },
     {
-        "count": 1,
+        "count": 16,
         "index": 305,
         "label": "1739",
         "url": "https://jpsearch.go.jp/entity/time/1739",
         "value": "1739"
     },
     {
-        "count": 1,
+        "count": 23,
         "index": 364,
         "label": "1740",
         "url": "https://jpsearch.go.jp/entity/time/1740",
         "value": "1740"
     },
     {
-        "count": 1,
+        "count": 28,
         "index": 204,
         "label": "1741",
         "url": "https://jpsearch.go.jp/entity/time/1741",
         "value": "1741"
     },
     {
-        "count": 1,
+        "count": 28,
         "index": 420,
         "label": "1742",
         "url": "https://jpsearch.go.jp/entity/time/1742",
         "value": "1742"
     },
     {
-        "count": 1,
+        "count": 30,
         "index": 436,
         "label": "1743",
         "url": "https://jpsearch.go.jp/entity/time/1743",
         "value": "1743"
     },
     {
-        "count": 1,
+        "count": 54,
+        "index": 710,
+        "label": "1744",
+        "url": "https://jpsearch.go.jp/entity/time/1744",
+        "value": "1744"
+    },
+    {
+        "count": 49,
         "index": 465,
         "label": "1745",
         "url": "https://jpsearch.go.jp/entity/time/1745",
         "value": "1745"
     },
     {
-        "count": 1,
+        "count": 18,
+        "index": 499,
+        "label": "1746",
+        "url": "https://jpsearch.go.jp/entity/time/1746",
+        "value": "1746"
+    },
+    {
+        "count": 24,
+        "index": 588,
+        "label": "1747",
+        "url": "https://jpsearch.go.jp/entity/time/1747",
+        "value": "1747"
+    },
+    {
+        "count": 46,
         "index": 282,
         "label": "1748",
         "url": "https://jpsearch.go.jp/entity/time/1748",
         "value": "1748"
     },
     {
-        "count": 2,
+        "count": 57,
         "index": 418,
         "label": "1749",
         "url": "https://jpsearch.go.jp/entity/time/1749",
         "value": "1749"
     },
     {
-        "count": 2,
+        "count": 88,
         "index": 406,
         "label": "1750",
         "url": "https://jpsearch.go.jp/entity/time/1750",
         "value": "1750"
     },
     {
-        "count": 2,
+        "count": 35,
         "index": 387,
         "label": "1751",
         "url": "https://jpsearch.go.jp/entity/time/1751",
@@ -1870,279 +4348,370 @@
     },
     {
         "count": 1,
+        "index": 653,
+        "label": "1751-1802",
+        "url": "https://jpsearch.go.jp/entity/time/1751-1802",
+        "value": "1751-1802"
+    },
+    {
+        "count": 18,
+        "index": 506,
+        "label": "1752",
+        "url": "https://jpsearch.go.jp/entity/time/1752",
+        "value": "1752"
+    },
+    {
+        "count": 23,
+        "index": 496,
+        "label": "1753",
+        "url": "https://jpsearch.go.jp/entity/time/1753",
+        "value": "1753"
+    },
+    {
+        "count": 25,
         "index": 469,
         "label": "1754",
         "url": "https://jpsearch.go.jp/entity/time/1754",
         "value": "1754"
     },
     {
-        "count": 1,
+        "count": 70,
         "index": 448,
         "label": "1755",
         "url": "https://jpsearch.go.jp/entity/time/1755",
         "value": "1755"
     },
     {
-        "count": 1,
+        "count": 59,
+        "index": 505,
+        "label": "1756",
+        "url": "https://jpsearch.go.jp/entity/time/1756",
+        "value": "1756"
+    },
+    {
+        "count": 24,
         "index": 339,
         "label": "1757",
         "url": "https://jpsearch.go.jp/entity/time/1757",
         "value": "1757"
     },
     {
-        "count": 4,
+        "count": 53,
         "index": 150,
         "label": "1758",
         "url": "https://jpsearch.go.jp/entity/time/1758",
         "value": "1758"
     },
     {
-        "count": 6,
+        "count": 49,
         "index": 275,
         "label": "1759",
         "url": "https://jpsearch.go.jp/entity/time/1759",
         "value": "1759"
     },
     {
-        "count": 1,
+        "count": 23,
+        "index": 615,
+        "label": "1760",
+        "url": "https://jpsearch.go.jp/entity/time/1760",
+        "value": "1760"
+    },
+    {
+        "count": 27,
         "index": 417,
         "label": "1761",
         "url": "https://jpsearch.go.jp/entity/time/1761",
         "value": "1761"
     },
     {
-        "count": 1,
+        "count": 40,
+        "index": 609,
+        "label": "1762",
+        "url": "https://jpsearch.go.jp/entity/time/1762",
+        "value": "1762"
+    },
+    {
+        "count": 73,
         "index": 231,
         "label": "1763",
         "url": "https://jpsearch.go.jp/entity/time/1763",
         "value": "1763"
     },
     {
-        "count": 1,
+        "count": 31,
         "index": 381,
         "label": "1764",
         "url": "https://jpsearch.go.jp/entity/time/1764",
         "value": "1764"
     },
     {
-        "count": 2,
+        "count": 43,
         "index": 58,
         "label": "1765",
         "url": "https://jpsearch.go.jp/entity/time/1765",
         "value": "1765"
     },
     {
-        "count": 2,
+        "count": 29,
+        "index": 584,
+        "label": "1766",
+        "url": "https://jpsearch.go.jp/entity/time/1766",
+        "value": "1766"
+    },
+    {
+        "count": 19,
+        "index": 492,
+        "label": "1767",
+        "url": "https://jpsearch.go.jp/entity/time/1767",
+        "value": "1767"
+    },
+    {
+        "count": 23,
         "index": 259,
         "label": "1768",
         "url": "https://jpsearch.go.jp/entity/time/1768",
         "value": "1768"
     },
     {
-        "count": 1,
+        "count": 61,
         "index": 281,
         "label": "1769",
         "url": "https://jpsearch.go.jp/entity/time/1769",
         "value": "1769"
     },
     {
-        "count": 1,
+        "count": 51,
         "index": 304,
         "label": "1770",
         "url": "https://jpsearch.go.jp/entity/time/1770",
         "value": "1770"
     },
     {
-        "count": 5,
+        "count": 97,
         "index": 302,
         "label": "1771",
         "url": "https://jpsearch.go.jp/entity/time/1771",
         "value": "1771"
     },
     {
-        "count": 2,
+        "count": 50,
         "index": 276,
         "label": "1772",
         "url": "https://jpsearch.go.jp/entity/time/1772",
         "value": "1772"
     },
     {
-        "count": 5,
+        "count": 66,
         "index": 363,
         "label": "1773",
         "url": "https://jpsearch.go.jp/entity/time/1773",
         "value": "1773"
     },
     {
-        "count": 3,
+        "count": 90,
         "index": 353,
         "label": "1774",
         "url": "https://jpsearch.go.jp/entity/time/1774",
         "value": "1774"
     },
     {
-        "count": 2,
+        "count": 76,
         "index": 295,
         "label": "1775",
         "url": "https://jpsearch.go.jp/entity/time/1775",
         "value": "1775"
     },
     {
-        "count": 2,
+        "count": 86,
         "index": 372,
         "label": "1776",
         "url": "https://jpsearch.go.jp/entity/time/1776",
         "value": "1776"
     },
     {
-        "count": 1,
+        "count": 98,
         "index": 439,
         "label": "1777",
         "url": "https://jpsearch.go.jp/entity/time/1777",
         "value": "1777"
     },
     {
-        "count": 1,
+        "count": 55,
         "index": 202,
         "label": "1778",
         "url": "https://jpsearch.go.jp/entity/time/1778",
         "value": "1778"
     },
     {
-        "count": 3,
+        "count": 83,
         "index": 175,
         "label": "1779",
         "url": "https://jpsearch.go.jp/entity/time/1779",
         "value": "1779"
     },
     {
-        "count": 4,
+        "count": 126,
         "index": 200,
         "label": "1780",
         "url": "https://jpsearch.go.jp/entity/time/1780",
         "value": "1780"
     },
     {
-        "count": 3,
+        "count": 81,
         "index": 229,
         "label": "1781",
         "url": "https://jpsearch.go.jp/entity/time/1781",
         "value": "1781"
     },
     {
-        "count": 2,
+        "count": 68,
         "index": 69,
         "label": "1782",
         "url": "https://jpsearch.go.jp/entity/time/1782",
         "value": "1782"
     },
     {
-        "count": 4,
+        "count": 121,
         "index": 170,
         "label": "1783",
         "url": "https://jpsearch.go.jp/entity/time/1783",
         "value": "1783"
     },
     {
-        "count": 4,
+        "count": 1,
+        "index": 901,
+        "label": "1783-1811",
+        "url": "https://jpsearch.go.jp/entity/time/1783-1811",
+        "value": "1783-1811"
+    },
+    {
+        "count": 105,
+        "index": 603,
+        "label": "1784",
+        "url": "https://jpsearch.go.jp/entity/time/1784",
+        "value": "1784"
+    },
+    {
+        "count": 74,
         "index": 237,
         "label": "1785",
         "url": "https://jpsearch.go.jp/entity/time/1785",
         "value": "1785"
     },
     {
-        "count": 2,
+        "count": 88,
         "index": 460,
         "label": "1786",
         "url": "https://jpsearch.go.jp/entity/time/1786",
         "value": "1786"
     },
     {
-        "count": 1,
+        "count": 101,
         "index": 405,
         "label": "1787",
         "url": "https://jpsearch.go.jp/entity/time/1787",
         "value": "1787"
     },
     {
-        "count": 2,
+        "count": 77,
         "index": 279,
         "label": "1788",
         "url": "https://jpsearch.go.jp/entity/time/1788",
         "value": "1788"
     },
     {
-        "count": 5,
+        "count": 113,
         "index": 348,
         "label": "1789",
         "url": "https://jpsearch.go.jp/entity/time/1789",
         "value": "1789"
     },
     {
-        "count": 4,
+        "count": 8,
+        "index": 619,
+        "label": "1789-1798",
+        "url": "https://jpsearch.go.jp/entity/time/1789-1798",
+        "value": "1789-1798"
+    },
+    {
+        "count": 92,
         "index": 272,
         "label": "1790",
         "url": "https://jpsearch.go.jp/entity/time/1790",
         "value": "1790"
     },
     {
-        "count": 6,
+        "count": 1,
+        "index": 898,
+        "label": "1790-1837",
+        "url": "https://jpsearch.go.jp/entity/time/1790-1837",
+        "value": "1790-1837"
+    },
+    {
+        "count": 109,
         "index": 280,
         "label": "1791",
         "url": "https://jpsearch.go.jp/entity/time/1791",
         "value": "1791"
     },
     {
-        "count": 7,
+        "count": 137,
         "index": 310,
         "label": "1792",
         "url": "https://jpsearch.go.jp/entity/time/1792",
         "value": "1792"
     },
     {
-        "count": 3,
+        "count": 1,
+        "index": 1017,
+        "label": "1792-1833",
+        "url": "https://jpsearch.go.jp/entity/time/1792-1833",
+        "value": "1792-1833"
+    },
+    {
+        "count": 102,
         "index": 105,
         "label": "1793",
         "url": "https://jpsearch.go.jp/entity/time/1793",
         "value": "1793"
     },
     {
-        "count": 15,
+        "count": 125,
         "index": 54,
         "label": "1794",
         "url": "https://jpsearch.go.jp/entity/time/1794",
         "value": "1794"
     },
     {
-        "count": 10,
+        "count": 143,
         "index": 113,
         "label": "1795",
         "url": "https://jpsearch.go.jp/entity/time/1795",
         "value": "1795"
     },
     {
-        "count": 10,
+        "count": 218,
         "index": 164,
         "label": "1796",
         "url": "https://jpsearch.go.jp/entity/time/1796",
         "value": "1796"
     },
     {
-        "count": 6,
+        "count": 131,
         "index": 277,
         "label": "1797",
         "url": "https://jpsearch.go.jp/entity/time/1797",
         "value": "1797"
     },
     {
-        "count": 6,
+        "count": 112,
         "index": 273,
         "label": "1798",
         "url": "https://jpsearch.go.jp/entity/time/1798",
         "value": "1798"
     },
     {
-        "count": 7,
+        "count": 131,
         "index": 191,
         "label": "1799",
         "url": "https://jpsearch.go.jp/entity/time/1799",
@@ -2156,336 +4725,399 @@
         "value": "1799BCE-1500BCE"
     },
     {
-        "count": 124,
+        "count": 3658,
         "index": 165,
         "label": "1800",
         "url": "https://jpsearch.go.jp/entity/time/1800",
         "value": "1800"
     },
     {
-        "count": 285,
+        "count": 2568,
         "index": 36,
         "label": "1800-1899",
         "url": "https://jpsearch.go.jp/entity/time/1800-1899",
         "value": "1800-1899"
     },
     {
-        "count": 18,
+        "count": 625,
         "index": 247,
         "label": "1800-1999",
         "url": "https://jpsearch.go.jp/entity/time/1800-1999",
         "value": "1800-1999"
     },
     {
-        "count": 2,
+        "count": 1,
+        "index": 1060,
+        "label": "18000bce",
+        "url": "https://jpsearch.go.jp/entity/time/18000BCE",
+        "value": "18000BCE"
+    },
+    {
+        "count": 186,
         "index": 127,
         "label": "1801",
         "url": "https://jpsearch.go.jp/entity/time/1801",
         "value": "1801"
     },
     {
-        "count": 12,
+        "count": 171,
         "index": 340,
         "label": "1802",
         "url": "https://jpsearch.go.jp/entity/time/1802",
         "value": "1802"
     },
     {
-        "count": 9,
+        "count": 138,
         "index": 271,
         "label": "1803",
         "url": "https://jpsearch.go.jp/entity/time/1803",
         "value": "1803"
     },
     {
-        "count": 2,
+        "count": 123,
         "index": 468,
         "label": "1804",
         "url": "https://jpsearch.go.jp/entity/time/1804",
         "value": "1804"
     },
     {
-        "count": 6,
+        "count": 216,
         "index": 344,
         "label": "1805",
         "url": "https://jpsearch.go.jp/entity/time/1805",
         "value": "1805"
     },
     {
-        "count": 2,
+        "count": 147,
         "index": 330,
         "label": "1806",
         "url": "https://jpsearch.go.jp/entity/time/1806",
         "value": "1806"
     },
     {
-        "count": 8,
+        "count": 125,
         "index": 283,
         "label": "1807",
         "url": "https://jpsearch.go.jp/entity/time/1807",
         "value": "1807"
     },
     {
-        "count": 2,
+        "count": 150,
         "index": 444,
         "label": "1808",
         "url": "https://jpsearch.go.jp/entity/time/1808",
         "value": "1808"
     },
     {
-        "count": 4,
+        "count": 140,
         "index": 292,
         "label": "1809",
         "url": "https://jpsearch.go.jp/entity/time/1809",
         "value": "1809"
     },
     {
-        "count": 1,
+        "count": 98,
         "index": 437,
         "label": "1810",
         "url": "https://jpsearch.go.jp/entity/time/1810",
         "value": "1810"
     },
     {
-        "count": 7,
+        "count": 114,
         "index": 176,
         "label": "1811",
         "url": "https://jpsearch.go.jp/entity/time/1811",
         "value": "1811"
     },
     {
-        "count": 2,
+        "count": 132,
         "index": 377,
         "label": "1812",
         "url": "https://jpsearch.go.jp/entity/time/1812",
         "value": "1812"
     },
     {
-        "count": 3,
+        "count": 128,
         "index": 289,
         "label": "1813",
         "url": "https://jpsearch.go.jp/entity/time/1813",
         "value": "1813"
     },
     {
-        "count": 10,
+        "count": 294,
         "index": 334,
         "label": "1814",
         "url": "https://jpsearch.go.jp/entity/time/1814",
         "value": "1814"
     },
     {
-        "count": 2,
+        "count": 128,
         "index": 234,
         "label": "1815",
         "url": "https://jpsearch.go.jp/entity/time/1815",
         "value": "1815"
     },
     {
-        "count": 9,
+        "count": 7,
+        "index": 612,
+        "label": "1815-1842",
+        "url": "https://jpsearch.go.jp/entity/time/1815-1842",
+        "value": "1815-1842"
+    },
+    {
+        "count": 203,
         "index": 228,
         "label": "1816",
         "url": "https://jpsearch.go.jp/entity/time/1816",
         "value": "1816"
     },
     {
-        "count": 5,
+        "count": 150,
         "index": 390,
         "label": "1817",
         "url": "https://jpsearch.go.jp/entity/time/1817",
         "value": "1817"
     },
     {
-        "count": 3,
+        "count": 124,
         "index": 349,
         "label": "1818",
         "url": "https://jpsearch.go.jp/entity/time/1818",
         "value": "1818"
     },
     {
-        "count": 4,
+        "count": 135,
         "index": 451,
         "label": "1818-1847",
         "url": "https://jpsearch.go.jp/entity/time/1818-1847",
         "value": "1818-1847"
     },
     {
-        "count": 9,
+        "count": 159,
         "index": 233,
         "label": "1819",
         "url": "https://jpsearch.go.jp/entity/time/1819",
         "value": "1819"
     },
     {
-        "count": 2,
+        "count": 1,
+        "index": 1064,
+        "label": "1819-1885",
+        "url": "https://jpsearch.go.jp/entity/time/1819-1885",
+        "value": "1819-1885"
+    },
+    {
+        "count": 119,
         "index": 445,
         "label": "1820",
         "url": "https://jpsearch.go.jp/entity/time/1820",
         "value": "1820"
     },
     {
-        "count": 4,
+        "count": 115,
         "index": 232,
         "label": "1821",
         "url": "https://jpsearch.go.jp/entity/time/1821",
         "value": "1821"
     },
     {
-        "count": 4,
+        "count": 123,
         "index": 301,
         "label": "1822",
         "url": "https://jpsearch.go.jp/entity/time/1822",
         "value": "1822"
     },
     {
-        "count": 4,
+        "count": 144,
         "index": 89,
         "label": "1823",
         "url": "https://jpsearch.go.jp/entity/time/1823",
         "value": "1823"
     },
     {
-        "count": 10,
+        "count": 289,
         "index": 198,
         "label": "1824",
         "url": "https://jpsearch.go.jp/entity/time/1824",
         "value": "1824"
     },
     {
-        "count": 10,
+        "count": 171,
         "index": 174,
         "label": "1825",
         "url": "https://jpsearch.go.jp/entity/time/1825",
         "value": "1825"
     },
     {
-        "count": 3,
+        "count": 1,
+        "index": 893,
+        "label": "1825-1835",
+        "url": "https://jpsearch.go.jp/entity/time/1825-1835",
+        "value": "1825-1835"
+    },
+    {
+        "count": 126,
         "index": 408,
         "label": "1826",
         "url": "https://jpsearch.go.jp/entity/time/1826",
         "value": "1826"
     },
     {
-        "count": 8,
+        "count": 156,
         "index": 114,
         "label": "1827",
         "url": "https://jpsearch.go.jp/entity/time/1827",
         "value": "1827"
     },
     {
-        "count": 7,
+        "count": 191,
         "index": 227,
         "label": "1828",
         "url": "https://jpsearch.go.jp/entity/time/1828",
         "value": "1828"
     },
     {
-        "count": 9,
+        "count": 250,
         "index": 190,
         "label": "1829",
         "url": "https://jpsearch.go.jp/entity/time/1829",
         "value": "1829"
     },
     {
-        "count": 11,
+        "count": 252,
         "index": 106,
         "label": "1830",
         "url": "https://jpsearch.go.jp/entity/time/1830",
         "value": "1830"
     },
     {
-        "count": 6,
+        "count": 1,
+        "index": 921,
+        "label": "1830-1836",
+        "url": "https://jpsearch.go.jp/entity/time/1830-1836",
+        "value": "1830-1836"
+    },
+    {
+        "count": 160,
         "index": 112,
         "label": "1831",
         "url": "https://jpsearch.go.jp/entity/time/1831",
         "value": "1831"
     },
     {
-        "count": 9,
+        "count": 127,
         "index": 186,
         "label": "1832",
         "url": "https://jpsearch.go.jp/entity/time/1832",
         "value": "1832"
     },
     {
-        "count": 9,
+        "count": 241,
         "index": 343,
         "label": "1833",
         "url": "https://jpsearch.go.jp/entity/time/1833",
         "value": "1833"
     },
     {
-        "count": 6,
+        "count": 4,
+        "index": 633,
+        "label": "1833-1834",
+        "url": "https://jpsearch.go.jp/entity/time/1833-1834",
+        "value": "1833-1834"
+    },
+    {
+        "count": 163,
         "index": 104,
         "label": "1834",
         "url": "https://jpsearch.go.jp/entity/time/1834",
         "value": "1834"
     },
     {
-        "count": 5,
+        "count": 166,
         "index": 291,
         "label": "1835",
         "url": "https://jpsearch.go.jp/entity/time/1835",
         "value": "1835"
     },
     {
-        "count": 4,
+        "count": 1,
+        "index": 892,
+        "label": "1835-1844",
+        "url": "https://jpsearch.go.jp/entity/time/1835-1844",
+        "value": "1835-1844"
+    },
+    {
+        "count": 187,
         "index": 290,
         "label": "1836",
         "url": "https://jpsearch.go.jp/entity/time/1836",
         "value": "1836"
     },
     {
-        "count": 9,
+        "count": 161,
         "index": 230,
         "label": "1837",
         "url": "https://jpsearch.go.jp/entity/time/1837",
         "value": "1837"
     },
     {
-        "count": 2,
+        "count": 213,
         "index": 419,
         "label": "1838",
         "url": "https://jpsearch.go.jp/entity/time/1838",
         "value": "1838"
     },
     {
-        "count": 5,
+        "count": 120,
         "index": 57,
         "label": "1839",
         "url": "https://jpsearch.go.jp/entity/time/1839",
         "value": "1839"
     },
     {
-        "count": 3,
+        "count": 136,
         "index": 403,
         "label": "1840",
         "url": "https://jpsearch.go.jp/entity/time/1840",
         "value": "1840"
     },
     {
-        "count": 5,
+        "count": 176,
         "index": 337,
         "label": "1841",
         "url": "https://jpsearch.go.jp/entity/time/1841",
         "value": "1841"
     },
     {
-        "count": 4,
+        "count": 120,
         "index": 235,
         "label": "1842",
         "url": "https://jpsearch.go.jp/entity/time/1842",
         "value": "1842"
     },
     {
-        "count": 5,
+        "count": 1,
+        "index": 1075,
+        "label": "1842-1843",
+        "url": "https://jpsearch.go.jp/entity/time/1842-1843",
+        "value": "1842-1843"
+    },
+    {
+        "count": 183,
         "index": 368,
         "label": "1843",
         "url": "https://jpsearch.go.jp/entity/time/1843",
         "value": "1843"
     },
     {
-        "count": 5,
+        "count": 18,
+        "index": 626,
+        "label": "1843-1847",
+        "url": "https://jpsearch.go.jp/entity/time/1843-1847",
+        "value": "1843-1847"
+    },
+    {
+        "count": 220,
         "index": 359,
         "label": "1844",
         "url": "https://jpsearch.go.jp/entity/time/1844",
@@ -2493,223 +5125,342 @@
     },
     {
         "count": 2,
+        "index": 1000,
+        "label": "1844-1847",
+        "url": "https://jpsearch.go.jp/entity/time/1844-1847",
+        "value": "1844-1847"
+    },
+    {
+        "count": 1,
+        "index": 899,
+        "label": "1844-1849",
+        "url": "https://jpsearch.go.jp/entity/time/1844-1849",
+        "value": "1844-1849"
+    },
+    {
+        "count": 3,
+        "index": 670,
+        "label": "1844-1852",
+        "url": "https://jpsearch.go.jp/entity/time/1844-1852",
+        "value": "1844-1852"
+    },
+    {
+        "count": 98,
         "index": 201,
         "label": "1845",
         "url": "https://jpsearch.go.jp/entity/time/1845",
         "value": "1845"
     },
     {
-        "count": 5,
+        "count": 266,
         "index": 274,
         "label": "1846",
         "url": "https://jpsearch.go.jp/entity/time/1846",
         "value": "1846"
     },
     {
-        "count": 3,
+        "count": 170,
         "index": 345,
         "label": "1847",
         "url": "https://jpsearch.go.jp/entity/time/1847",
         "value": "1847"
     },
     {
-        "count": 5,
+        "count": 32,
+        "index": 611,
+        "label": "1847-1852",
+        "url": "https://jpsearch.go.jp/entity/time/1847-1852",
+        "value": "1847-1852"
+    },
+    {
+        "count": 176,
         "index": 361,
         "label": "1848",
         "url": "https://jpsearch.go.jp/entity/time/1848",
         "value": "1848"
     },
     {
-        "count": 10,
+        "count": 386,
         "index": 240,
         "label": "1849",
         "url": "https://jpsearch.go.jp/entity/time/1849",
         "value": "1849"
     },
     {
-        "count": 5,
+        "count": 4,
+        "index": 947,
+        "label": "1849-1862",
+        "url": "https://jpsearch.go.jp/entity/time/1849-1862",
+        "value": "1849-1862"
+    },
+    {
+        "count": 223,
         "index": 378,
         "label": "1850",
         "url": "https://jpsearch.go.jp/entity/time/1850",
         "value": "1850"
     },
     {
-        "count": 4,
+        "count": 170,
         "index": 365,
         "label": "1851",
         "url": "https://jpsearch.go.jp/entity/time/1851",
         "value": "1851"
     },
     {
-        "count": 23,
+        "count": 1,
+        "index": 1019,
+        "label": "1851-1852",
+        "url": "https://jpsearch.go.jp/entity/time/1851-1852",
+        "value": "1851-1852"
+    },
+    {
+        "count": 588,
         "index": 166,
         "label": "1852",
         "url": "https://jpsearch.go.jp/entity/time/1852",
         "value": "1852"
     },
     {
-        "count": 12,
+        "count": 269,
         "index": 260,
         "label": "1853",
         "url": "https://jpsearch.go.jp/entity/time/1853",
         "value": "1853"
     },
     {
-        "count": 10,
+        "count": 276,
         "index": 252,
         "label": "1854",
         "url": "https://jpsearch.go.jp/entity/time/1854",
         "value": "1854"
     },
     {
-        "count": 6,
+        "count": 3,
+        "index": 1003,
+        "label": "1854-1855",
+        "url": "https://jpsearch.go.jp/entity/time/1854-1855",
+        "value": "1854-1855"
+    },
+    {
+        "count": 1,
+        "index": 1005,
+        "label": "1854-1856",
+        "url": "https://jpsearch.go.jp/entity/time/1854-1856",
+        "value": "1854-1856"
+    },
+    {
+        "count": 307,
         "index": 412,
         "label": "1855",
         "url": "https://jpsearch.go.jp/entity/time/1855",
         "value": "1855"
     },
     {
-        "count": 16,
+        "count": 432,
         "index": 167,
         "label": "1856",
         "url": "https://jpsearch.go.jp/entity/time/1856",
         "value": "1856"
     },
     {
-        "count": 19,
+        "count": 1,
+        "index": 1006,
+        "label": "1856-1857",
+        "url": "https://jpsearch.go.jp/entity/time/1856-1857",
+        "value": "1856-1857"
+    },
+    {
+        "count": 1,
+        "index": 604,
+        "label": "1856-1858",
+        "url": "https://jpsearch.go.jp/entity/time/1856-1858",
+        "value": "1856-1858"
+    },
+    {
+        "count": 542,
         "index": 192,
         "label": "1857",
         "url": "https://jpsearch.go.jp/entity/time/1857",
         "value": "1857"
     },
     {
-        "count": 19,
+        "count": 2,
+        "index": 1021,
+        "label": "1857-1858",
+        "url": "https://jpsearch.go.jp/entity/time/1857-1858",
+        "value": "1857-1858"
+    },
+    {
+        "count": 558,
         "index": 194,
         "label": "1858",
         "url": "https://jpsearch.go.jp/entity/time/1858",
         "value": "1858"
     },
     {
-        "count": 26,
+        "count": 1,
+        "index": 904,
+        "label": "1858-1863",
+        "url": "https://jpsearch.go.jp/entity/time/1858-1863",
+        "value": "1858-1863"
+    },
+    {
+        "count": 609,
         "index": 253,
         "label": "1859",
         "url": "https://jpsearch.go.jp/entity/time/1859",
         "value": "1859"
     },
     {
-        "count": 10,
+        "count": 469,
         "index": 249,
         "label": "1860",
         "url": "https://jpsearch.go.jp/entity/time/1860",
         "value": "1860"
     },
     {
-        "count": 14,
+        "count": 414,
         "index": 250,
         "label": "1861",
         "url": "https://jpsearch.go.jp/entity/time/1861",
         "value": "1861"
     },
     {
-        "count": 13,
+        "count": 309,
         "index": 236,
         "label": "1862",
         "url": "https://jpsearch.go.jp/entity/time/1862",
         "value": "1862"
     },
     {
-        "count": 25,
+        "count": 651,
         "index": 251,
         "label": "1863",
         "url": "https://jpsearch.go.jp/entity/time/1863",
         "value": "1863"
     },
     {
-        "count": 4,
+        "count": 1,
+        "index": 948,
+        "label": "1863-1867",
+        "url": "https://jpsearch.go.jp/entity/time/1863-1867",
+        "value": "1863-1867"
+    },
+    {
+        "count": 212,
         "index": 254,
         "label": "1864",
         "url": "https://jpsearch.go.jp/entity/time/1864",
         "value": "1864"
     },
     {
-        "count": 13,
+        "count": 1,
+        "index": 654,
+        "label": "1864-1865",
+        "url": "https://jpsearch.go.jp/entity/time/1864-1865",
+        "value": "1864-1865"
+    },
+    {
+        "count": 333,
         "index": 93,
         "label": "1865",
         "url": "https://jpsearch.go.jp/entity/time/1865",
         "value": "1865"
     },
     {
-        "count": 10,
+        "count": 375,
         "index": 402,
         "label": "1866",
         "url": "https://jpsearch.go.jp/entity/time/1866",
         "value": "1866"
     },
     {
-        "count": 8,
+        "count": 267,
         "index": 245,
         "label": "1867",
         "url": "https://jpsearch.go.jp/entity/time/1867",
         "value": "1867"
     },
     {
-        "count": 9,
+        "count": 453,
         "index": 258,
         "label": "1868",
         "url": "https://jpsearch.go.jp/entity/time/1868",
         "value": "1868"
     },
     {
-        "count": 16,
+        "count": 2,
+        "index": 607,
+        "label": "1868-1871",
+        "url": "https://jpsearch.go.jp/entity/time/1868-1871",
+        "value": "1868-1871"
+    },
+    {
+        "count": 635,
         "index": 311,
         "label": "1869",
         "url": "https://jpsearch.go.jp/entity/time/1869",
         "value": "1869"
     },
     {
-        "count": 13,
+        "count": 701,
         "index": 299,
         "label": "1870",
         "url": "https://jpsearch.go.jp/entity/time/1870",
         "value": "1870"
     },
     {
-        "count": 16,
+        "count": 716,
         "index": 298,
         "label": "1871",
         "url": "https://jpsearch.go.jp/entity/time/1871",
         "value": "1871"
     },
     {
-        "count": 22,
+        "count": 731,
         "index": 107,
         "label": "1872",
         "url": "https://jpsearch.go.jp/entity/time/1872",
         "value": "1872"
     },
     {
-        "count": 25,
+        "count": 1154,
         "index": 246,
         "label": "1873",
         "url": "https://jpsearch.go.jp/entity/time/1873",
         "value": "1873"
     },
     {
-        "count": 36,
+        "count": 1,
+        "index": 1057,
+        "label": "1873-1883",
+        "url": "https://jpsearch.go.jp/entity/time/1873-1883",
+        "value": "1873-1883"
+    },
+    {
+        "count": 1569,
         "index": 44,
         "label": "1874",
         "url": "https://jpsearch.go.jp/entity/time/1874",
         "value": "1874"
     },
     {
-        "count": 57,
+        "count": 1,
+        "index": 768,
+        "label": "1874-1881",
+        "url": "https://jpsearch.go.jp/entity/time/1874-1881",
+        "value": "1874-1881"
+    },
+    {
+        "count": 1864,
         "index": 312,
         "label": "1875",
         "url": "https://jpsearch.go.jp/entity/time/1875",
         "value": "1875"
     },
     {
-        "count": 56,
+        "count": 2264,
         "index": 248,
         "label": "1876",
         "url": "https://jpsearch.go.jp/entity/time/1876",
@@ -2723,609 +5474,1708 @@
         "value": "1876-1878"
     },
     {
-        "count": 72,
+        "count": 2768,
         "index": 181,
         "label": "1877",
         "url": "https://jpsearch.go.jp/entity/time/1877",
         "value": "1877"
     },
     {
-        "count": 64,
+        "count": 2650,
         "index": 284,
         "label": "1878",
         "url": "https://jpsearch.go.jp/entity/time/1878",
         "value": "1878"
     },
     {
-        "count": 71,
+        "count": 2,
+        "index": 1054,
+        "label": "1878-1879",
+        "url": "https://jpsearch.go.jp/entity/time/1878-1879",
+        "value": "1878-1879"
+    },
+    {
+        "count": 1,
+        "index": 946,
+        "label": "1878-1883",
+        "url": "https://jpsearch.go.jp/entity/time/1878-1883",
+        "value": "1878-1883"
+    },
+    {
+        "count": 1,
+        "index": 908,
+        "label": "1878-1903",
+        "url": "https://jpsearch.go.jp/entity/time/1878-1903",
+        "value": "1878-1903"
+    },
+    {
+        "count": 2671,
         "index": 489,
         "label": "1879",
         "url": "https://jpsearch.go.jp/entity/time/1879",
         "value": "1879"
     },
     {
-        "count": 56,
+        "count": 1,
+        "index": 935,
+        "label": "1879-1891",
+        "url": "https://jpsearch.go.jp/entity/time/1879-1891",
+        "value": "1879-1891"
+    },
+    {
+        "count": 2869,
         "index": 205,
         "label": "1880",
         "url": "https://jpsearch.go.jp/entity/time/1880",
         "value": "1880"
     },
     {
-        "count": 57,
+        "count": 1,
+        "index": 1004,
+        "label": "1880-1882",
+        "url": "https://jpsearch.go.jp/entity/time/1880-1882",
+        "value": "1880-1882"
+    },
+    {
+        "count": 2475,
         "index": 263,
         "label": "1881",
         "url": "https://jpsearch.go.jp/entity/time/1881",
         "value": "1881"
     },
     {
-        "count": 67,
+        "count": 1,
+        "index": 928,
+        "label": "1881-1882",
+        "url": "https://jpsearch.go.jp/entity/time/1881-1882",
+        "value": "1881-1882"
+    },
+    {
+        "count": 2962,
         "index": 285,
         "label": "1882",
         "url": "https://jpsearch.go.jp/entity/time/1882",
         "value": "1882"
     },
     {
-        "count": 58,
+        "count": 3190,
         "index": 187,
         "label": "1883",
         "url": "https://jpsearch.go.jp/entity/time/1883",
         "value": "1883"
     },
     {
-        "count": 74,
+        "count": 3445,
         "index": 261,
         "label": "1884",
         "url": "https://jpsearch.go.jp/entity/time/1884",
         "value": "1884"
     },
     {
-        "count": 53,
+        "count": 3172,
         "index": 152,
         "label": "1885",
         "url": "https://jpsearch.go.jp/entity/time/1885",
         "value": "1885"
     },
     {
-        "count": 53,
+        "count": 3388,
         "index": 188,
         "label": "1886",
         "url": "https://jpsearch.go.jp/entity/time/1886",
         "value": "1886"
     },
     {
-        "count": 53,
+        "count": 3087,
         "index": 413,
         "label": "1887",
         "url": "https://jpsearch.go.jp/entity/time/1887",
         "value": "1887"
     },
     {
-        "count": 53,
+        "count": 1,
+        "index": 932,
+        "label": "1887-1896",
+        "url": "https://jpsearch.go.jp/entity/time/1887-1896",
+        "value": "1887-1896"
+    },
+    {
+        "count": 2964,
         "index": 255,
         "label": "1888",
         "url": "https://jpsearch.go.jp/entity/time/1888",
         "value": "1888"
     },
     {
-        "count": 52,
+        "count": 1,
+        "index": 817,
+        "label": "1888-1889",
+        "url": "https://jpsearch.go.jp/entity/time/1888-1889",
+        "value": "1888-1889"
+    },
+    {
+        "count": 2775,
         "index": 193,
         "label": "1889",
         "url": "https://jpsearch.go.jp/entity/time/1889",
         "value": "1889"
     },
     {
-        "count": 60,
+        "count": 3100,
         "index": 256,
         "label": "1890",
         "url": "https://jpsearch.go.jp/entity/time/1890",
         "value": "1890"
     },
     {
-        "count": 57,
+        "count": 1,
+        "index": 902,
+        "label": "1890-1892",
+        "url": "https://jpsearch.go.jp/entity/time/1890-1892",
+        "value": "1890-1892"
+    },
+    {
+        "count": 1,
+        "index": 997,
+        "label": "1890-1911",
+        "url": "https://jpsearch.go.jp/entity/time/1890-1911",
+        "value": "1890-1911"
+    },
+    {
+        "count": 3162,
         "index": 102,
         "label": "1891",
         "url": "https://jpsearch.go.jp/entity/time/1891",
         "value": "1891"
     },
     {
-        "count": 73,
+        "count": 1,
+        "index": 990,
+        "label": "1891-1892",
+        "url": "https://jpsearch.go.jp/entity/time/1891-1892",
+        "value": "1891-1892"
+    },
+    {
+        "count": 2880,
         "index": 94,
         "label": "1892",
         "url": "https://jpsearch.go.jp/entity/time/1892",
         "value": "1892"
     },
     {
-        "count": 65,
+        "count": 3,
+        "index": 763,
+        "label": "1892-1893",
+        "url": "https://jpsearch.go.jp/entity/time/1892-1893",
+        "value": "1892-1893"
+    },
+    {
+        "count": 3553,
         "index": 74,
         "label": "1893",
         "url": "https://jpsearch.go.jp/entity/time/1893",
         "value": "1893"
     },
     {
-        "count": 71,
+        "count": 3873,
         "index": 123,
         "label": "1894",
         "url": "https://jpsearch.go.jp/entity/time/1894",
         "value": "1894"
     },
     {
-        "count": 66,
+        "count": 1,
+        "index": 987,
+        "label": "1894-1895",
+        "url": "https://jpsearch.go.jp/entity/time/1894-1895",
+        "value": "1894-1895"
+    },
+    {
+        "count": 2877,
         "index": 262,
         "label": "1895",
         "url": "https://jpsearch.go.jp/entity/time/1895",
         "value": "1895"
     },
     {
-        "count": 50,
+        "count": 2501,
         "index": 183,
         "label": "1896",
         "url": "https://jpsearch.go.jp/entity/time/1896",
         "value": "1896"
     },
     {
-        "count": 56,
+        "count": 2696,
         "index": 48,
         "label": "1897",
         "url": "https://jpsearch.go.jp/entity/time/1897",
         "value": "1897"
     },
     {
-        "count": 54,
+        "count": 2491,
         "index": 411,
         "label": "1898",
         "url": "https://jpsearch.go.jp/entity/time/1898",
         "value": "1898"
     },
     {
-        "count": 55,
+        "count": 1,
+        "index": 1053,
+        "label": "1898-1899",
+        "url": "https://jpsearch.go.jp/entity/time/1898-1899",
+        "value": "1898-1899"
+    },
+    {
+        "count": 2480,
         "index": 203,
         "label": "1899",
         "url": "https://jpsearch.go.jp/entity/time/1899",
         "value": "1899"
     },
     {
-        "count": 66,
+        "count": 1,
+        "index": 767,
+        "label": "1899-1911",
+        "url": "https://jpsearch.go.jp/entity/time/1899-1911",
+        "value": "1899-1911"
+    },
+    {
+        "count": 3402,
         "index": 56,
         "label": "1900",
         "url": "https://jpsearch.go.jp/entity/time/1900",
         "value": "1900"
     },
     {
-        "count": 8,
+        "count": 100,
         "index": 32,
         "label": "1900-1999",
         "url": "https://jpsearch.go.jp/entity/time/1900-1999",
         "value": "1900-1999"
     },
     {
-        "count": 1,
+        "count": 4,
         "index": 288,
         "label": "1900-2099",
         "url": "https://jpsearch.go.jp/entity/time/1900-2099",
         "value": "1900-2099"
     },
     {
-        "count": 62,
+        "count": 3264,
         "index": 116,
         "label": "1901",
         "url": "https://jpsearch.go.jp/entity/time/1901",
         "value": "1901"
     },
     {
-        "count": 68,
+        "count": 3287,
         "index": 257,
         "label": "1902",
         "url": "https://jpsearch.go.jp/entity/time/1902",
         "value": "1902"
     },
     {
-        "count": 64,
+        "count": 4,
+        "index": 756,
+        "label": "1902-1907",
+        "url": "https://jpsearch.go.jp/entity/time/1902-1907",
+        "value": "1902-1907"
+    },
+    {
+        "count": 3481,
         "index": 393,
         "label": "1903",
         "url": "https://jpsearch.go.jp/entity/time/1903",
         "value": "1903"
     },
     {
-        "count": 53,
+        "count": 2695,
         "index": 482,
         "label": "1904",
         "url": "https://jpsearch.go.jp/entity/time/1904",
         "value": "1904"
     },
     {
-        "count": 51,
+        "count": 2699,
         "index": 55,
         "label": "1905",
         "url": "https://jpsearch.go.jp/entity/time/1905",
         "value": "1905"
     },
     {
-        "count": 57,
+        "count": 3234,
         "index": 400,
         "label": "1906",
         "url": "https://jpsearch.go.jp/entity/time/1906",
         "value": "1906"
     },
     {
-        "count": 59,
+        "count": 3064,
         "index": 184,
         "label": "1907",
         "url": "https://jpsearch.go.jp/entity/time/1907",
         "value": "1907"
     },
     {
-        "count": 67,
+        "count": 1,
+        "index": 630,
+        "label": "1907-1911",
+        "url": "https://jpsearch.go.jp/entity/time/1907-1911",
+        "value": "1907-1911"
+    },
+    {
+        "count": 1,
+        "index": 736,
+        "label": "1907-1912",
+        "url": "https://jpsearch.go.jp/entity/time/1907-1912",
+        "value": "1907-1912"
+    },
+    {
+        "count": 1,
+        "index": 989,
+        "label": "1907-1915",
+        "url": "https://jpsearch.go.jp/entity/time/1907-1915",
+        "value": "1907-1915"
+    },
+    {
+        "count": 17,
+        "index": 614,
+        "label": "1907-1918",
+        "url": "https://jpsearch.go.jp/entity/time/1907-1918",
+        "value": "1907-1918"
+    },
+    {
+        "count": 1,
+        "index": 1049,
+        "label": "1907-1933",
+        "url": "https://jpsearch.go.jp/entity/time/1907-1933",
+        "value": "1907-1933"
+    },
+    {
+        "count": 3478,
         "index": 483,
         "label": "1908",
         "url": "https://jpsearch.go.jp/entity/time/1908",
         "value": "1908"
     },
     {
-        "count": 73,
+        "count": 1,
+        "index": 1051,
+        "label": "1908-1912",
+        "url": "https://jpsearch.go.jp/entity/time/1908-1912",
+        "value": "1908-1912"
+    },
+    {
+        "count": 1,
+        "index": 1048,
+        "label": "1908-1913",
+        "url": "https://jpsearch.go.jp/entity/time/1908-1913",
+        "value": "1908-1913"
+    },
+    {
+        "count": 3782,
         "index": 51,
         "label": "1909",
         "url": "https://jpsearch.go.jp/entity/time/1909",
         "value": "1909"
     },
     {
-        "count": 89,
+        "count": 4264,
         "index": 49,
         "label": "1910",
         "url": "https://jpsearch.go.jp/entity/time/1910",
         "value": "1910"
     },
     {
-        "count": 115,
+        "count": 1,
+        "index": 996,
+        "label": "1910-1915",
+        "url": "https://jpsearch.go.jp/entity/time/1910-1915",
+        "value": "1910-1915"
+    },
+    {
+        "count": 5489,
         "index": 484,
         "label": "1911",
         "url": "https://jpsearch.go.jp/entity/time/1911",
         "value": "1911"
     },
     {
-        "count": 157,
+        "count": 3,
+        "index": 629,
+        "label": "1911-1920",
+        "url": "https://jpsearch.go.jp/entity/time/1911-1920",
+        "value": "1911-1920"
+    },
+    {
+        "count": 6796,
         "index": 103,
         "label": "1912",
         "url": "https://jpsearch.go.jp/entity/time/1912",
         "value": "1912"
     },
     {
-        "count": 89,
+        "count": 2,
+        "index": 1009,
+        "label": "1912-1918",
+        "url": "https://jpsearch.go.jp/entity/time/1912-1918",
+        "value": "1912-1918"
+    },
+    {
+        "count": 5,
+        "index": 627,
+        "label": "1912-1925",
+        "url": "https://jpsearch.go.jp/entity/time/1912-1925",
+        "value": "1912-1925"
+    },
+    {
+        "count": 1,
+        "index": 909,
+        "label": "1912-1926",
+        "url": "https://jpsearch.go.jp/entity/time/1912-1926",
+        "value": "1912-1926"
+    },
+    {
+        "count": 1,
+        "index": 910,
+        "label": "1912-1930",
+        "url": "https://jpsearch.go.jp/entity/time/1912-1930",
+        "value": "1912-1930"
+    },
+    {
+        "count": 4279,
         "index": 110,
         "label": "1913",
         "url": "https://jpsearch.go.jp/entity/time/1913",
         "value": "1913"
     },
     {
-        "count": 72,
+        "count": 1,
+        "index": 917,
+        "label": "1913-1915",
+        "url": "https://jpsearch.go.jp/entity/time/1913-1915",
+        "value": "1913-1915"
+    },
+    {
+        "count": 3939,
         "index": 111,
         "label": "1914",
         "url": "https://jpsearch.go.jp/entity/time/1914",
         "value": "1914"
     },
     {
-        "count": 65,
+        "count": 1,
+        "index": 668,
+        "label": "1914-1929",
+        "url": "https://jpsearch.go.jp/entity/time/1914-1929",
+        "value": "1914-1929"
+    },
+    {
+        "count": 3359,
         "index": 50,
         "label": "1915",
         "url": "https://jpsearch.go.jp/entity/time/1915",
         "value": "1915"
     },
     {
-        "count": 76,
+        "count": 2,
+        "index": 656,
+        "label": "1915-1917",
+        "url": "https://jpsearch.go.jp/entity/time/1915-1917",
+        "value": "1915-1917"
+    },
+    {
+        "count": 1,
+        "index": 1052,
+        "label": "1915-1935",
+        "url": "https://jpsearch.go.jp/entity/time/1915-1935",
+        "value": "1915-1935"
+    },
+    {
+        "count": 3356,
         "index": 196,
         "label": "1916",
         "url": "https://jpsearch.go.jp/entity/time/1916",
         "value": "1916"
     },
     {
-        "count": 63,
+        "count": 4,
+        "index": 885,
+        "label": "1916-1930",
+        "url": "https://jpsearch.go.jp/entity/time/1916-1930",
+        "value": "1916-1930"
+    },
+    {
+        "count": 2,
+        "index": 628,
+        "label": "1916-1935",
+        "url": "https://jpsearch.go.jp/entity/time/1916-1935",
+        "value": "1916-1935"
+    },
+    {
+        "count": 3871,
         "index": 487,
         "label": "1917",
         "url": "https://jpsearch.go.jp/entity/time/1917",
         "value": "1917"
     },
     {
-        "count": 66,
+        "count": 1,
+        "index": 616,
+        "label": "1917-1918",
+        "url": "https://jpsearch.go.jp/entity/time/1917-1918",
+        "value": "1917-1918"
+    },
+    {
+        "count": 3340,
         "index": 197,
         "label": "1918",
         "url": "https://jpsearch.go.jp/entity/time/1918",
         "value": "1918"
     },
     {
-        "count": 63,
+        "count": 1,
+        "index": 950,
+        "label": "1918-1919",
+        "url": "https://jpsearch.go.jp/entity/time/1918-1919",
+        "value": "1918-1919"
+    },
+    {
+        "count": 14,
+        "index": 613,
+        "label": "1918-1933",
+        "url": "https://jpsearch.go.jp/entity/time/1918-1933",
+        "value": "1918-1933"
+    },
+    {
+        "count": 3478,
         "index": 45,
         "label": "1919",
         "url": "https://jpsearch.go.jp/entity/time/1919",
         "value": "1919"
     },
     {
-        "count": 70,
+        "count": 3926,
         "index": 109,
         "label": "1920",
         "url": "https://jpsearch.go.jp/entity/time/1920",
         "value": "1920"
     },
     {
-        "count": 72,
+        "count": 5,
+        "index": 631,
+        "label": "1920-1930",
+        "url": "https://jpsearch.go.jp/entity/time/1920-1930",
+        "value": "1920-1930"
+    },
+    {
+        "count": 3795,
         "index": 122,
         "label": "1921",
         "url": "https://jpsearch.go.jp/entity/time/1921",
         "value": "1921"
     },
     {
-        "count": 90,
+        "count": 4646,
         "index": 485,
         "label": "1922",
         "url": "https://jpsearch.go.jp/entity/time/1922",
         "value": "1922"
     },
     {
-        "count": 75,
+        "count": 6,
+        "index": 903,
+        "label": "1922-1934",
+        "url": "https://jpsearch.go.jp/entity/time/1922-1934",
+        "value": "1922-1934"
+    },
+    {
+        "count": 3962,
         "index": 471,
         "label": "1923",
         "url": "https://jpsearch.go.jp/entity/time/1923",
         "value": "1923"
     },
     {
-        "count": 93,
+        "count": 1,
+        "index": 890,
+        "label": "1923-1933",
+        "url": "https://jpsearch.go.jp/entity/time/1923-1933",
+        "value": "1923-1933"
+    },
+    {
+        "count": 1,
+        "index": 1001,
+        "label": "1923-1935",
+        "url": "https://jpsearch.go.jp/entity/time/1923-1935",
+        "value": "1923-1935"
+    },
+    {
+        "count": 4675,
         "index": 287,
         "label": "1924",
         "url": "https://jpsearch.go.jp/entity/time/1924",
         "value": "1924"
     },
     {
-        "count": 97,
+        "count": 6024,
         "index": 189,
         "label": "1925",
         "url": "https://jpsearch.go.jp/entity/time/1925",
         "value": "1925"
     },
     {
-        "count": 215,
+        "count": 1,
+        "index": 622,
+        "label": "1925-1926",
+        "url": "https://jpsearch.go.jp/entity/time/1925-1926",
+        "value": "1925-1926"
+    },
+    {
+        "count": 10681,
         "index": 473,
         "label": "1926",
         "url": "https://jpsearch.go.jp/entity/time/1926",
         "value": "1926"
     },
     {
-        "count": 72,
+        "count": 6,
+        "index": 617,
+        "label": "1926-1927",
+        "url": "https://jpsearch.go.jp/entity/time/1926-1927",
+        "value": "1926-1927"
+    },
+    {
+        "count": 1,
+        "index": 918,
+        "label": "1926-1930",
+        "url": "https://jpsearch.go.jp/entity/time/1926-1930",
+        "value": "1926-1930"
+    },
+    {
+        "count": 4749,
         "index": 477,
         "label": "1927",
         "url": "https://jpsearch.go.jp/entity/time/1927",
         "value": "1927"
     },
     {
-        "count": 42,
+        "count": 1,
+        "index": 1050,
+        "label": "1927-1937",
+        "url": "https://jpsearch.go.jp/entity/time/1927-1937",
+        "value": "1927-1937"
+    },
+    {
+        "count": 4524,
         "index": 480,
         "label": "1928",
         "url": "https://jpsearch.go.jp/entity/time/1928",
         "value": "1928"
     },
     {
-        "count": 64,
+        "count": 4848,
         "index": 293,
         "label": "1929",
         "url": "https://jpsearch.go.jp/entity/time/1929",
         "value": "1929"
     },
     {
-        "count": 60,
+        "count": 1,
+        "index": 995,
+        "label": "1929-1937",
+        "url": "https://jpsearch.go.jp/entity/time/1929-1937",
+        "value": "1929-1937"
+    },
+    {
+        "count": 5119,
         "index": 286,
         "label": "1930",
         "url": "https://jpsearch.go.jp/entity/time/1930",
         "value": "1930"
     },
     {
-        "count": 53,
+        "count": 1,
+        "index": 1055,
+        "label": "1930-1931",
+        "url": "https://jpsearch.go.jp/entity/time/1930-1931",
+        "value": "1930-1931"
+    },
+    {
+        "count": 1,
+        "index": 998,
+        "label": "1930-1935",
+        "url": "https://jpsearch.go.jp/entity/time/1930-1935",
+        "value": "1930-1935"
+    },
+    {
+        "count": 5158,
         "index": 46,
         "label": "1931",
         "url": "https://jpsearch.go.jp/entity/time/1931",
         "value": "1931"
     },
     {
-        "count": 75,
+        "count": 5426,
         "index": 474,
         "label": "1932",
         "url": "https://jpsearch.go.jp/entity/time/1932",
         "value": "1932"
     },
     {
-        "count": 86,
+        "count": 5874,
         "index": 239,
         "label": "1933",
         "url": "https://jpsearch.go.jp/entity/time/1933",
         "value": "1933"
     },
     {
-        "count": 99,
+        "count": 2,
+        "index": 1010,
+        "label": "1933-1935",
+        "url": "https://jpsearch.go.jp/entity/time/1933-1935",
+        "value": "1933-1935"
+    },
+    {
+        "count": 8,
+        "index": 618,
+        "label": "1933-1937",
+        "url": "https://jpsearch.go.jp/entity/time/1933-1937",
+        "value": "1933-1937"
+    },
+    {
+        "count": 7399,
         "index": 268,
         "label": "1934",
         "url": "https://jpsearch.go.jp/entity/time/1934",
         "value": "1934"
     },
     {
-        "count": 132,
+        "count": 1,
+        "index": 889,
+        "label": "1934-1935",
+        "url": "https://jpsearch.go.jp/entity/time/1934-1935",
+        "value": "1934-1935"
+    },
+    {
+        "count": 11235,
         "index": 479,
         "label": "1935",
         "url": "https://jpsearch.go.jp/entity/time/1935",
         "value": "1935"
     },
     {
-        "count": 101,
+        "count": 2,
+        "index": 919,
+        "label": "1935-1937",
+        "url": "https://jpsearch.go.jp/entity/time/1935-1937",
+        "value": "1935-1937"
+    },
+    {
+        "count": 1,
+        "index": 911,
+        "label": "1935-1940",
+        "url": "https://jpsearch.go.jp/entity/time/1935-1940",
+        "value": "1935-1940"
+    },
+    {
+        "count": 7436,
         "index": 173,
         "label": "1936",
         "url": "https://jpsearch.go.jp/entity/time/1936",
         "value": "1936"
     },
     {
-        "count": 85,
+        "count": 7048,
         "index": 294,
         "label": "1937",
         "url": "https://jpsearch.go.jp/entity/time/1937",
         "value": "1937"
     },
     {
-        "count": 75,
+        "count": 6975,
         "index": 53,
         "label": "1938",
         "url": "https://jpsearch.go.jp/entity/time/1938",
         "value": "1938"
     },
     {
-        "count": 99,
+        "count": 1,
+        "index": 1056,
+        "label": "1938-1939",
+        "url": "https://jpsearch.go.jp/entity/time/1938-1939",
+        "value": "1938-1939"
+    },
+    {
+        "count": 7929,
         "index": 476,
         "label": "1939",
         "url": "https://jpsearch.go.jp/entity/time/1939",
         "value": "1939"
     },
     {
-        "count": 96,
+        "count": 8680,
         "index": 461,
         "label": "1940",
         "url": "https://jpsearch.go.jp/entity/time/1940",
         "value": "1940"
     },
     {
-        "count": 68,
+        "count": 6499,
         "index": 466,
         "label": "1941",
         "url": "https://jpsearch.go.jp/entity/time/1941",
         "value": "1941"
     },
     {
-        "count": 73,
+        "count": 6668,
         "index": 478,
         "label": "1942",
         "url": "https://jpsearch.go.jp/entity/time/1942",
         "value": "1942"
     },
     {
-        "count": 73,
+        "count": 1,
+        "index": 634,
+        "label": "1942-1943",
+        "url": "https://jpsearch.go.jp/entity/time/1942-1943",
+        "value": "1942-1943"
+    },
+    {
+        "count": 6686,
         "index": 475,
         "label": "1943",
         "url": "https://jpsearch.go.jp/entity/time/1943",
         "value": "1943"
     },
     {
-        "count": 32,
+        "count": 4754,
         "index": 472,
         "label": "1944",
         "url": "https://jpsearch.go.jp/entity/time/1944",
         "value": "1944"
     },
     {
-        "count": 7,
+        "count": 17620,
         "index": 481,
         "label": "1945",
         "url": "https://jpsearch.go.jp/entity/time/1945",
         "value": "1945"
     },
     {
-        "count": 242,
+        "count": 1,
+        "index": 933,
+        "label": "1945-1954",
+        "url": "https://jpsearch.go.jp/entity/time/1945-1954",
+        "value": "1945-1954"
+    },
+    {
+        "count": 2,
+        "index": 640,
+        "label": "1945-1955",
+        "url": "https://jpsearch.go.jp/entity/time/1945-1955",
+        "value": "1945-1955"
+    },
+    {
+        "count": 9565,
         "index": 224,
         "label": "1946",
         "url": "https://jpsearch.go.jp/entity/time/1946",
         "value": "1946"
     },
     {
-        "count": 360,
+        "count": 1,
+        "index": 1007,
+        "label": "1946-1948",
+        "url": "https://jpsearch.go.jp/entity/time/1946-1948",
+        "value": "1946-1948"
+    },
+    {
+        "count": 9569,
         "index": 225,
         "label": "1947",
         "url": "https://jpsearch.go.jp/entity/time/1947",
         "value": "1947"
     },
     {
-        "count": 74,
+        "count": 4,
+        "index": 645,
+        "label": "1947-1948",
+        "url": "https://jpsearch.go.jp/entity/time/1947-1948",
+        "value": "1947-1948"
+    },
+    {
+        "count": 3,
+        "index": 895,
+        "label": "1947-1950",
+        "url": "https://jpsearch.go.jp/entity/time/1947-1950",
+        "value": "1947-1950"
+    },
+    {
+        "count": 4735,
         "index": 226,
         "label": "1948",
         "url": "https://jpsearch.go.jp/entity/time/1948",
         "value": "1948"
     },
     {
-        "count": 13,
+        "count": 1,
+        "index": 657,
+        "label": "1948-1949",
+        "url": "https://jpsearch.go.jp/entity/time/1948-1949",
+        "value": "1948-1949"
+    },
+    {
+        "count": 3926,
         "index": 440,
         "label": "1949",
         "url": "https://jpsearch.go.jp/entity/time/1949",
         "value": "1949"
     },
     {
-        "count": 20,
+        "count": 3325,
         "index": 214,
         "label": "1950",
         "url": "https://jpsearch.go.jp/entity/time/1950",
         "value": "1950"
     },
     {
-        "count": 23,
+        "count": 1,
+        "index": 1047,
+        "label": "1950-1951",
+        "url": "https://jpsearch.go.jp/entity/time/1950-1951",
+        "value": "1950-1951"
+    },
+    {
+        "count": 2146,
         "index": 441,
         "label": "1951",
         "url": "https://jpsearch.go.jp/entity/time/1951",
         "value": "1951"
     },
     {
-        "count": 15,
+        "count": 3,
+        "index": 894,
+        "label": "1951-1954",
+        "url": "https://jpsearch.go.jp/entity/time/1951-1954",
+        "value": "1951-1954"
+    },
+    {
+        "count": 607,
         "index": 442,
         "label": "1952",
         "url": "https://jpsearch.go.jp/entity/time/1952",
         "value": "1952"
     },
     {
-        "count": 1,
+        "count": 95,
         "index": 486,
         "label": "1953",
         "url": "https://jpsearch.go.jp/entity/time/1953",
         "value": "1953"
     },
     {
-        "count": 2,
+        "count": 1,
+        "index": 888,
+        "label": "1953-1954",
+        "url": "https://jpsearch.go.jp/entity/time/1953-1954",
+        "value": "1953-1954"
+    },
+    {
+        "count": 1,
+        "index": 914,
+        "label": "1953-1961",
+        "url": "https://jpsearch.go.jp/entity/time/1953-1961",
+        "value": "1953-1961"
+    },
+    {
+        "count": 146,
+        "index": 517,
+        "label": "1954",
+        "url": "https://jpsearch.go.jp/entity/time/1954",
+        "value": "1954"
+    },
+    {
+        "count": 178,
+        "index": 515,
+        "label": "1955",
+        "url": "https://jpsearch.go.jp/entity/time/1955",
+        "value": "1955"
+    },
+    {
+        "count": 1,
+        "index": 635,
+        "label": "1955-1965",
+        "url": "https://jpsearch.go.jp/entity/time/1955-1965",
+        "value": "1955-1965"
+    },
+    {
+        "count": 128,
+        "index": 543,
+        "label": "1956",
+        "url": "https://jpsearch.go.jp/entity/time/1956",
+        "value": "1956"
+    },
+    {
+        "count": 452,
+        "index": 545,
+        "label": "1957",
+        "url": "https://jpsearch.go.jp/entity/time/1957",
+        "value": "1957"
+    },
+    {
+        "count": 327,
         "index": 267,
         "label": "1958",
         "url": "https://jpsearch.go.jp/entity/time/1958",
         "value": "1958"
     },
     {
+        "count": 384,
+        "index": 541,
+        "label": "1959",
+        "url": "https://jpsearch.go.jp/entity/time/1959",
+        "value": "1959"
+    },
+    {
         "count": 1,
+        "index": 639,
+        "label": "1959-1963",
+        "url": "https://jpsearch.go.jp/entity/time/1959-1963",
+        "value": "1959-1963"
+    },
+    {
+        "count": 452,
+        "index": 526,
+        "label": "1960",
+        "url": "https://jpsearch.go.jp/entity/time/1960",
+        "value": "1960"
+    },
+    {
+        "count": 521,
+        "index": 509,
+        "label": "1961",
+        "url": "https://jpsearch.go.jp/entity/time/1961",
+        "value": "1961"
+    },
+    {
+        "count": 452,
+        "index": 527,
+        "label": "1962",
+        "url": "https://jpsearch.go.jp/entity/time/1962",
+        "value": "1962"
+    },
+    {
+        "count": 526,
+        "index": 530,
+        "label": "1963",
+        "url": "https://jpsearch.go.jp/entity/time/1963",
+        "value": "1963"
+    },
+    {
+        "count": 577,
+        "index": 538,
+        "label": "1964",
+        "url": "https://jpsearch.go.jp/entity/time/1964",
+        "value": "1964"
+    },
+    {
+        "count": 590,
+        "index": 516,
+        "label": "1965",
+        "url": "https://jpsearch.go.jp/entity/time/1965",
+        "value": "1965"
+    },
+    {
+        "count": 2,
+        "index": 949,
+        "label": "1965-1975",
+        "url": "https://jpsearch.go.jp/entity/time/1965-1975",
+        "value": "1965-1975"
+    },
+    {
+        "count": 625,
+        "index": 520,
+        "label": "1966",
+        "url": "https://jpsearch.go.jp/entity/time/1966",
+        "value": "1966"
+    },
+    {
+        "count": 519,
+        "index": 524,
+        "label": "1967",
+        "url": "https://jpsearch.go.jp/entity/time/1967",
+        "value": "1967"
+    },
+    {
+        "count": 560,
+        "index": 525,
+        "label": "1968",
+        "url": "https://jpsearch.go.jp/entity/time/1968",
+        "value": "1968"
+    },
+    {
+        "count": 636,
+        "index": 514,
+        "label": "1969",
+        "url": "https://jpsearch.go.jp/entity/time/1969",
+        "value": "1969"
+    },
+    {
+        "count": 682,
+        "index": 535,
+        "label": "1970",
+        "url": "https://jpsearch.go.jp/entity/time/1970",
+        "value": "1970"
+    },
+    {
+        "count": 669,
+        "index": 510,
+        "label": "1971",
+        "url": "https://jpsearch.go.jp/entity/time/1971",
+        "value": "1971"
+    },
+    {
+        "count": 750,
+        "index": 539,
+        "label": "1972",
+        "url": "https://jpsearch.go.jp/entity/time/1972",
+        "value": "1972"
+    },
+    {
+        "count": 531,
+        "index": 512,
+        "label": "1973",
+        "url": "https://jpsearch.go.jp/entity/time/1973",
+        "value": "1973"
+    },
+    {
+        "count": 1,
+        "index": 1059,
+        "label": "1973-2013",
+        "url": "https://jpsearch.go.jp/entity/time/1973-2013",
+        "value": "1973-2013"
+    },
+    {
+        "count": 493,
+        "index": 533,
+        "label": "1974",
+        "url": "https://jpsearch.go.jp/entity/time/1974",
+        "value": "1974"
+    },
+    {
+        "count": 596,
+        "index": 528,
+        "label": "1975",
+        "url": "https://jpsearch.go.jp/entity/time/1975",
+        "value": "1975"
+    },
+    {
+        "count": 574,
+        "index": 548,
+        "label": "1976",
+        "url": "https://jpsearch.go.jp/entity/time/1976",
+        "value": "1976"
+    },
+    {
+        "count": 478,
+        "index": 531,
+        "label": "1977",
+        "url": "https://jpsearch.go.jp/entity/time/1977",
+        "value": "1977"
+    },
+    {
+        "count": 540,
+        "index": 522,
+        "label": "1978",
+        "url": "https://jpsearch.go.jp/entity/time/1978",
+        "value": "1978"
+    },
+    {
+        "count": 472,
+        "index": 537,
+        "label": "1979",
+        "url": "https://jpsearch.go.jp/entity/time/1979",
+        "value": "1979"
+    },
+    {
+        "count": 490,
+        "index": 540,
+        "label": "1980",
+        "url": "https://jpsearch.go.jp/entity/time/1980",
+        "value": "1980"
+    },
+    {
+        "count": 853,
+        "index": 523,
+        "label": "1981",
+        "url": "https://jpsearch.go.jp/entity/time/1981",
+        "value": "1981"
+    },
+    {
+        "count": 997,
+        "index": 532,
+        "label": "1982",
+        "url": "https://jpsearch.go.jp/entity/time/1982",
+        "value": "1982"
+    },
+    {
+        "count": 720,
+        "index": 521,
+        "label": "1983",
+        "url": "https://jpsearch.go.jp/entity/time/1983",
+        "value": "1983"
+    },
+    {
+        "count": 654,
+        "index": 536,
+        "label": "1984",
+        "url": "https://jpsearch.go.jp/entity/time/1984",
+        "value": "1984"
+    },
+    {
+        "count": 488,
+        "index": 534,
+        "label": "1985",
+        "url": "https://jpsearch.go.jp/entity/time/1985",
+        "value": "1985"
+    },
+    {
+        "count": 204,
+        "index": 549,
+        "label": "1986",
+        "url": "https://jpsearch.go.jp/entity/time/1986",
+        "value": "1986"
+    },
+    {
+        "count": 194,
+        "index": 555,
+        "label": "1987",
+        "url": "https://jpsearch.go.jp/entity/time/1987",
+        "value": "1987"
+    },
+    {
+        "count": 149,
+        "index": 518,
+        "label": "1988",
+        "url": "https://jpsearch.go.jp/entity/time/1988",
+        "value": "1988"
+    },
+    {
+        "count": 134,
+        "index": 519,
+        "label": "1989",
+        "url": "https://jpsearch.go.jp/entity/time/1989",
+        "value": "1989"
+    },
+    {
+        "count": 116,
+        "index": 544,
+        "label": "1990",
+        "url": "https://jpsearch.go.jp/entity/time/1990",
+        "value": "1990"
+    },
+    {
+        "count": 117,
+        "index": 561,
+        "label": "1991",
+        "url": "https://jpsearch.go.jp/entity/time/1991",
+        "value": "1991"
+    },
+    {
+        "count": 2,
+        "index": 816,
+        "label": "1991bce-1650bce",
+        "url": "https://jpsearch.go.jp/entity/time/1991BCE-1650BCE",
+        "value": "1991BCE-1650BCE"
+    },
+    {
+        "count": 125,
+        "index": 559,
+        "label": "1992",
+        "url": "https://jpsearch.go.jp/entity/time/1992",
+        "value": "1992"
+    },
+    {
+        "count": 114,
+        "index": 556,
+        "label": "1993",
+        "url": "https://jpsearch.go.jp/entity/time/1993",
+        "value": "1993"
+    },
+    {
+        "count": 92,
+        "index": 547,
+        "label": "1994",
+        "url": "https://jpsearch.go.jp/entity/time/1994",
+        "value": "1994"
+    },
+    {
+        "count": 159,
+        "index": 637,
+        "label": "1995",
+        "url": "https://jpsearch.go.jp/entity/time/1995",
+        "value": "1995"
+    },
+    {
+        "count": 103,
+        "index": 557,
+        "label": "1996",
+        "url": "https://jpsearch.go.jp/entity/time/1996",
+        "value": "1996"
+    },
+    {
+        "count": 121,
+        "index": 661,
+        "label": "1997",
+        "url": "https://jpsearch.go.jp/entity/time/1997",
+        "value": "1997"
+    },
+    {
+        "count": 125,
+        "index": 551,
+        "label": "1998",
+        "url": "https://jpsearch.go.jp/entity/time/1998",
+        "value": "1998"
+    },
+    {
+        "count": 129,
         "index": 149,
         "label": "1999",
         "url": "https://jpsearch.go.jp/entity/time/1999",
         "value": "1999"
     },
     {
-        "count": 1,
+        "count": 2,
+        "index": 852,
+        "label": "1999bce-0300bce",
+        "url": "https://jpsearch.go.jp/entity/time/1999BCE-0300BCE",
+        "value": "1999BCE-0300BCE"
+    },
+    {
+        "count": 6,
+        "index": 669,
+        "label": "1999bce-0900bce",
+        "url": "https://jpsearch.go.jp/entity/time/1999BCE-0900BCE",
+        "value": "1999BCE-0900BCE"
+    },
+    {
+        "count": 106,
+        "index": 638,
+        "label": "2000",
+        "url": "https://jpsearch.go.jp/entity/time/2000",
+        "value": "2000"
+    },
+    {
+        "count": 3,
         "index": 215,
         "label": "2000bce",
         "url": "https://jpsearch.go.jp/entity/time/2000BCE",
         "value": "2000BCE"
     },
     {
-        "count": 5,
+        "count": 23,
         "index": 132,
         "label": "2000bce-0400bce",
         "url": "https://jpsearch.go.jp/entity/time/2000BCE-0400BCE",
         "value": "2000BCE-0400BCE"
     },
     {
-        "count": 4,
+        "count": 30,
         "index": 143,
         "label": "2000bce-1000bce",
         "url": "https://jpsearch.go.jp/entity/time/2000BCE-1000BCE",
         "value": "2000BCE-1000BCE"
     },
     {
-        "count": 7,
+        "count": 48,
+        "index": 546,
+        "label": "2001",
+        "url": "https://jpsearch.go.jp/entity/time/2001",
+        "value": "2001"
+    },
+    {
+        "count": 43,
+        "index": 554,
+        "label": "2002",
+        "url": "https://jpsearch.go.jp/entity/time/2002",
+        "value": "2002"
+    },
+    {
+        "count": 47,
+        "index": 641,
+        "label": "2003",
+        "url": "https://jpsearch.go.jp/entity/time/2003",
+        "value": "2003"
+    },
+    {
+        "count": 38,
+        "index": 542,
+        "label": "2004",
+        "url": "https://jpsearch.go.jp/entity/time/2004",
+        "value": "2004"
+    },
+    {
+        "count": 26,
+        "index": 962,
+        "label": "2005",
+        "url": "https://jpsearch.go.jp/entity/time/2005",
+        "value": "2005"
+    },
+    {
+        "count": 41,
+        "index": 553,
+        "label": "2006",
+        "url": "https://jpsearch.go.jp/entity/time/2006",
+        "value": "2006"
+    },
+    {
+        "count": 19,
+        "index": 905,
+        "label": "2007",
+        "url": "https://jpsearch.go.jp/entity/time/2007",
+        "value": "2007"
+    },
+    {
+        "count": 2,
+        "index": 651,
+        "label": "2007-2020",
+        "url": "https://jpsearch.go.jp/entity/time/2007-2020",
+        "value": "2007-2020"
+    },
+    {
+        "count": 17,
+        "index": 655,
+        "label": "2008",
+        "url": "https://jpsearch.go.jp/entity/time/2008",
+        "value": "2008"
+    },
+    {
+        "count": 31,
+        "index": 511,
+        "label": "2009",
+        "url": "https://jpsearch.go.jp/entity/time/2009",
+        "value": "2009"
+    },
+    {
+        "count": 42,
+        "index": 667,
+        "label": "2010",
+        "url": "https://jpsearch.go.jp/entity/time/2010",
+        "value": "2010"
+    },
+    {
+        "count": 28,
+        "index": 529,
+        "label": "2011",
+        "url": "https://jpsearch.go.jp/entity/time/2011",
+        "value": "2011"
+    },
+    {
+        "count": 23,
+        "index": 550,
+        "label": "2012",
+        "url": "https://jpsearch.go.jp/entity/time/2012",
+        "value": "2012"
+    },
+    {
+        "count": 11,
+        "index": 671,
+        "label": "2013",
+        "url": "https://jpsearch.go.jp/entity/time/2013",
+        "value": "2013"
+    },
+    {
+        "count": 23,
+        "index": 552,
+        "label": "2014",
+        "url": "https://jpsearch.go.jp/entity/time/2014",
+        "value": "2014"
+    },
+    {
+        "count": 8,
+        "index": 621,
+        "label": "2015",
+        "url": "https://jpsearch.go.jp/entity/time/2015",
+        "value": "2015"
+    },
+    {
+        "count": 15,
+        "index": 665,
+        "label": "2016",
+        "url": "https://jpsearch.go.jp/entity/time/2016",
+        "value": "2016"
+    },
+    {
+        "count": 55,
+        "index": 605,
+        "label": "2017",
+        "url": "https://jpsearch.go.jp/entity/time/2017",
+        "value": "2017"
+    },
+    {
+        "count": 5,
+        "index": 666,
+        "label": "2018",
+        "url": "https://jpsearch.go.jp/entity/time/2018",
+        "value": "2018"
+    },
+    {
+        "count": 5,
+        "index": 681,
+        "label": "2025bce-1794bce",
+        "url": "https://jpsearch.go.jp/entity/time/2025BCE-1794BCE",
+        "value": "2025BCE-1794BCE"
+    },
+    {
+        "count": 2,
+        "index": 702,
+        "label": "2200bce-2000bce",
+        "url": "https://jpsearch.go.jp/entity/time/2200BCE-2000BCE",
+        "value": "2200BCE-2000BCE"
+    },
+    {
+        "count": 1,
+        "index": 735,
+        "label": "2254bce-2194bce",
+        "url": "https://jpsearch.go.jp/entity/time/2254BCE-2194BCE",
+        "value": "2254BCE-2194BCE"
+    },
+    {
+        "count": 1,
+        "index": 955,
+        "label": "24000bce",
+        "url": "https://jpsearch.go.jp/entity/time/24000BCE",
+        "value": "24000BCE"
+    },
+    {
+        "count": 1,
+        "index": 698,
+        "label": "2500bce-2000bce",
+        "url": "https://jpsearch.go.jp/entity/time/2500BCE-2000BCE",
+        "value": "2500BCE-2000BCE"
+    },
+    {
+        "count": 2,
+        "index": 706,
+        "label": "2500bce-2300bce",
+        "url": "https://jpsearch.go.jp/entity/time/2500BCE-2300BCE",
+        "value": "2500BCE-2300BCE"
+    },
+    {
+        "count": 1,
+        "index": 697,
+        "label": "2599bce-2400bce",
+        "url": "https://jpsearch.go.jp/entity/time/2599BCE-2400BCE",
+        "value": "2599BCE-2400BCE"
+    },
+    {
+        "count": 1,
+        "index": 708,
+        "label": "2600bce-2300bce",
+        "url": "https://jpsearch.go.jp/entity/time/2600BCE-2300BCE",
+        "value": "2600BCE-2300BCE"
+    },
+    {
+        "count": 1,
+        "index": 650,
+        "label": "28000bce",
+        "url": "https://jpsearch.go.jp/entity/time/28000BCE",
+        "value": "28000BCE"
+    },
+    {
+        "count": 1,
+        "index": 878,
+        "label": "28000bce-4000bce",
+        "url": "https://jpsearch.go.jp/entity/time/28000BCE-4000BCE",
+        "value": "28000BCE-4000BCE"
+    },
+    {
+        "count": 9,
+        "index": 694,
+        "label": "3000bce",
+        "url": "https://jpsearch.go.jp/entity/time/3000BCE",
+        "value": "3000BCE"
+    },
+    {
+        "count": 3,
+        "index": 737,
+        "label": "3000bce-0400bce",
+        "url": "https://jpsearch.go.jp/entity/time/3000BCE-0400BCE",
+        "value": "3000BCE-0400BCE"
+    },
+    {
+        "count": 1,
+        "index": 956,
+        "label": "3000bce-1000bce",
+        "url": "https://jpsearch.go.jp/entity/time/3000BCE-1000BCE",
+        "value": "3000BCE-1000BCE"
+    },
+    {
+        "count": 24,
         "index": 124,
         "label": "3000bce-2000bce",
         "url": "https://jpsearch.go.jp/entity/time/3000BCE-2000BCE",
         "value": "3000BCE-2000BCE"
     },
     {
+        "count": 2,
+        "index": 696,
+        "label": "3100bce-2800bce",
+        "url": "https://jpsearch.go.jp/entity/time/3100BCE-2800BCE",
+        "value": "3100BCE-2800BCE"
+    },
+    {
         "count": 1,
+        "index": 814,
+        "label": "4000bce",
+        "url": "https://jpsearch.go.jp/entity/time/4000BCE",
+        "value": "4000BCE"
+    },
+    {
+        "count": 3,
         "index": 154,
         "label": "4000bce-3000bce",
         "url": "https://jpsearch.go.jp/entity/time/4000BCE-3000BCE",
         "value": "4000BCE-3000BCE"
     },
     {
-        "count": 17,
+        "count": 5,
+        "index": 677,
+        "label": "5000bce-4000bce",
+        "url": "https://jpsearch.go.jp/entity/time/5000BCE-4000BCE",
+        "value": "5000BCE-4000BCE"
+    },
+    {
+        "count": 3,
+        "index": 689,
+        "label": "600000bce",
+        "url": "https://jpsearch.go.jp/entity/time/600000BCE",
+        "value": "600000BCE"
+    },
+    {
+        "count": 1,
+        "index": 829,
+        "label": "7000bce-3000bce",
+        "url": "https://jpsearch.go.jp/entity/time/7000BCE-3000BCE",
+        "value": "7000BCE-3000BCE"
+    },
+    {
+        "count": 1,
+        "index": 958,
+        "label": "7000bce-4000bce",
+        "url": "https://jpsearch.go.jp/entity/time/7000BCE-4000BCE",
+        "value": "7000BCE-4000BCE"
+    },
+    {
+        "count": 1,
+        "index": 1058,
+        "label": "8000bce",
+        "url": "https://jpsearch.go.jp/entity/time/8000BCE",
+        "value": "8000BCE"
+    },
+    {
+        "count": 2120,
         "index": 59,
         "label": "_undefined",
         "url": "https://jpsearch.go.jp/entity/time/_undefined",
@@ -3333,83 +7183,300 @@
     },
     {
         "count": 2,
+        "index": 884,
+        "label": "中国三国時代",
+        "url": "https://jpsearch.go.jp/entity/time/中国三国時代",
+        "value": "中国三国時代"
+    },
+    {
+        "count": 2,
+        "index": 866,
+        "label": "中国南北朝時代",
+        "url": "https://jpsearch.go.jp/entity/time/中国南北朝時代",
+        "value": "中国南北朝時代"
+    },
+    {
+        "count": 1,
+        "index": 778,
+        "label": "中国戦国時代",
+        "url": "https://jpsearch.go.jp/entity/time/中国戦国時代",
+        "value": "中国戦国時代"
+    },
+    {
+        "count": 2,
+        "index": 951,
+        "label": "元-明",
+        "url": "https://jpsearch.go.jp/entity/time/元-明",
+        "value": "元-明"
+    },
+    {
+        "count": 11,
+        "index": 769,
+        "label": "元時代",
+        "url": "https://jpsearch.go.jp/entity/time/元時代",
+        "value": "元時代"
+    },
+    {
+        "count": 1,
+        "index": 954,
+        "label": "六朝時代",
+        "url": "https://jpsearch.go.jp/entity/time/六朝時代",
+        "value": "六朝時代"
+    },
+    {
+        "count": 1,
+        "index": 861,
+        "label": "前漢時代",
+        "url": "https://jpsearch.go.jp/entity/time/前漢時代",
+        "value": "前漢時代"
+    },
+    {
+        "count": 1,
+        "index": 806,
+        "label": "北宋時代",
+        "url": "https://jpsearch.go.jp/entity/time/北宋時代",
+        "value": "北宋時代"
+    },
+    {
+        "count": 4,
+        "index": 841,
+        "label": "北魏時代",
+        "url": "https://jpsearch.go.jp/entity/time/北魏時代",
+        "value": "北魏時代"
+    },
+    {
+        "count": 53,
         "index": 65,
         "label": "南北朝時代",
         "url": "https://jpsearch.go.jp/entity/time/南北朝時代",
         "value": "南北朝時代"
     },
     {
-        "count": 1,
+        "count": 6,
         "index": 64,
         "label": "南宋時代",
         "url": "https://jpsearch.go.jp/entity/time/南宋時代",
         "value": "南宋時代"
     },
     {
-        "count": 2,
+        "count": 1,
+        "index": 936,
+        "label": "原三国時代",
+        "url": "https://jpsearch.go.jp/entity/time/原三国時代",
+        "value": "原三国時代"
+    },
+    {
+        "count": 74,
+        "index": 774,
+        "label": "古墳時代",
+        "url": "https://jpsearch.go.jp/entity/time/古墳時代",
+        "value": "古墳時代"
+    },
+    {
+        "count": 37,
+        "index": 779,
+        "label": "唐時代",
+        "url": "https://jpsearch.go.jp/entity/time/唐時代",
+        "value": "唐時代"
+    },
+    {
+        "count": 1,
+        "index": 785,
+        "label": "夏時代",
+        "url": "https://jpsearch.go.jp/entity/time/夏時代",
+        "value": "夏時代"
+    },
+    {
+        "count": 81,
         "index": 488,
         "label": "大正",
         "url": "https://jpsearch.go.jp/entity/time/大正",
         "value": "大正"
     },
     {
-        "count": 18,
+        "count": 4,
+        "index": 830,
+        "label": "大正-昭和",
+        "url": "https://jpsearch.go.jp/entity/time/大正-昭和",
+        "value": "大正-昭和"
+    },
+    {
+        "count": 1,
+        "index": 883,
+        "label": "奈良-室町",
+        "url": "https://jpsearch.go.jp/entity/time/奈良-室町",
+        "value": "奈良-室町"
+    },
+    {
+        "count": 1,
+        "index": 880,
+        "label": "奈良-桃山",
+        "url": "https://jpsearch.go.jp/entity/time/奈良-桃山",
+        "value": "奈良-桃山"
+    },
+    {
+        "count": 51,
+        "index": 796,
+        "label": "奈良時代",
+        "url": "https://jpsearch.go.jp/entity/time/奈良時代",
+        "value": "奈良時代"
+    },
+    {
+        "count": 115,
         "index": 62,
         "label": "安土桃山時代",
         "url": "https://jpsearch.go.jp/entity/time/安土桃山時代",
         "value": "安土桃山時代"
     },
     {
-        "count": 1,
+        "count": 3,
+        "index": 794,
+        "label": "宋-元",
+        "url": "https://jpsearch.go.jp/entity/time/宋-元",
+        "value": "宋-元"
+    },
+    {
+        "count": 38,
         "index": 61,
         "label": "宋時代",
         "url": "https://jpsearch.go.jp/entity/time/宋時代",
         "value": "宋時代"
     },
     {
-        "count": 5,
+        "count": 2,
+        "index": 867,
+        "label": "室町-桃山",
+        "url": "https://jpsearch.go.jp/entity/time/室町-桃山",
+        "value": "室町-桃山"
+    },
+    {
+        "count": 90,
         "index": 63,
         "label": "室町時代",
         "url": "https://jpsearch.go.jp/entity/time/室町時代",
         "value": "室町時代"
     },
     {
-        "count": 10,
+        "count": 1,
+        "index": 848,
+        "label": "平安-室町",
+        "url": "https://jpsearch.go.jp/entity/time/平安-室町",
+        "value": "平安-室町"
+    },
+    {
+        "count": 2,
+        "index": 840,
+        "label": "平安-鎌倉",
+        "url": "https://jpsearch.go.jp/entity/time/平安-鎌倉",
+        "value": "平安-鎌倉"
+    },
+    {
+        "count": 148,
         "index": 66,
         "label": "平安時代",
         "url": "https://jpsearch.go.jp/entity/time/平安時代",
         "value": "平安時代"
     },
     {
-        "count": 3,
+        "count": 39,
+        "index": 662,
+        "label": "弥生時代",
+        "url": "https://jpsearch.go.jp/entity/time/弥生時代",
+        "value": "弥生時代"
+    },
+    {
+        "count": 2,
+        "index": 1020,
+        "label": "戦国時代",
+        "url": "https://jpsearch.go.jp/entity/time/戦国時代",
+        "value": "戦国時代"
+    },
+    {
+        "count": 26,
+        "index": 792,
+        "label": "明-清",
+        "url": "https://jpsearch.go.jp/entity/time/明-清",
+        "value": "明-清"
+    },
+    {
+        "count": 82,
         "index": 68,
         "label": "明時代",
         "url": "https://jpsearch.go.jp/entity/time/明時代",
         "value": "明時代"
     },
     {
-        "count": 56,
+        "count": 595,
         "index": 38,
         "label": "明治",
         "url": "https://jpsearch.go.jp/entity/time/明治",
         "value": "明治"
     },
     {
-        "count": 2,
+        "count": 113,
+        "index": 780,
+        "label": "明治-昭和",
+        "url": "https://jpsearch.go.jp/entity/time/明治-昭和",
+        "value": "明治-昭和"
+    },
+    {
+        "count": 9,
+        "index": 967,
+        "label": "明治時代",
+        "url": "https://jpsearch.go.jp/entity/time/明治時代",
+        "value": "明治時代"
+    },
+    {
+        "count": 18,
+        "index": 770,
+        "label": "春秋戦国時代",
+        "url": "https://jpsearch.go.jp/entity/time/春秋戦国時代",
+        "value": "春秋戦国時代"
+    },
+    {
+        "count": 125,
         "index": 117,
         "label": "昭和",
         "url": "https://jpsearch.go.jp/entity/time/昭和",
         "value": "昭和"
     },
     {
-        "count": 14,
+        "count": 24,
+        "index": 807,
+        "label": "李氏朝鮮時代",
+        "url": "https://jpsearch.go.jp/entity/time/李氏朝鮮時代",
+        "value": "李氏朝鮮時代"
+    },
+    {
+        "count": 1,
+        "index": 793,
+        "label": "東晋時代",
+        "url": "https://jpsearch.go.jp/entity/time/東晋時代",
+        "value": "東晋時代"
+    },
+    {
+        "count": 3,
+        "index": 776,
+        "label": "殷時代",
+        "url": "https://jpsearch.go.jp/entity/time/殷時代",
+        "value": "殷時代"
+    },
+    {
+        "count": 4,
+        "index": 831,
+        "label": "江戸-明治",
+        "url": "https://jpsearch.go.jp/entity/time/江戸-明治",
+        "value": "江戸-明治"
+    },
+    {
+        "count": 770,
         "index": 43,
         "label": "江戸時代",
         "url": "https://jpsearch.go.jp/entity/time/江戸時代",
         "value": "江戸時代"
     },
     {
-        "count": 7,
+        "count": 109,
         "index": 118,
         "label": "清時代",
         "url": "https://jpsearch.go.jp/entity/time/清時代",
@@ -3417,13 +7484,69 @@
     },
     {
         "count": 1,
+        "index": 931,
+        "label": "漢-隋",
+        "url": "https://jpsearch.go.jp/entity/time/漢-隋",
+        "value": "漢-隋"
+    },
+    {
+        "count": 23,
+        "index": 777,
+        "label": "漢時代",
+        "url": "https://jpsearch.go.jp/entity/time/漢時代",
+        "value": "漢時代"
+    },
+    {
+        "count": 5,
+        "index": 847,
+        "label": "白鳳時代",
+        "url": "https://jpsearch.go.jp/entity/time/白鳳時代",
+        "value": "白鳳時代"
+    },
+    {
+        "count": 1,
+        "index": 882,
+        "label": "統一新羅-高麗",
+        "url": "https://jpsearch.go.jp/entity/time/統一新羅-高麗",
+        "value": "統一新羅-高麗"
+    },
+    {
+        "count": 1,
+        "index": 810,
+        "label": "統一新羅時代",
+        "url": "https://jpsearch.go.jp/entity/time/統一新羅時代",
+        "value": "統一新羅時代"
+    },
+    {
+        "count": 30,
         "index": 67,
         "label": "縄文時代",
         "url": "https://jpsearch.go.jp/entity/time/縄文時代",
         "value": "縄文時代"
     },
     {
-        "count": 6,
+        "count": 2,
+        "index": 809,
+        "label": "遼時代",
+        "url": "https://jpsearch.go.jp/entity/time/遼時代",
+        "value": "遼時代"
+    },
+    {
+        "count": 1,
+        "index": 791,
+        "label": "鎌倉-南北朝",
+        "url": "https://jpsearch.go.jp/entity/time/鎌倉-南北朝",
+        "value": "鎌倉-南北朝"
+    },
+    {
+        "count": 1,
+        "index": 795,
+        "label": "鎌倉-江戸",
+        "url": "https://jpsearch.go.jp/entity/time/鎌倉-江戸",
+        "value": "鎌倉-江戸"
+    },
+    {
+        "count": 156,
         "index": 25,
         "label": "鎌倉時代",
         "url": "https://jpsearch.go.jp/entity/time/鎌倉時代",
@@ -3431,9 +7554,51 @@
     },
     {
         "count": 1,
+        "index": 808,
+        "label": "隋-唐",
+        "url": "https://jpsearch.go.jp/entity/time/隋-唐",
+        "value": "隋-唐"
+    },
+    {
+        "count": 2,
+        "index": 849,
+        "label": "隋時代",
+        "url": "https://jpsearch.go.jp/entity/time/隋時代",
+        "value": "隋時代"
+    },
+    {
+        "count": 1,
         "index": 129,
         "label": "飛鳥-奈良",
         "url": "https://jpsearch.go.jp/entity/time/飛鳥-奈良",
         "value": "飛鳥-奈良"
+    },
+    {
+        "count": 1,
+        "index": 934,
+        "label": "飛鳥時代",
+        "url": "https://jpsearch.go.jp/entity/time/飛鳥時代",
+        "value": "飛鳥時代"
+    },
+    {
+        "count": 2,
+        "index": 865,
+        "label": "高麗-李氏朝鮮",
+        "url": "https://jpsearch.go.jp/entity/time/高麗-李氏朝鮮",
+        "value": "高麗-李氏朝鮮"
+    },
+    {
+        "count": 39,
+        "index": 775,
+        "label": "高麗時代",
+        "url": "https://jpsearch.go.jp/entity/time/高麗時代",
+        "value": "高麗時代"
+    },
+    {
+        "count": 4,
+        "index": 591,
+        "label": "魏時代",
+        "url": "https://jpsearch.go.jp/entity/time/魏時代",
+        "value": "魏時代"
     }
 ]

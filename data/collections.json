@@ -1,16 +1,37 @@
 [
     {
-        "count": 8505,
+        "count": 452454,
         "index": 1,
         "label": "国立国会図書館デジタルコレクション",
         "url": "http://dl.ndl.go.jp/",
         "value": "国立国会図書館デジタルコレクション"
     },
     {
-        "count": 1420,
+        "count": 22336,
+        "index": 2,
+        "label": "Adeac：デジタルアーカイブシステム (ndlサーチ経由)",
+        "url": "https://trc-adeac.trc.co.jp/",
+        "value": "ADEAC：デジタルアーカイブシステム (NDLサーチ経由)"
+    },
+    {
+        "count": 9544,
         "index": 0,
         "label": "国立博物館所蔵品統合検索システム",
         "url": "https://colbase.nich.go.jp/",
         "value": "国立博物館所蔵品統合検索システム"
+    },
+    {
+        "count": 3768,
+        "index": 4,
+        "label": "動画で見るニッポンみちしる",
+        "url": "https://www.nhk.or.jp/archives/michi/",
+        "value": "動画で見るニッポンみちしる"
+    },
+    {
+        "count": 4,
+        "index": 3,
+        "label": "アートコモンズ",
+        "url": "http://ac.nact.jp/",
+        "value": "アートコモンズ"
     }
 ]
