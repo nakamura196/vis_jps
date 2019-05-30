@@ -2773,8 +2773,8 @@
         "label": "Color",
         "markers": [
             {
-                "count": 307,
-                "h": 40,
+                "count": 914,
+                "h": 100,
                 "label": "Red",
                 "url": "",
                 "value": [
@@ -2783,8 +2783,8 @@
                 ]
             },
             {
-                "count": 789,
-                "h": 80,
+                "count": 2255,
+                "h": 230,
                 "label": "Green",
                 "url": "",
                 "value": [
@@ -2792,8 +2792,8 @@
                 ]
             },
             {
-                "count": 1510,
-                "h": 160,
+                "count": 3895,
+                "h": 390,
                 "label": "Blue",
                 "url": "",
                 "value": [
@@ -2801,8 +2801,8 @@
                 ]
             },
             {
-                "count": 1341,
-                "h": 140,
+                "count": 3100,
+                "h": 310,
                 "label": "Orange",
                 "url": "",
                 "value": [
@@ -2810,8 +2810,8 @@
                 ]
             },
             {
-                "count": 1157,
-                "h": 120,
+                "count": 3799,
+                "h": 380,
                 "label": "Yellow",
                 "url": "",
                 "value": [
@@ -2819,8 +2819,8 @@
                 ]
             },
             {
-                "count": 20699,
-                "h": 2070,
+                "count": 46264,
+                "h": 4630,
                 "label": "Brown",
                 "url": "",
                 "value": [
@@ -2828,8 +2828,8 @@
                 ]
             },
             {
-                "count": 16505,
-                "h": 1660,
+                "count": 41157,
+                "h": 4120,
                 "label": "Gray",
                 "url": "",
                 "value": [
@@ -2837,7 +2837,7 @@
                 ]
             },
             {
-                "count": 91,
+                "count": 156,
                 "h": 30,
                 "label": "White",
                 "url": "",
@@ -2846,7 +2846,7 @@
                 ]
             },
             {
-                "count": 7,
+                "count": 12,
                 "h": 30,
                 "label": "Black",
                 "url": "",
@@ -2855,8 +2855,8 @@
                 ]
             },
             {
-                "count": 445700,
-                "h": 44570,
+                "count": 386554,
+                "h": 38660,
                 "label": "Unknown",
                 "url": "",
                 "value": [
