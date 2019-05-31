@@ -1,5 +1,102 @@
 [
     {
+        "id": "colors",
+        "label": "Color",
+        "markers": [
+            {
+                "count": 914,
+                "h": 100,
+                "label": "Red",
+                "url": "",
+                "value": [
+                    "#f00",
+                    "#f0f"
+                ]
+            },
+            {
+                "count": 2255,
+                "h": 230,
+                "label": "Green",
+                "url": "",
+                "value": [
+                    "#0f0"
+                ]
+            },
+            {
+                "count": 3895,
+                "h": 390,
+                "label": "Blue",
+                "url": "",
+                "value": [
+                    "#00f"
+                ]
+            },
+            {
+                "count": 3100,
+                "h": 310,
+                "label": "Orange",
+                "url": "",
+                "value": [
+                    "#ffa500"
+                ]
+            },
+            {
+                "count": 3799,
+                "h": 380,
+                "label": "Yellow",
+                "url": "",
+                "value": [
+                    "#ff0"
+                ]
+            },
+            {
+                "count": 46264,
+                "h": 4630,
+                "label": "Brown",
+                "url": "",
+                "value": [
+                    "#e06f1f"
+                ]
+            },
+            {
+                "count": 41157,
+                "h": 4120,
+                "label": "Gray",
+                "url": "",
+                "value": [
+                    "#777777"
+                ]
+            },
+            {
+                "count": 156,
+                "h": 30,
+                "label": "White",
+                "url": "",
+                "value": [
+                    "#ffffff"
+                ]
+            },
+            {
+                "count": 12,
+                "h": 30,
+                "label": "Black",
+                "url": "",
+                "value": [
+                    "#000000"
+                ]
+            },
+            {
+                "count": 386554,
+                "h": 38660,
+                "label": "Unknown",
+                "url": "",
+                "value": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
         "id": "centuries",
         "label": "Temporal",
         "markers": [
@@ -2765,103 +2862,6 @@
                 "label": "アートコモンズ",
                 "url": "http://ac.nact.jp/",
                 "value": "アートコモンズ"
-            }
-        ]
-    },
-    {
-        "id": "colors",
-        "label": "Color",
-        "markers": [
-            {
-                "count": 914,
-                "h": 100,
-                "label": "Red",
-                "url": "",
-                "value": [
-                    "#f00",
-                    "#f0f"
-                ]
-            },
-            {
-                "count": 2255,
-                "h": 230,
-                "label": "Green",
-                "url": "",
-                "value": [
-                    "#0f0"
-                ]
-            },
-            {
-                "count": 3895,
-                "h": 390,
-                "label": "Blue",
-                "url": "",
-                "value": [
-                    "#00f"
-                ]
-            },
-            {
-                "count": 3100,
-                "h": 310,
-                "label": "Orange",
-                "url": "",
-                "value": [
-                    "#ffa500"
-                ]
-            },
-            {
-                "count": 3799,
-                "h": 380,
-                "label": "Yellow",
-                "url": "",
-                "value": [
-                    "#ff0"
-                ]
-            },
-            {
-                "count": 46264,
-                "h": 4630,
-                "label": "Brown",
-                "url": "",
-                "value": [
-                    "#e06f1f"
-                ]
-            },
-            {
-                "count": 41157,
-                "h": 4120,
-                "label": "Gray",
-                "url": "",
-                "value": [
-                    "#777777"
-                ]
-            },
-            {
-                "count": 156,
-                "h": 30,
-                "label": "White",
-                "url": "",
-                "value": [
-                    "#ffffff"
-                ]
-            },
-            {
-                "count": 12,
-                "h": 30,
-                "label": "Black",
-                "url": "",
-                "value": [
-                    "#000000"
-                ]
-            },
-            {
-                "count": 386554,
-                "h": 38660,
-                "label": "Unknown",
-                "url": "",
-                "value": [
-                    ""
-                ]
             }
         ]
     }
