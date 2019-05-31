@@ -4,8 +4,8 @@
         "label": "Color",
         "markers": [
             {
-                "count": 914,
-                "h": 100,
+                "count": 1133,
+                "h": 120,
                 "label": "Red",
                 "url": "",
                 "value": [
@@ -14,8 +14,8 @@
                 ]
             },
             {
-                "count": 2255,
-                "h": 230,
+                "count": 3249,
+                "h": 330,
                 "label": "Green",
                 "url": "",
                 "value": [
@@ -23,8 +23,8 @@
                 ]
             },
             {
-                "count": 3895,
-                "h": 390,
+                "count": 5224,
+                "h": 530,
                 "label": "Blue",
                 "url": "",
                 "value": [
@@ -32,8 +32,8 @@
                 ]
             },
             {
-                "count": 3100,
-                "h": 310,
+                "count": 4421,
+                "h": 450,
                 "label": "Orange",
                 "url": "",
                 "value": [
@@ -41,8 +41,8 @@
                 ]
             },
             {
-                "count": 3799,
-                "h": 380,
+                "count": 4731,
+                "h": 480,
                 "label": "Yellow",
                 "url": "",
                 "value": [
@@ -50,8 +50,8 @@
                 ]
             },
             {
-                "count": 46264,
-                "h": 4630,
+                "count": 67182,
+                "h": 6720,
                 "label": "Brown",
                 "url": "",
                 "value": [
@@ -59,8 +59,8 @@
                 ]
             },
             {
-                "count": 41157,
-                "h": 4120,
+                "count": 62539,
+                "h": 6260,
                 "label": "Gray",
                 "url": "",
                 "value": [
@@ -68,7 +68,7 @@
                 ]
             },
             {
-                "count": 156,
+                "count": 162,
                 "h": 30,
                 "label": "White",
                 "url": "",
@@ -77,7 +77,7 @@
                 ]
             },
             {
-                "count": 12,
+                "count": 10,
                 "h": 30,
                 "label": "Black",
                 "url": "",
@@ -86,8 +86,8 @@
                 ]
             },
             {
-                "count": 386554,
-                "h": 38660,
+                "count": 339455,
+                "h": 33950,
                 "label": "Unknown",
                 "url": "",
                 "value": [

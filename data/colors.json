@@ -1,6 +1,6 @@
 [
     {
-        "count": 914,
+        "count": 1133,
         "index": 0,
         "label": "Red",
         "value": [
@@ -9,7 +9,7 @@
         ]
     },
     {
-        "count": 2255,
+        "count": 3249,
         "index": 1,
         "label": "Green",
         "value": [
@@ -17,7 +17,7 @@
         ]
     },
     {
-        "count": 3895,
+        "count": 5224,
         "index": 2,
         "label": "Blue",
         "value": [
@@ -25,7 +25,7 @@
         ]
     },
     {
-        "count": 3100,
+        "count": 4421,
         "index": 3,
         "label": "Orange",
         "value": [
@@ -33,7 +33,7 @@
         ]
     },
     {
-        "count": 3799,
+        "count": 4731,
         "index": 4,
         "label": "Yellow",
         "value": [
@@ -41,7 +41,7 @@
         ]
     },
     {
-        "count": 46264,
+        "count": 67182,
         "index": 5,
         "label": "Brown",
         "value": [
@@ -49,7 +49,7 @@
         ]
     },
     {
-        "count": 41157,
+        "count": 62539,
         "index": 6,
         "label": "Gray",
         "value": [
@@ -57,7 +57,7 @@
         ]
     },
     {
-        "count": 156,
+        "count": 162,
         "index": 7,
         "label": "White",
         "value": [
@@ -65,7 +65,7 @@
         ]
     },
     {
-        "count": 12,
+        "count": 10,
         "index": 8,
         "label": "Black",
         "value": [
@@ -73,7 +73,7 @@
         ]
     },
     {
-        "count": 386554,
+        "count": 339455,
         "index": 9,
         "label": "Unknown",
         "value": [

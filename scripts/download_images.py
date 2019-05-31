@@ -68,7 +68,7 @@ for i in range(len(data)):
 
     # save file if not found or overwrite is set to True
     if overwriteExisting or not os.path.isfile(fileName) or not isValidImage(fileName):
-        # time.sleep(1.0)  # sleep(秒指定)
+        time.sleep(0.001)  # sleep(秒指定)
         try:
             urllib.request.urlretrieve(imageURL, fileName)
         except:
